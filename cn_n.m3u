@@ -17,8 +17,8 @@ https://epg.pw/stream/0eac2bb1c60dba21c4ae9382ac72ef178f949ff7fd2eac315979568177
 https://epg.pw/stream/df039bb30b077870834b618b5e1977482db049d1309cdec5dae7a5b143bbad2c.m3u8
 #EXTINF:-1 tvg-name="CCTV風雲足球" tvg-id="" tvg-country="中國大陸中央台" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/10/large/20220510165533742367_97.jpg" group-title="運動",[BD]cctv风云足球[ipv6]
 https://epg.pw/stream/122835fa915406615737ceb261f638f27e4101526191b85c281580274a185862.m3u8
-#EXTINF:-1 tvg-name="CCTV風雲音樂" tvg-id="" tvg-country="中國大陸中央台" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/12/large/20220512145757792204_59.jpg" group-title="綜藝",[BD]cctv风云音乐[ipv6]
-https://epg.pw/stream/c5cdf98a2ec7cc0b65f33cdf0f06ab09297ea13408e63416e671eb3e8ae1ae9f.m3u8
+#EXTINF:-1 tvg-name="CCTV風雲音樂" tvg-id="" tvg-country="中國大陸中央台" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/12/large/20220512145757792204_59.jpg" group-title="綜藝",[BD]cctv风云音乐
+https://epg.pw/stream/f2a250baee1a3686b366ffce49911bbb18ce84c37a8fc56b280eafc1a0d00e12.m3u8
 #EXTINF:-1 tvg-name="CCTV高爾夫網球" tvg-id="" tvg-country="中國大陸中央台" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719080954593981_50.png" group-title="運動",[BD]cctv高尔夫网球
 https://epg.pw/stream/a459efd631c3b57f1b99284c34beeb6e7e0f4d3dc2e09e585fa3c3326b5e1169.m3u8
 #EXTINF:-1 tvg-name="發現之旅" tvg-id="14002" tvg-country="中國大陸中央台" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719110749477430_53.jpg" group-title="其它",[SD]发现之旅
@@ -27,5 +27,3 @@ https://epg.pw/stream/7cc7f757127592992b21f9768ff45940344d7049190add19359f61a05b
 https://epg.pw/stream/f3d493eab7bcf74dd8c8c6b098009246409f2c23b95d46466bcb488918605573.m3u8
 #EXTINF:-1 tvg-name="風雲足球" tvg-id="14216" tvg-country="中國大陸中央台" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719111607540349_62.jpg" group-title="運動",[BD]风云足球[ipv6]
 https://epg.pw/stream/20c329c5ad4872f9416783144b091c3943c94538393e0fc5f60bc551a06dd372.m3u8
-#EXTINF:-1 tvg-name="高爾夫網球" tvg-id="13986" tvg-country="中國大陸中央台" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719111717827886_20.jpg" group-title="運動",[BD]高尔夫网球[ipv6]
-https://epg.pw/stream/7d237fe94a86f6d01862aa57ac2436a9a64b921bc220468be1a4c9d958e3ff3f.m3u8
