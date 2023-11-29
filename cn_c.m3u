@@ -113,8 +113,8 @@ https://epg.pw/stream/2fc35c833b23774263a95e84dac67fd36e5f21101d7e3fcb72318ef7a1
 https://epg.pw/stream/ca8f57fc39d536dd721699325e3fc7ac9ca96fbe65f453531c01227f830b12cb.m3u8
 #EXTINF:-1 tvg-name="哈尔滨生活" tvg-id="" tvg-country="中國大陸地方台" tvg-language="國語" tvg-logo="https://epg.pw/media/img/logo/2_46.jpg" group-title="其它",[VGA]哈尔滨生活
 https://epg.pw/stream/71746238db63ed6951b3f0a4cbc42467d1a7b32c1925b4854de68ed71d678c98.m3u8
-#EXTINF:-1 tvg-name="四海钓鱼" tvg-id="14016" tvg-country="中國大陸地方台" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2016/05/06/large/20160506230323935763_56.jpg" group-title="運動",[SD]四海钓鱼
-https://epg.pw/stream/7d161663838b2495873194d891e2381ab14bad6c6d4bdf3921e53f6a3de1c7e5.ctv
+#EXTINF:-1 tvg-name="四海钓鱼" tvg-id="14016" tvg-country="中國大陸地方台" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2016/05/06/large/20160506230323935763_56.jpg" group-title="運動",[HD]四海钓鱼
+https://epg.pw/stream/5161f2373870149e9c94a6565a92c41634746cfa80c75a70175fae8357de3112.m3u8
 #EXTINF:-1 tvg-name="大灣區衛視" tvg-id="" tvg-country="中國大陸地方台" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721150101553667_62.png" group-title="綜合",[BD]大湾区卫视
 https://epg.pw/stream/0b369442033524237d3fe856d8e71f5b18cb1be14e29ffdbaf45fc7f5802e165.m3u8
 #EXTINF:-1 tvg-name="天元圍棋" tvg-id="13995" tvg-country="中國大陸地方台" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/07/large/20220507222323105306_69.jpg" group-title="其它",[BD]天元围棋
@@ -217,8 +217,8 @@ https://epg.pw/stream/b5e5c2bf78a8bed49158096472f899ffe30bc2a0ca4ac0471778b11730
 https://epg.pw/stream/880a2bb7bf41b7f45476308ed20dc76c4f902257fdbbcd0230215e4ad23bfca1.m3u8
 #EXTINF:-1 tvg-name="武漢經濟" tvg-id="14200" tvg-country="中國大陸地方台" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530223218382697_19.jpg" group-title="新聞",[HD]武汉经济 (360p)
 https://epg.pw/stream/60692e28a9cf28d4d2bc7f266c2bca9418f30b3ffdc15f5f702871690d35acfa.m3u8
-#EXTINF:-1 tvg-name="武漢電視劇" tvg-id="14198" tvg-country="中國大陸地方台" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531142852941384_64.jpg" group-title="電影",[BD]武汉电视
-https://epg.pw/stream/c41fb1d43e175e2adc46648f31235388ebaaa0119340a3cbce5081948c0401ee.ctv
+#EXTINF:-1 tvg-name="武漢電視劇" tvg-id="14198" tvg-country="中國大陸地方台" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531142852941384_64.jpg" group-title="電影",[SD]河北|武汉电视剧
+https://epg.pw/stream/456f2251ba309946a1b4954299fa7941150642941c69ef7224f888c4803834df.m3u8
 #EXTINF:-1 tvg-name="武術世界" tvg-id="14001" tvg-country="中國大陸地方台" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/07/large/20220507223140901583_66.jpg" group-title="其它",[BD]武术世界
 https://epg.pw/stream/3b602b9a463136db096066c04bdfbac7f6bad519f824fdda60b2028c8d277950.m3u8
 #EXTINF:-1 tvg-name="江苏|苏州文化生活" tvg-id="" tvg-country="中國大陸地方台" tvg-language="國語" tvg-logo="https://epg.pw/media/img/logo/3_311.jpg" group-title="其它",[BD]江苏|苏州文化生活
