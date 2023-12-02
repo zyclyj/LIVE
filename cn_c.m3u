@@ -315,6 +315,8 @@ https://epg.pw/stream/56eb02707eb276bcf6a207859256e48ffb2e9e03fab764bcce746f4bf6
 https://epg.pw/stream/84912503b4af5aa9f3f6b547a7aa14c09d663388153fa9e96a4eb77f889a193c.m3u8
 #EXTINF:-1 tvg-name="福建|福州新闻" tvg-id="" tvg-country="中國大陸地方台" tvg-language="國語" tvg-logo="https://epg.pw/media/img/logo/3_419.jpg" group-title="新聞",[BD]福建|福州新闻
 https://epg.pw/stream/883dc9046ef860d402f67f3a897969d725700d25b8595635377877a9dbc86dab.m3u8
+#EXTINF:-1 tvg-name="福建公共" tvg-id="" tvg-country="中國大陸地方台" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531231232221140_16.jpg" group-title="綜合",[BD]福建公共
+https://epg.pw/stream/0501c350d1f916503cf3d09a768aeed9fa267fe66db776242f37cd882602605f.m3u8
 #EXTINF:-1 tvg-name="福建少兒" tvg-id="" tvg-country="中國大陸地方台" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530233253076586_13.jpg" group-title="動畫",[BD]福建少儿
 https://epg.pw/stream/08f86e8b78619dbae76929a5f7e3aecc4c784a0542bc747dd822a138e679e28c.m3u8
 #EXTINF:-1 tvg-name="福建新聞" tvg-id="" tvg-country="中國大陸地方台" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530233503707568_19.jpg" group-title="新聞",[BD]福建新闻
