@@ -47,8 +47,8 @@ https://epg.pw/stream/085a38ada3bf036f74dc58987291160253095044bdff40a127b5578345
 https://epg.pw/stream/029e955b34c740d195366fd33dcebdce79b63fabb52d2c6ed911106d93759f86.m3u8
 #EXTINF:-1 tvg-name="cctv-11戏曲" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2021/11/24/large/20211124001035147790_28.png" group-title="電影",[SD]cctv-11戏曲
 https://epg.pw/stream/b7ef5c529b15446a2c8ce45c8f7aa56adcdf83cca42dd7c680952f4fbd52a163.m3u8
-#EXTINF:-1 tvg-name="cctv央视文化精品" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/12/large/20220512145328522084_50.jpg" group-title="綜合",[BD]cctv央视文化精品
-https://epg.pw/stream/fc9e6464703a5fbef5971a902e635852dcad1a16b136419996d6898fce1e575a.m3u8
+#EXTINF:-1 tvg-name="cctv央视文化精品" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/12/large/20220512145328522084_50.jpg" group-title="綜合",[BD]cctv央视文化精品[ipv6]
+https://epg.pw/stream/327444100046797b564ba98901d93685ddbcf69d79897d7b502015cd6eb94c20.m3u8
 #EXTINF:-1 tvg-name="celestial classic movie" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/02265b36c6f6577f93879d5bd87123ee.jpg" group-title="電影",[VGA]celestial classic movie
 https://epg.pw/stream/a99d94cf909403d7fb9d745cdebc3dd3fa9137da7e6feeb00d3456feafacd3b9.m3u8
 #EXTINF:-1 tvg-name="cetv1" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="其它",[BD]cetv1[ipv6]
