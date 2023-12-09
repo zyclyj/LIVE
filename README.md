@@ -16,7 +16,7 @@ Sources are from:
 | China Country | <https://m3u.ibert.me/cn_c.m3u> | 382 |
 | China Province | <https://m3u.ibert.me/cn_p.m3u> | 72 |
 | All | <https://m3u.ibert.me/all.m3u> | 3624 |
-| iptv.org All | <https://m3u.ibert.me/org_all.m3u> | 7980 |
-| iptv.org China | <https://m3u.ibert.me/org_cn.m3u> | 86 |
+| iptv.org All | <https://m3u.ibert.me/o_all.m3u> | 7980 |
+| iptv.org China | <https://m3u.ibert.me/o_cn.m3u> | 86 |
 
 See <https://m3u.ibert.me> to get more.
