@@ -125,8 +125,6 @@ https://epg.pw/stream/06a492e343a224360fbbc17307f7c052f091bb27a18cb550c6880cab6c
 https://epg.pw/stream/fbbbc97be37a946dd11f981eddddbaccc3953fa6303541e4485b98a7cdb7783f.m3u8
 #EXTINF:-1 tvg-name="吉林生活" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530224423300523_72.jpg" group-title="其它",[VGA]吉林生活
 https://epg.pw/stream/98ab12564b7b628ceb5baa1b37c2b587f3de86e80797d33735883164436a5bc3.m3u8
-#EXTINF:-1 tvg-name="吉林衛視" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530224224814638_67.jpg" group-title="綜合",[VGA]吉林衛視
-https://epg.pw/stream/22f49f6cc5d4507fe7561272a5f67015ea4dd951b3c9af54ba41ed11413314ac.m3u8
 #EXTINF:-1 tvg-name="吉林都市" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530224514254653_86.jpg" group-title="綜合",[VGA]吉林都市
 https://epg.pw/stream/32692f852b36198fd146650046232b8ac486b39d07d76f3310a8ffb339124da7.m3u8
 #EXTINF:-1 tvg-name="名侦探柯南" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2018/09/11/20180911125535604697_64.jpg" group-title="動畫",[VGA]名侦探柯南
@@ -286,7 +284,7 @@ https://epg.pw/stream/064305a3cdc68ddc61ba34596d4719f2648a93796989bf659a6961c393
 #EXTINF:-1 tvg-name="精彩电视剧" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152120908495_23.png" group-title="電影",[BD]精彩电视剧
 https://epg.pw/stream/f259fe08835df675114b62ca11aa2eef062df174ad88341d825823166beb4558.m3u8
 #EXTINF:-1 tvg-name="純享4k" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2021/10/02/large/20211002142535002278_70.png" group-title="電影",[BD]純享4k[ipv6]
-https://epg.pw/stream/3d415736bf3fe85fba684c3e39d70ede54a2cf8fbb3403da2397a1c6b53b6705.m3u8
+https://epg.pw/stream/6c8d76f2b98de6934fa07b46c9da8e06fe83a1a1c4301ab3af13c547d419acfb.m3u8
 #EXTINF:-1 tvg-name="纯享4k" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2021/10/02/large/20211002142535002278_70.png" group-title="電影",[BD]纯享4k[ipv6]
 https://epg.pw/stream/2cdf81ef11aac50068bac9c269fc115bc526a2040ecdea4f4cc6227daae38e12.m3u8
 #EXTINF:-1 tvg-name="绍兴公共频道" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/11/01/large/20221101015600126561_54.jpg" group-title="綜合",[HD]绍兴公共频道
