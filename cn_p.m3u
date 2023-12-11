@@ -21,14 +21,14 @@ https://epg.pw/stream/323e6ce17313134e899100bd11b4029fdc609e7539e22465f60470841b
 https://epg.pw/stream/79202aa439fc4fb94a8304f8608737f7cff1626f2b42aa6d5552ecfc2bcacbaf.m3u8
 #EXTINF:-1 tvg-name="廣西衛視" tvg-id="13884" tvg-country="中國大陸省台" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719121035248314_98.jpg" group-title="綜合",[BD]广西卫视
 https://epg.pw/stream/3899ee96bfc51a8e53baa9d48c86b9b9a52907112fffcb33e94df2c05cc02d3c.m3u8
-#EXTINF:-1 tvg-name="新疆衛視" tvg-id="13898" tvg-country="中國大陸省台" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531160954230977_59.jpg" group-title="綜合",[VGA]新疆卫视
+#EXTINF:-1 tvg-name="新疆衛視" tvg-id="13898" tvg-country="中國大陸省台" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531160954230977_59.jpg" group-title="綜合",[SD]新疆卫视
 https://epg.pw/stream/369d82e2913254f5a712ca6bcb0931176462d5a46be06f9771cdcf93f7f35cdb.m3u8
 #EXTINF:-1 tvg-name="旅遊衛視" tvg-id="13878" tvg-country="中國大陸省台" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719063458082916_52.jpg" group-title="綜合",[SD]旅游卫视
 https://epg.pw/stream/2b5fa28ebe09f182553d1ac10a65433c641f5c09e4595f094694a03d0e378566.ctv
 #EXTINF:-1 tvg-name="東南衛視" tvg-id="13882" tvg-country="中國大陸省台" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530230913448467_39.jpg" group-title="綜合",[BD]东南卫视[ipv6]
 https://epg.pw/stream/d3a633f9603e282ecb78c53b3220a5cc6d4ae302a789711407a0794bc0c79c00.m3u8
-#EXTINF:-1 tvg-name="東方衛視" tvg-id="13872" tvg-country="中國大陸省台" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/06/05/large/20230605010227137581_33.jpg" group-title="綜合",[BD]东方卫视
-https://epg.pw/stream/636d16f50c8d96b05c6c11994cc91e361e669419cee31b183d4568b76f288d08.ctv
+#EXTINF:-1 tvg-name="東方衛視" tvg-id="13872" tvg-country="中國大陸省台" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/06/05/large/20230605010227137581_33.jpg" group-title="綜合",[BD]东方卫视[ipv6]
+https://epg.pw/stream/96fb4677915219a69c151563855a231f0b7d6e7392e403e66e40af920843cb68.m3u8
 #EXTINF:-1 tvg-name="江蘇衛視" tvg-id="13870" tvg-country="中國大陸省台" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530225651709500_84.jpg" group-title="綜合",[BD]江苏卫视[ipv6]
 https://epg.pw/stream/e61d0b2ff70a89a4a13d126f4fa6bba8faaaf145a78470643dad104f2b23c889.m3u8
 #EXTINF:-1 tvg-name="江西衛視" tvg-id="13891" tvg-country="中國大陸省台" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531144408646863_42.jpg" group-title="綜合",[BD]江西卫视[ipv6]
@@ -54,7 +54,7 @@ https://epg.pw/stream/35f58b83aa3042ef296e79ec8594efae9f0358269693dc7d6259e4da9c
 #EXTINF:-1 tvg-name="烟台新闻综合" tvg-id="" tvg-country="中國大陸省台" tvg-language="國語" tvg-logo="https://epg.pw/media/img/logo/3_369.jpg" group-title="其它",[HD]烟台新闻综合
 https://epg.pw/stream/4fbcd538c44b23d63f3c88bba1e939cee177a31f2e33c6501753192885716b62.m3u8
 #EXTINF:-1 tvg-name="甘肅衛視" tvg-id="13883" tvg-country="中國大陸省台" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531224357857126_28.jpg" group-title="綜合",[BD]甘肃卫视[ipv6]
-https://epg.pw/stream/17a47f78e88982a78b06a0f0402a97568f3fb4ef1bac9fa36a1fa82ada29639e.m3u8
+https://epg.pw/stream/05ccbebe8d81cf91ecf4347845f6f0b42fed4bab4071195b0a4f735a80c386bd.m3u8
 #EXTINF:-1 tvg-name="西藏衛視" tvg-id="13909" tvg-country="中國大陸省台" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531231110733151_44.jpg" group-title="綜合",[SD]西藏卫视
 https://epg.pw/stream/cfce8c7266926f66e4c9f1e47e1838772aba6fe9fc594f2b19456351b1f91126.m3u8
 #EXTINF:-1 tvg-name="貴州衛視" tvg-id="13885" tvg-country="中國大陸省台" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531144236171971_20.jpg" group-title="綜合",[BD]贵州卫视[ipv6]
@@ -69,5 +69,5 @@ https://epg.pw/stream/b112c2621ba53dd3ef6c71d7014c9ff169d2dda3727b4e944ce6d328bd
 https://epg.pw/stream/fefd2762b3e30335504c696c779bd5ca686d439751cbc3515ee094f39825fdc1.m3u8
 #EXTINF:-1 tvg-name="青海衛視" tvg-id="13900" tvg-country="中國大陸省台" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531153842547224_70.jpg" group-title="綜合",[SD]青海卫视[ipv6]
 https://epg.pw/stream/baf5e50a17f574f86c96810d5d2eebbbc3570ca5f5a35d953837040845c89726.m3u8
-#EXTINF:-1 tvg-name="黑龍江衛視" tvg-id="13887" tvg-country="中國大陸省台" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531154335673922_21.jpg" group-title="綜合",[BD]黑龙江卫视
-https://epg.pw/stream/9ca1248cb879f1f8a1dad0dc59e7faa5129551175ade0b4a2bd2b503bcdd37c7.m3u8
+#EXTINF:-1 tvg-name="黑龍江衛視" tvg-id="13887" tvg-country="中國大陸省台" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531154335673922_21.jpg" group-title="綜合",[BD]黑龙江卫视[ipv6]
+https://epg.pw/stream/bba30e5caaeffff57cecd7e3145d77937bb135028de2be19ffe2f644858124ca.m3u8
