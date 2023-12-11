@@ -2,7 +2,7 @@
 
 Autoupdate iptv sources
 
-Join discord: [![Discord](https://dcbadge.vercel.app/api/server/betxHcsTqa)](https://discord.gg/betxHcsTqa)
+Join discord: [![Discord](https://discord.badge.ibert.me/api/server/betxHcsTqa)](https://discord.gg/betxHcsTqa)
 
 Sources are from:
 
@@ -19,6 +19,6 @@ Sources are from:
 | iptv.org All | <https://m3u.ibert.me/o_all.m3u> | 12036 |
 | iptv.org China | <https://m3u.ibert.me/o_cn.m3u> | 86 |
 
-Updated at **Mon Dec 11 2023 06:19:07 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Dec 11 2023 08:05:17 GMT+0000 (Coordinated Universal Time)**
 
 See <https://m3u.ibert.me> to get more.
