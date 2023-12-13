@@ -1,5 +1,7 @@
 # List for **China**
 
+> <https://m3u.ibert.me/cn.m3u>
+
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
 | 1 | [BD]cctv1[ipv6] | [[BD]cctv1[ipv6]](https://epg.pw/stream/3415b8e289adbdbd4835bbdcd1a9396edbadfb65f276fcece6542d6a44a6605c.m3u8) |
@@ -178,4 +180,4 @@
 | 174 | [SD]黑龙江公共农业 | [[SD]黑龙江公共农业](https://epg.pw/stream/d4bc9942241f1c893fad50ece90abfce425419abf78dc318325058f860b1df11.m3u8) |
 | 175 | [BD]黑龙江卫视 8m | [[BD]黑龙江卫视 8m](https://epg.pw/stream/53cf5f9b0b328e1c40de1fc5d4aac8926a4772f9beeddad01f8a3350be87e5f1.ctv) |
 
-Updated at **Wed Dec 13 2023 04:32:19 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Dec 13 2023 04:39:42 GMT+0000 (Coordinated Universal Time)**

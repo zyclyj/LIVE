@@ -1,5 +1,7 @@
 # List for **China Country**
 
+> <https://m3u.ibert.me/cn_c.m3u>
+
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
 | 1 | [BD]chc动作电影[ipv6] | [[BD]chc动作电影[ipv6]](https://epg.pw/stream/a9e49885cb3e631c34781283c45119db7bc5431c547d78b748880c9f3952fc04.m3u8) |
@@ -189,4 +191,4 @@
 | 185 | [VGA]黑龙江新闻 | [[VGA]黑龙江新闻](https://epg.pw/stream/6fe0461d8f101b8f9da77bb21785e3224610d31b800c0bd5c86f9abdd8ab380f.m3u8) |
 | 186 | [HD]点掌财经 | [[HD]点掌财经](https://epg.pw/stream/96bec7b1f9d22ac90697af55775bf2328443600cdc5ac81952ca681c136f86f7.m3u8) |
 
-Updated at **Wed Dec 13 2023 04:32:19 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Dec 13 2023 04:39:42 GMT+0000 (Coordinated Universal Time)**

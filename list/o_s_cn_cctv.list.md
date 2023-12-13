@@ -1,5 +1,7 @@
 # List for **iptv.org stream China CCTV**
 
+> <https://m3u.ibert.me/o_s_cn_cctv.m3u>
+
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
 | 1 | CCTV+ 1 (600p) | [CCTV+ 1 (600p)](https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8) |
@@ -25,4 +27,4 @@
 | 21 | CCTV-16奥林匹克 | [CCTV-16奥林匹克](https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K) |
 | 22 | CCTV-17农业农村 (1080p) | [CCTV-17农业农村 (1080p)](http://183.196.25.171:808/hls/93/index.m3u8) |
 
-Updated at **Wed Dec 13 2023 04:32:19 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Dec 13 2023 04:39:42 GMT+0000 (Coordinated Universal Time)**

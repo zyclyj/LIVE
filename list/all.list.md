@@ -1,5 +1,7 @@
 # List for **All**
 
+> <https://m3u.ibert.me/all.m3u>
+
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
 | 1 | [BD]hmongusa tv | [[BD]hmongusa tv](https://epg.pw/stream/5effa9c47e2905097e172b4b68ad7b55f332ed497b7dade937d44da8eeb8e0f8.m3u8) |
@@ -1804,4 +1806,4 @@
 | 1800 | [HD]龙华经典 | [[HD]龙华经典](https://epg.pw/stream/e60d17a16b3cf3b6b69fedb6d2673f2589483ec00d66ed589caf489e09d2999b.m3u8) |
 | 1801 | [BD]국악방송 | [[BD]국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 
-Updated at **Wed Dec 13 2023 04:32:19 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Dec 13 2023 04:39:42 GMT+0000 (Coordinated Universal Time)**

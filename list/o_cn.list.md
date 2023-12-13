@@ -1,5 +1,7 @@
 # List for **iptv.org China**
 
+> <https://m3u.ibert.me/o_cn.m3u>
+
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
 | 1 | ABN China (720p) | [ABN China (720p)](https://rtmp2.abnvideos.com/hls/abnchina.m3u8) |
@@ -46,4 +48,4 @@
 | 42 | CETV1 (576p) | [CETV1 (576p)](http://183.207.248.71/gitv/live1/G_CETV-1/G_CETV-1) |
 | 43 | CETV2 (576p) | [CETV2 (576p)](http://183.207.248.71/gitv/live1/G_CETV-2/G_CETV-2) |
 
-Updated at **Wed Dec 13 2023 04:32:19 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Dec 13 2023 04:39:42 GMT+0000 (Coordinated Universal Time)**
