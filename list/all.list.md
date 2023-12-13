@@ -83,7 +83,7 @@
 | 77 | [HD]Astro欢喜台 | [[HD]Astro欢喜台](https://epg.pw/stream/1f8577ddcdc0ab42930946a01f409e6c03c75c8c0639ec84a77dd85f7bd3c384.ctv) |
 | 78 | [BD]al quran | [[BD]al quran](https://epg.pw/stream/ee520004e36040c3d9c2d7f635ddd931f9c6ab949c55ea78dcc202b3d643738d.ctv) |
 | 79 | [SD]B4U MUSIC | [[SD]B4U MUSIC](https://epg.pw/stream/abcb9c7695938bc2c4fdb95a704af55485dd7034f4aa7acd4626d94061d2be6f.ctv) |
-| 80 | [SD]B4U PLUS | [[SD]B4U PLUS](https://epg.pw/stream/e5d95f9cae576bdfe2749ffac3ce7395c6e733a4257e22fcaa33fe12e80dda9e.ctv) |
+| 80 | [SD]B4U PLUS | [[SD]B4U PLUS](https://epg.pw/stream/6517641e82f7aa00faf8a180d6f8ec206d239278f06e52524594feb0ba8bd047.ctv) |
 | 81 | [HD]BABY TV | [[HD]BABY TV](https://epg.pw/stream/f2d10d414f2f93871e5988539723d7dac9be26d8e6247c7392cb401238f34ec4.ctv) |
 | 82 | [HD]BBC 2 | [[HD]BBC 2](https://epg.pw/stream/6acece507e9766d1872fd57f3415cd3eae067dc3ea7dd5d6000de63a5c0b2013.ctv) |
 | 83 | [SD]BBC 3 | [[SD]BBC 3](https://epg.pw/stream/0a13df3de859c9af6d25c2179734e4d3b41db6059c1fc2d4180667a004ccd0ef.ctv) |
@@ -228,7 +228,7 @@
 | 222 | [BD]franceinfo | [[BD]franceinfo](https://epg.pw/stream/ee0a88941eeb1c2d4948853e62658b0dc36d51f6d8d7cfb52ed09c6c1ecf4940.m3u8) |
 | 223 | [SD]gaora sports | [[SD]gaora sports](https://epg.pw/stream/60692083b20d3cc8b165b87ae01d3cc32a5736ed0a6e9789b8bc863a34cd4841.m3u8) |
 | 224 | [BD]cgntv japan | [[BD]cgntv japan](https://epg.pw/stream/39c387b5a1bb11fc1950a4fd6b0a1e1ff46e319b8c162426132d69768a059af1.m3u8) |
-| 225 | [HD]GALAXY | [[HD]GALAXY](https://epg.pw/stream/41b80ac2b6c563e2bd0655819630c22b833189b04955a235ebb7e3a4f900bb38.ctv) |
+| 225 | [HD]GALAXY | [[HD]GALAXY](https://epg.pw/stream/196f66d7001e1cb8119243c590938d84cd07783ae3ab164a4ced983d8a39c632.ctv) |
 | 226 | [HD]GALAXY PREMIUM | [[HD]GALAXY PREMIUM](https://epg.pw/stream/5fd19cf339b70baf1191e00a4c783529b61f0aec308683d20a079cfb678245ac.ctv) |
 | 227 | [HD]越南 gia lai tv | [[HD]越南 gia lai tv](https://epg.pw/stream/d47a4dd9ff769e936f4857287c1ea0f3f5007cdb5aea7be03fedfba11c10cc40.m3u8) |
 | 228 | [SD]gulli | [[SD]gulli](https://epg.pw/stream/4ef73b8311b85f3bb99d77504e48d27a6484dc8aae192c20a8157411616147aa.m3u8) |
@@ -1808,4 +1808,4 @@
 | 1802 | [HD]龙华经典 | [[HD]龙华经典](https://epg.pw/stream/e60d17a16b3cf3b6b69fedb6d2673f2589483ec00d66ed589caf489e09d2999b.m3u8) |
 | 1803 | [BD]국악방송 | [[BD]국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 
-Updated at **Wed Dec 13 2023 15:15:31 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Dec 13 2023 18:16:31 GMT+0000 (Coordinated Universal Time)**
