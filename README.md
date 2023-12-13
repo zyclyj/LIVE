@@ -18,7 +18,11 @@ Sources are from:
 | All | <https://m3u.ibert.me/all.m3u> | 3602 |
 | iptv.org All | <https://m3u.ibert.me/o_all.m3u> | 10228 |
 | iptv.org China | <https://m3u.ibert.me/o_cn.m3u> | 86 |
+| iptv.org stream China | <https://m3u.ibert.me/o_s_cn.m3u> | 982 |
+| iptv.org stream China 112114 | <https://m3u.ibert.me/o_s_cn_112114.m3u> | 36 |
+| iptv.org stream China CCTV | <https://m3u.ibert.me/o_s_cn_cctv.m3u> | 44 |
+| iptv.org stream China CGTN | <https://m3u.ibert.me/o_s_cn_cgtn.m3u> | 12 |
 
-Updated at **Wed Dec 13 2023 01:04:13 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Dec 13 2023 02:41:09 GMT+0000 (Coordinated Universal Time)**
 
 See <https://m3u.ibert.me> to get more.
