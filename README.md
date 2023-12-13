@@ -23,6 +23,6 @@ Sources are from:
 | iptv.org stream China CCTV | <https://m3u.ibert.me/o_s_cn_cctv.m3u> | [List for iptv.org stream China CCTV](https://m3u.ibert.me/list/o_s_cn_cctv.list) | 22 |
 | iptv.org stream China CGTN | <https://m3u.ibert.me/o_s_cn_cgtn.m3u> | [List for iptv.org stream China CGTN](https://m3u.ibert.me/list/o_s_cn_cgtn.list) | 6 |
 
-Updated at **Wed Dec 13 2023 03:35:34 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Dec 13 2023 03:43:40 GMT+0000 (Coordinated Universal Time)**
 
 See <https://m3u.ibert.me> to get more.
