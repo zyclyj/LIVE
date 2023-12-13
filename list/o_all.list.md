@@ -5119,4 +5119,4 @@
 | 5113 | Хит HD | [Хит HD](http://moobl.ru/hls/Hit_hd.m3u8) |
 | 5114 | Առաջին ալիք (1080p) | [Առաջին ալիք (1080p)](https://amtv1.livestreamingcdn.com/am2abr/index.m3u8) |
 
-Updated at **Wed Dec 13 2023 06:18:43 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Dec 13 2023 09:14:21 GMT+0000 (Coordinated Universal Time)**
