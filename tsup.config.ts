@@ -1,8 +1,9 @@
 import { defineConfig } from "tsup"
 
 export const tsup = defineConfig({
-    entry: ["src/index.ts"],
+    entry: ["src/vercel.ts"],
     outDir: "dist",
     clean: true,
-    format: ["esm"],
+    format: ["cjs"],
+    target: "es6"
 })
