@@ -1,4 +1,4 @@
-# List for `iptv.org All`
+# List for **iptv.org All**
 
 | No.  | Channel Name |
 | --- | ------------ |
@@ -196,7 +196,7 @@
 | 192 | Alrabeaa TV (1080p) |
 | 193 | Alrabeaa Variety (1080p) |
 | 194 | Alrai TV (1080p) |
-| 195 | Alsacias TV (ATV | Canal 28) (720p) |
+| 195 | Alsacias TV (ATV  Canal 28) (720p) |
 | 196 | Alsat |
 | 197 | Alsumaria TV |
 | 198 | Amazing Discoveries TV (720p) |
@@ -1550,7 +1550,7 @@
 | 1546 | Hala London TV Movies (720p) |
 | 1547 | Hala London TV Series (720p) |
 | 1548 | Hala TV (1080p) [Not 24/7] |
-| 1549 | Hala | Presenter (288p) |
+| 1549 | Hala  Presenter (288p) |
 | 1550 | Halab Today TV (480p) [Not 24/7] |
 | 1551 | Halk TV (720p) |
 | 1552 | Halom TV (576p) |
@@ -4144,7 +4144,7 @@
 | 4140 | Temuco Television |
 | 4141 | TEN Canal 10 (720p) |
 | 4142 | TeN TV (720p) |
-| 4143 | Tendencias Prime (T31 | Ñuñoa) (1080p) [Not 24/7] |
+| 4143 | Tendencias Prime (T31  Ñuñoa) (1080p) [Not 24/7] |
 | 4144 | Tennis Channel |
 | 4145 | Terra |
 | 4146 | Terra HD |
@@ -5117,4 +5117,4 @@
 | 5113 | Хит HD |
 | 5114 | Առաջին ալիք (1080p) |
 
-Updated at **Wed Dec 13 2023 03:30:21 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Dec 13 2023 03:35:34 GMT+0000 (Coordinated Universal Time)**

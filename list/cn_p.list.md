@@ -1,4 +1,4 @@
-# List for `China Province`
+# List for **China Province**
 
 | No.  | Channel Name |
 | --- | ------------ |
@@ -39,4 +39,4 @@
 | 35 | [SD]青海卫视[ipv6] |
 | 36 | [BD]黑龙江卫视[ipv6] |
 
-Updated at **Wed Dec 13 2023 03:30:21 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Dec 13 2023 03:35:34 GMT+0000 (Coordinated Universal Time)**

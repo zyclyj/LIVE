@@ -1,4 +1,4 @@
-# List for `iptv.org stream China CCTV`
+# List for **iptv.org stream China CCTV**
 
 | No.  | Channel Name |
 | --- | ------------ |
@@ -25,4 +25,4 @@
 | 21 | CCTV-16奥林匹克 |
 | 22 | CCTV-17农业农村 (1080p) |
 
-Updated at **Wed Dec 13 2023 03:30:21 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Dec 13 2023 03:35:34 GMT+0000 (Coordinated Universal Time)**

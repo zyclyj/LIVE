@@ -1,4 +1,4 @@
-# List for `iptv.org stream China`
+# List for **iptv.org stream China**
 
 | No.  | Channel Name |
 | --- | ------------ |
@@ -494,4 +494,4 @@
 | 490 | 龙口生活 (576p) |
 | 491 | 龙岩综合 (540p) |
 
-Updated at **Wed Dec 13 2023 03:30:21 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Dec 13 2023 03:35:34 GMT+0000 (Coordinated Universal Time)**

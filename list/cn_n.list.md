@@ -1,4 +1,4 @@
-# List for `China National`
+# List for **China National**
 
 | No.  | Channel Name |
 | --- | ------------ |
@@ -13,4 +13,4 @@
 | 9 | [BD]石狮综合 |
 | 10 | [BD]风云足球[ipv6] |
 
-Updated at **Wed Dec 13 2023 03:30:21 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Dec 13 2023 03:35:34 GMT+0000 (Coordinated Universal Time)**

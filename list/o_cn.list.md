@@ -1,4 +1,4 @@
-# List for `iptv.org China`
+# List for **iptv.org China**
 
 | No.  | Channel Name |
 | --- | ------------ |
@@ -46,4 +46,4 @@
 | 42 | CETV1 (576p) |
 | 43 | CETV2 (576p) |
 
-Updated at **Wed Dec 13 2023 03:30:21 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Dec 13 2023 03:35:34 GMT+0000 (Coordinated Universal Time)**

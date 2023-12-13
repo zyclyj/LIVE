@@ -1,4 +1,4 @@
-# List for `iptv.org stream China CGTN`
+# List for **iptv.org stream China CGTN**
 
 | No.  | Channel Name |
 | --- | ------------ |
@@ -9,4 +9,4 @@
 | 5 | CGTN Français (576p) |
 | 6 | CGTN Русский (576p) |
 
-Updated at **Wed Dec 13 2023 03:30:21 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Dec 13 2023 03:35:34 GMT+0000 (Coordinated Universal Time)**
