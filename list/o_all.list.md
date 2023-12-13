@@ -905,11 +905,11 @@
 | 901 | CT-N Live Stream 2 (360p) [Not 24/7] | [CT-N Live Stream 2 (360p) [Not 24/7]](http://video.ct-n.com/live/web2stream/playlist.m3u8) |
 | 902 | CT-N TV Conneticut (720p) [Not 24/7] | [CT-N TV Conneticut (720p) [Not 24/7]](http://video.ct-n.com/live/ctnstream/playlist_DVR.m3u8) |
 | 903 | CTC (1080p) [Not 24/7] | [CTC (1080p) [Not 24/7]](https://ythls.armelin.one/channel/UCJqwSXVmnG6hZrIoqdpjRYQ.m3u8) |
-| 904 | CTi News (中天新聞台) | [CTi News (中天新聞台)](https://ythls.armelin.one/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8) |
-| 905 | CTi Variety (中天綜合台) (720p) | [CTi Variety (中天綜合台) (720p)](http://23.237.10.66:16372) |
+| 904 | CTi News (中天新闻台) | [CTi News (中天新闻台)](https://ythls.armelin.one/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8) |
+| 905 | CTi Variety (中天综合台) (720p) | [CTi Variety (中天综合台) (720p)](http://23.237.10.66:16372) |
 | 906 | CTN (404p) | [CTN (404p)](http://admin.ottdemo.rrsat.com:1935/ctntv/ctntv2/playlist.m3u8) |
 | 907 | CTNi (Christian Television Network International) (480p) [Not 24/7] | [CTNi (Christian Television Network International) (480p) [Not 24/7]](https://584097344c1f0.streamlock.net/48/smil:48.smil/playlist.m3u8) |
-| 908 | CTS News (華視新聞資訊) | [CTS News (華視新聞資訊)](http://seb.sason.top/sc/hsxw_fhd.m3u8) |
+| 908 | CTS News (华视新闻资讯) | [CTS News (华视新闻资讯)](http://seb.sason.top/sc/hsxw_fhd.m3u8) |
 | 909 | CTS기독교TV (720p) | [CTS기독교TV (720p)](https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8) |
 | 910 | CTV 9 (1080p) | [CTV 9 (1080p)](http://203.176.130.123:8989/live/ctv9hd.stream/playlist.m3u8) |
 | 911 | CTV (720p) | [CTV (720p)](https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8) |
@@ -920,8 +920,8 @@
 | 916 | CTVN AKD Plus (1080p) [Not 24/7] | [CTVN AKD Plus (1080p) [Not 24/7]](https://ythls.armelin.one/channel/UC1UOne4B9wIrMe0KMwe-7_g.m3u8) |
 | 917 | Cubavisión Internacional (480p) [Not 24/7] | [Cubavisión Internacional (480p) [Not 24/7]](http://190.122.96.187:8888/http/010) |
 | 918 | Da Vinci Russia (576p) | [Da Vinci Russia (576p)](https://tbs01-edge11.itdc.ge/davinci/index.m3u8) |
-| 919 | DaAi1 (大愛1) (720p) | [DaAi1 (大愛1) (720p)](https://pulltv1.wanfudaluye.com/live/tv1.m3u8) |
-| 920 | DaAi2 (大愛2) (720p) | [DaAi2 (大愛2) (720p)](https://pulltv2.wanfudaluye.com/live/tv2.m3u8) |
+| 919 | DaAi1 (大爱1) (720p) | [DaAi1 (大爱1) (720p)](https://pulltv1.wanfudaluye.com/live/tv1.m3u8) |
+| 920 | DaAi2 (大爱2) (720p) | [DaAi2 (大爱2) (720p)](https://pulltv2.wanfudaluye.com/live/tv2.m3u8) |
 | 921 | DAAI TV (720p) | [DAAI TV (720p)](https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/index.m3u8) |
 | 922 | Daawah TV (720p) [Not 24/7] | [Daawah TV (720p) [Not 24/7]](https://cdg8.edge.technocdn.com/daawahtv/live/playlist.m3u8) |
 | 923 | Dabanga TV (1080p) | [Dabanga TV (1080p)](https://cdn-cf.dabangasudan.org/hls/stream.m3u8) |
@@ -932,7 +932,7 @@
 | 928 | Dak Lak TV (1080p) | [Dak Lak TV (1080p)](https://live.drt.vn/drtlive/tv1live-transmux.m3u8) |
 | 929 | Dak Nong TV (1080p) | [Dak Nong TV (1080p)](https://16371213858134.vnns.net/daknong_abr/playlist.m3u8) |
 | 930 | Dakar TV International (576p) [Not 24/7] | [Dakar TV International (576p) [Not 24/7]](https://live3.acangroup.org:1929/acanabr/dtv.stream_all/acanabr/dtv.stream_HD/chunks.m3u8) |
-| 931 | Dali TV (大立電視台) (720p) | [Dali TV (大立電視台) (720p)](http://www.dalitv.com.tw:4568/live/dali/index.m3u8) |
+| 931 | Dali TV (大立电视台) (720p) | [Dali TV (大立电视台) (720p)](http://www.dalitv.com.tw:4568/live/dali/index.m3u8) |
 | 932 | Damac Persian (720p) | [Damac Persian (720p)](https://damac-tv.icdndhcp.com/hls/stream.m3u8) |
 | 933 | DAN TV (720p) [Not 24/7] | [DAN TV (720p) [Not 24/7]](http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8) |
 | 934 | Dance FM (720p) | [Dance FM (720p)](https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8) |
@@ -1151,8 +1151,8 @@
 | 1147 | earthTV (1080p) [Not 24/7] | [earthTV (1080p) [Not 24/7]](https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8) |
 | 1148 | EarthxTV (720p) | [EarthxTV (720p)](https://ov.ottera.tv/live/master.m3u8?channel=earth_et) |
 | 1149 | Eawaz TV (720p) [Not 24/7] | [Eawaz TV (720p) [Not 24/7]](https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8) |
-| 1150 | EBC Financial News (東森財經新聞台) (1080p) [Not 24/7] | [EBC Financial News (東森財經新聞台) (1080p) [Not 24/7]](http://seb.sason.top/sc/dscjxw_fhd.m3u8) |
-| 1151 | EBC News (東森新聞台) (1080p) [Not 24/7] | [EBC News (東森新聞台) (1080p) [Not 24/7]](http://seb.sason.top/sc/dsxw_fhd.m3u8) |
+| 1150 | EBC Financial News (东森财经新闻台) (1080p) [Not 24/7] | [EBC Financial News (东森财经新闻台) (1080p) [Not 24/7]](http://seb.sason.top/sc/dscjxw_fhd.m3u8) |
+| 1151 | EBC News (东森新闻台) (1080p) [Not 24/7] | [EBC News (东森新闻台) (1080p) [Not 24/7]](http://seb.sason.top/sc/dsxw_fhd.m3u8) |
 | 1152 | EBC YOYO (720p) | [EBC YOYO (720p)](https://ythls.armelin.one/channel/UCiWRSesvSYmY7YOyz0tv_zQ.m3u8) |
 | 1153 | Ebenezer TV (1080p) | [Ebenezer TV (1080p)](https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8) |
 | 1154 | EBS 1 (400p) [Not 24/7] | [EBS 1 (400p) [Not 24/7]](https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8) |
@@ -1210,7 +1210,7 @@
 | 1206 | Elshaddai Television Network (720p) | [Elshaddai Television Network (720p)](https://5d00db0e0fcd5.streamlock.net/7586/7586/playlist.m3u8) |
 | 1207 | Elsharq TV (1080p) [Not 24/7] | [Elsharq TV (1080p) [Not 24/7]](https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8) |
 | 1208 | Elsö Kerület TV (1080p) | [Elsö Kerület TV (1080p)](https://iptv01.eurocable.co.hu/EC-EGYKERTVHD/index.m3u8) |
-| 1209 | ELTA娛樂台 (測試) | [ELTA娛樂台 (測試)](https://sc2022.stream-link.org/tv2306.php?id=c09) |
+| 1209 | ELTA娱乐台 (测试) | [ELTA娱乐台 (测试)](https://sc2022.stream-link.org/tv2306.php?id=c09) |
 | 1210 | ElyTV (360p) | [ElyTV (360p)](https://stmv1.srvsite.com/ely/ely/playlist.m3u8) |
 | 1211 | Em TV (486p) | [Em TV (486p)](https://cdn.yayin.com.tr/TVEM/TVEM/playlist.m3u8) |
 | 1212 | Eman Channel (576p) | [Eman Channel (576p)](https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8) |
@@ -1427,35 +1427,35 @@
 | 1423 | Good Idea TV (720p) [Not 24/7] | [Good Idea TV (720p) [Not 24/7]](http://stream1.ai-net.net:1935/gtv1/_definst_/smil:gtv.smil/playlist.m3u8) |
 | 1424 | Good News Today (1080p) [Not 24/7] | [Good News Today (1080p) [Not 24/7]](https://ythls.armelin.one/channel/UCQC1wGbOOIoC23fRGxt4kbg.m3u8) |
 | 1425 | Good Shepherd TV (720p) | [Good Shepherd TV (720p)](http://162.250.201.58:8032/goodshepherd/web/index.fmp4.m3u8) |
-| 1426 | GOOD TV CH1 綜合台 (720p) [Not 24/7] | [GOOD TV CH1 綜合台 (720p) [Not 24/7]](https://live.streamingfast.net/osmflivech1.m3u8) |
+| 1426 | GOOD TV CH1 综合台 (720p) [Not 24/7] | [GOOD TV CH1 综合台 (720p) [Not 24/7]](https://live.streamingfast.net/osmflivech1.m3u8) |
 | 1427 | GOOD TV CH2 真理台 (720p) | [GOOD TV CH2 真理台 (720p)](https://live.streamingfast.net/osmflivech2.m3u8) |
 | 1428 | GOOD TV CH3 真情部落格 短版 (720p) | [GOOD TV CH3 真情部落格 短版 (720p)](https://live.streamingfast.net/osmflivech3.m3u8) |
-| 1429 | GOOD TV CH5 共享觀點 短版 (720p) [Not 24/7] | [GOOD TV CH5 共享觀點 短版 (720p) [Not 24/7]](https://live.streamingfast.net/osmflivech5.m3u8) |
-| 1430 | GOOD TV CH6 親近神 詩歌音樂 (720p) [Not 24/7] | [GOOD TV CH6 親近神 詩歌音樂 (720p) [Not 24/7]](https://live.streamingfast.net/osmflivech6.m3u8) |
-| 1431 | GOOD TV CH7 禱告大軍 信息 (720p) | [GOOD TV CH7 禱告大軍 信息 (720p)](https://live.streamingfast.net/osmflivech7.m3u8) |
-| 1432 | GOOD TV CH9 愛+好醫生 短版 (720p) | [GOOD TV CH9 愛+好醫生 短版 (720p)](https://live.streamingfast.net/osmflivech9.m3u8) |
-| 1433 | GOOD TV CH12 維他命施 (720p) | [GOOD TV CH12 維他命施 (720p)](https://live.streamingfast.net/osmflivech12.m3u8) |
+| 1429 | GOOD TV CH5 共享观点 短版 (720p) [Not 24/7] | [GOOD TV CH5 共享观点 短版 (720p) [Not 24/7]](https://live.streamingfast.net/osmflivech5.m3u8) |
+| 1430 | GOOD TV CH6 亲近神 诗歌音乐 (720p) [Not 24/7] | [GOOD TV CH6 亲近神 诗歌音乐 (720p) [Not 24/7]](https://live.streamingfast.net/osmflivech6.m3u8) |
+| 1431 | GOOD TV CH7 祷告大军 信息 (720p) | [GOOD TV CH7 祷告大军 信息 (720p)](https://live.streamingfast.net/osmflivech7.m3u8) |
+| 1432 | GOOD TV CH9 爱+好医生 短版 (720p) | [GOOD TV CH9 爱+好医生 短版 (720p)](https://live.streamingfast.net/osmflivech9.m3u8) |
+| 1433 | GOOD TV CH12 维他命施 (720p) | [GOOD TV CH12 维他命施 (720p)](https://live.streamingfast.net/osmflivech12.m3u8) |
 | 1434 | GOOD TV CH14 真情部落格 (720p) [Not 24/7] | [GOOD TV CH14 真情部落格 (720p) [Not 24/7]](https://live.streamingfast.net/osmflivech14.m3u8) |
 | 1435 | GOOD TV CH15 真情之夜 (720p) | [GOOD TV CH15 真情之夜 (720p)](https://live.streamingfast.net/osmflivech15.m3u8) |
-| 1436 | GOOD TV CH16 葉光明 (720p) [Not 24/7] | [GOOD TV CH16 葉光明 (720p) [Not 24/7]](https://live.streamingfast.net/osmflivech16.m3u8) |
-| 1437 | GOOD TV CH17 大衛鮑森 (720p) [Not 24/7] | [GOOD TV CH17 大衛鮑森 (720p) [Not 24/7]](https://live.streamingfast.net/osmflivech17.m3u8) |
-| 1438 | GOOD TV CH18 國際講員 (720p) [Not 24/7] | [GOOD TV CH18 國際講員 (720p) [Not 24/7]](https://live.streamingfast.net/osmflivech18.m3u8) |
-| 1439 | GOOD TV CH20 恩典時分 (720p) [Not 24/7] | [GOOD TV CH20 恩典時分 (720p) [Not 24/7]](https://live.streamingfast.net/osmflivech20.m3u8) |
-| 1440 | GOOD TV CH21 華語講員 (720p) [Not 24/7] | [GOOD TV CH21 華語講員 (720p) [Not 24/7]](https://live.streamingfast.net/osmflivech21.m3u8) |
-| 1441 | GOOD TV CH24 劉三講古 (720p) [Not 24/7] | [GOOD TV CH24 劉三講古 (720p) [Not 24/7]](https://live.streamingfast.net/osmflivech24.m3u8) |
-| 1442 | GOOD TV CH27 空中聖經學院 (720p) [Not 24/7] | [GOOD TV CH27 空中聖經學院 (720p) [Not 24/7]](https://live.streamingfast.net/osmflivech27.m3u8) |
-| 1443 | GOOD TV CH28 現代詩歌 (720p) [Not 24/7] | [GOOD TV CH28 現代詩歌 (720p) [Not 24/7]](https://live.streamingfast.net/osmflivech28.m3u8) |
-| 1444 | GOOD TV CH29 經典音樂河 (720p) [Not 24/7] | [GOOD TV CH29 經典音樂河 (720p) [Not 24/7]](https://live.streamingfast.net/osmflivech29.m3u8) |
+| 1436 | GOOD TV CH16 叶光明 (720p) [Not 24/7] | [GOOD TV CH16 叶光明 (720p) [Not 24/7]](https://live.streamingfast.net/osmflivech16.m3u8) |
+| 1437 | GOOD TV CH17 大卫鲍森 (720p) [Not 24/7] | [GOOD TV CH17 大卫鲍森 (720p) [Not 24/7]](https://live.streamingfast.net/osmflivech17.m3u8) |
+| 1438 | GOOD TV CH18 国际讲员 (720p) [Not 24/7] | [GOOD TV CH18 国际讲员 (720p) [Not 24/7]](https://live.streamingfast.net/osmflivech18.m3u8) |
+| 1439 | GOOD TV CH20 恩典时分 (720p) [Not 24/7] | [GOOD TV CH20 恩典时分 (720p) [Not 24/7]](https://live.streamingfast.net/osmflivech20.m3u8) |
+| 1440 | GOOD TV CH21 华语讲员 (720p) [Not 24/7] | [GOOD TV CH21 华语讲员 (720p) [Not 24/7]](https://live.streamingfast.net/osmflivech21.m3u8) |
+| 1441 | GOOD TV CH24 刘三讲古 (720p) [Not 24/7] | [GOOD TV CH24 刘三讲古 (720p) [Not 24/7]](https://live.streamingfast.net/osmflivech24.m3u8) |
+| 1442 | GOOD TV CH27 空中圣经学院 (720p) [Not 24/7] | [GOOD TV CH27 空中圣经学院 (720p) [Not 24/7]](https://live.streamingfast.net/osmflivech27.m3u8) |
+| 1443 | GOOD TV CH28 现代诗歌 (720p) [Not 24/7] | [GOOD TV CH28 现代诗歌 (720p) [Not 24/7]](https://live.streamingfast.net/osmflivech28.m3u8) |
+| 1444 | GOOD TV CH29 经典音乐河 (720p) [Not 24/7] | [GOOD TV CH29 经典音乐河 (720p) [Not 24/7]](https://live.streamingfast.net/osmflivech29.m3u8) |
 | 1445 | GOOD TV CH30 天堂敬拜 (720p) [Not 24/7] | [GOOD TV CH30 天堂敬拜 (720p) [Not 24/7]](https://live.streamingfast.net/osmflivech30.m3u8) |
-| 1446 | GOOD TV CH31 福音佈道音樂會 (720p) | [GOOD TV CH31 福音佈道音樂會 (720p)](https://live.streamingfast.net/osmflivech31.m3u8) |
-| 1447 | GOOD TV CH32 特會系列：禱告與轉化 (720p) [Not 24/7] | [GOOD TV CH32 特會系列：禱告與轉化 (720p) [Not 24/7]](https://live.streamingfast.net/osmflivech32.m3u8) |
-| 1448 | GOOD TV CH33 特會系列：研經培靈 (720p) | [GOOD TV CH33 特會系列：研經培靈 (720p)](https://live.streamingfast.net/osmflivech33.m3u8) |
-| 1449 | GOOD TV CH38 特會系列：青年特會 (720p) [Not 24/7] | [GOOD TV CH38 特會系列：青年特會 (720p) [Not 24/7]](https://live.streamingfast.net/osmflivech38.m3u8) |
-| 1450 | GOOD TV CH40 家庭8點檔轉轉發現愛 (720p) [Not 24/7] | [GOOD TV CH40 家庭8點檔轉轉發現愛 (720p) [Not 24/7]](https://live.streamingfast.net/osmflivech40.m3u8) |
+| 1446 | GOOD TV CH31 福音布道音乐会 (720p) | [GOOD TV CH31 福音布道音乐会 (720p)](https://live.streamingfast.net/osmflivech31.m3u8) |
+| 1447 | GOOD TV CH32 特会系列：祷告与转化 (720p) [Not 24/7] | [GOOD TV CH32 特会系列：祷告与转化 (720p) [Not 24/7]](https://live.streamingfast.net/osmflivech32.m3u8) |
+| 1448 | GOOD TV CH33 特会系列：研经培灵 (720p) | [GOOD TV CH33 特会系列：研经培灵 (720p)](https://live.streamingfast.net/osmflivech33.m3u8) |
+| 1449 | GOOD TV CH38 特会系列：青年特会 (720p) [Not 24/7] | [GOOD TV CH38 特会系列：青年特会 (720p) [Not 24/7]](https://live.streamingfast.net/osmflivech38.m3u8) |
+| 1450 | GOOD TV CH40 家庭8点档转转发现爱 (720p) [Not 24/7] | [GOOD TV CH40 家庭8点档转转发现爱 (720p) [Not 24/7]](https://live.streamingfast.net/osmflivech40.m3u8) |
 | 1451 | GOOD TV CH45 卡通 (720p) [Not 24/7] | [GOOD TV CH45 卡通 (720p) [Not 24/7]](https://live.streamingfast.net/osmflivech45.m3u8) |
-| 1452 | GOOD TV CH47 牧者頻道 (720p) [Not 24/7] | [GOOD TV CH47 牧者頻道 (720p) [Not 24/7]](https://live.streamingfast.net/osmflivech47.m3u8) |
-| 1453 | GOOD TV CH49 禱告頻道 (720p) [Not 24/7] | [GOOD TV CH49 禱告頻道 (720p) [Not 24/7]](https://live.streamingfast.net/osmflivech49.m3u8) |
-| 1454 | GOOD TV CH50 國際講員 中文發音 (720p) [Not 24/7] | [GOOD TV CH50 國際講員 中文發音 (720p) [Not 24/7]](https://live.streamingfast.net/osmflivech50.m3u8) |
+| 1452 | GOOD TV CH47 牧者频道 (720p) [Not 24/7] | [GOOD TV CH47 牧者频道 (720p) [Not 24/7]](https://live.streamingfast.net/osmflivech47.m3u8) |
+| 1453 | GOOD TV CH49 祷告频道 (720p) [Not 24/7] | [GOOD TV CH49 祷告频道 (720p) [Not 24/7]](https://live.streamingfast.net/osmflivech49.m3u8) |
+| 1454 | GOOD TV CH50 国际讲员 中文发音 (720p) [Not 24/7] | [GOOD TV CH50 国际讲员 中文发音 (720p) [Not 24/7]](https://live.streamingfast.net/osmflivech50.m3u8) |
 | 1455 | Good-Sound (720p) | [Good-Sound (720p)](http://148.251.76.72:8081/goodsound/goodsound.sdp/playlist.m3u8) |
 | 1456 | GoodLife 45 (720p) [Not 24/7] | [GoodLife 45 (720p) [Not 24/7]](https://1-fss29-s0.streamhoster.com/lv_goodlife45f1/broadcast1/playlist.m3u8) |
 | 1457 | Goodness TV (720p) [Not 24/7] | [Goodness TV (720p) [Not 24/7]](https://ythls.armelin.one/channel/UCvSkU6Ut85o2B34fD5F1Fyw.m3u8) |
@@ -1599,7 +1599,7 @@
 | 1595 | HispanTV (480p) | [HispanTV (480p)](https://live1.presstv.ir/live/hispan.m3u8) |
 | 1596 | History Channel (1080p) | [History Channel (1080p)](https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_HISTORYHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true) |
 | 1597 | History Film Channel | [History Film Channel](https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/Y9C44IJB757LLGCV72YA/hls3/now_-1m_15s/m.m3u8) |
-| 1598 | History歷史頻道 (測試) | [History歷史頻道 (測試)](https://sc2022.stream-link.org/tv2306.php?id=c06) |
+| 1598 | History历史频道 (测试) | [History历史频道 (测试)](https://sc2022.stream-link.org/tv2306.php?id=c06) |
 | 1599 | Hito Cero Television | [Hito Cero Television](https://5ff3d9babae13.streamlock.net/8018/8018/playlist.m3u8) |
 | 1600 | Hitradio Ö3 (720p) [Not 24/7] | [Hitradio Ö3 (720p) [Not 24/7]](https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8) |
 | 1601 | Hits 360 TV (720p) [Not 24/7] | [Hits 360 TV (720p) [Not 24/7]](http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8) |
@@ -1607,7 +1607,7 @@
 | 1603 | HITZ (720p) [Not 24/7] | [HITZ (720p) [Not 24/7]](https://ythls.armelin.one/channel/UCO0sE62ll3AE33q9Tk-mV3w.m3u8) |
 | 1604 | HK TV (720p) | [HK TV (720p)](https://streamer12.vdn.dstreamone.net/hktv/hktv/playlist.m3u8) |
 | 1605 | HKIBC | [HKIBC](https://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8) |
-| 1606 | HKSTV (香港衛視) (720p) [Not 24/7] | [HKSTV (香港衛視) (720p) [Not 24/7]](https://al-pull2.hkatv.vip/live/hktv20210929.m3u8) |
+| 1606 | HKSTV (香港卫视) (720p) [Not 24/7] | [HKSTV (香港卫视) (720p) [Not 24/7]](https://al-pull2.hkatv.vip/live/hktv20210929.m3u8) |
 | 1607 | HLC TV (480p) [Not 24/7] | [HLC TV (480p) [Not 24/7]](https://goliveafrica.media:9998/live/627d06e001aaf/index.m3u8) |
 | 1608 | HLN (720p) | [HLN (720p)](https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8) |
 | 1609 | HLN Live (720p) | [HLN Live (720p)](https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3u8) |
@@ -1649,9 +1649,9 @@
 | 1645 | Horse TV | [Horse TV](https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/horsetv_720p/playlist.m3u8) |
 | 1646 | Hosanna Vision (720p) [Not 24/7] | [Hosanna Vision (720p) [Not 24/7]](https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8) |
 | 1647 | Hot TV (720p) [Not 24/7] | [Hot TV (720p) [Not 24/7]](https://ythls.armelin.one/channel/UCFV_yPFxPbbmrYJ9J6zJglA.m3u8) |
-| 1648 | HOY TV開電視 | [HOY TV開電視](https://pull-f5-spe.ixigua.com/yeslivetv.com/934973832-202925490/index.m3u8) |
+| 1648 | HOY TV开电视 | [HOY TV开电视](https://pull-f5-spe.ixigua.com/yeslivetv.com/934973832-202925490/index.m3u8) |
 | 1649 | Hoynet (360p) | [Hoynet (360p)](https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8) |
-| 1650 | HOY資訊台 | [HOY資訊台](https://pull-f5-spe.ixigua.com/live/YesLiveTV-3e9f20e4-e6fd-4292-ac7a-3180610b1edd/index.m3u8) |
+| 1650 | HOY资讯台 | [HOY资讯台](https://pull-f5-spe.ixigua.com/live/YesLiveTV-3e9f20e4-e6fd-4292-ac7a-3180610b1edd/index.m3u8) |
 | 1651 | hr-fernsehen (1080p) | [hr-fernsehen (1080p)](https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8) |
 | 1652 | HTV 1 Houston Television (720p) | [HTV 1 Houston Television (720p)](https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/playlist.m3u8) |
 | 1653 | HTV 2 Houston Television (720p) | [HTV 2 Houston Television (720p)](https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8) |
@@ -1971,7 +1971,7 @@
 | 1967 | Love and Hip Hop (720p) [Not 24/7] | [Love and Hip Hop (720p) [Not 24/7]](https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d51ddf0369acdb278dfb05e/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY) |
 | 1968 | Love in Venice (480p) | [Love in Venice (480p)](https://59d7d6f47d7fc.streamlock.net/loveinvenice/loveinvenice/playlist.m3u8) |
 | 1969 | Love Nature 4K | [Love Nature 4K](https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8) |
-| 1970 | Love Nature (測試) | [Love Nature (測試)](https://sc2022.stream-link.org/tv2306.php?id=c10) |
+| 1970 | Love Nature (测试) | [Love Nature (测试)](https://sc2022.stream-link.org/tv2306.php?id=c10) |
 | 1971 | Love Stories TV (720p) | [Love Stories TV (720p)](https://84e619480232400a842ce499d053458a.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_LoveStoriesTV/18a65393-ba3b-4912-90d5-7188c128ac66/3.m3u8) |
 | 1972 | Love Television (480p) | [Love Television (480p)](https://kalends.anl.bz/localchannels/lovetel.stream/playlist.m3u8) |
 | 1973 | Love TV (1080p) [Not 24/7] | [Love TV (1080p) [Not 24/7]](https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8) |
@@ -2212,7 +2212,7 @@
 | 2208 | MNB World (576p) | [MNB World (576p)](https://live.mnb.mn/live/mnb_world.stream/playlist.m3u8) |
 | 2209 | MNB Гэр бүл (576p) | [MNB Гэр бүл (576p)](https://live.mnb.mn/live/mnb_family.stream/playlist.m3u8) |
 | 2210 | MNB Монголын Мэдээ (576p) | [MNB Монголын Мэдээ (576p)](https://live.mnb.mn/live/mn2.stream/playlist.m3u8) |
-| 2211 | MNews (鏡電視新聞台) | [MNews (鏡電視新聞台)](https://ythls.armelin.one/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8) |
+| 2211 | MNews (镜电视新闻台) | [MNews (镜电视新闻台)](https://ythls.armelin.one/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8) |
 | 2212 | MNM (720p) | [MNM (720p)](https://live-radio-cf-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8) |
 | 2213 | MNTV (1080p) | [MNTV (1080p)](https://mntv.livebox.co.in/mntvhls/live.m3u8) |
 | 2214 | MNTV Music (1080p) | [MNTV Music (1080p)](https://mntv.livebox.co.in/musichls/live.m3u8) |
@@ -2288,7 +2288,7 @@
 | 2284 | MTürk TV (1080p) | [MTürk TV (1080p)](https://broadcasttr.com:446/muglaturk/bant1/playlist.m3u8) |
 | 2285 | MTV 00s (576p) | [MTV 00s (576p)](http://195.24.89.82/VH1_SD/index.m3u8) |
 | 2286 | MTV3 (720p) | [MTV3 (720p)](https://live-fi.tvkaista.net/mtv3/live.m3u8) |
-| 2287 | MTV (測試) | [MTV (測試)](https://sc2022.stream-link.org/tv2306.php?id=c05) |
+| 2287 | MTV (测试) | [MTV (测试)](https://sc2022.stream-link.org/tv2306.php?id=c05) |
 | 2288 | MTV Beats (1080p) | [MTV Beats (1080p)](https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8) |
 | 2289 | MTV France (720p) [Not 24/7] | [MTV France (720p) [Not 24/7]](http://190.2.155.162:8080/mtvfrance/mpegts) |
 | 2290 | MTV Germany (1080p) | [MTV Germany (1080p)](https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/mtvg18ef/master/mtvg18ef.m3u8) |
@@ -2467,10 +2467,10 @@
 | 2463 | Newsy | [Newsy](https://linear-460.frequency.stream/dist/vix/460/hls/master/playlist.m3u8) |
 | 2464 | NewTV动画王国 (1080p) | [NewTV动画王国 (1080p)](http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8) |
 | 2465 | NewTV动画王国 (1080p) | [NewTV动画王国 (1080p)](http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8) |
-| 2466 | NewTV完美遊戲 (1080p) | [NewTV完美遊戲 (1080p)](http://183.207.249.16/PLTV/3/224/3221225539/index.m3u8) |
+| 2466 | NewTV完美游戏 (1080p) | [NewTV完美游戏 (1080p)](http://183.207.249.16/PLTV/3/224/3221225539/index.m3u8) |
 | 2467 | NewTV搏击 (720p) | [NewTV搏击 (720p)](http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221226803/index.m3u8) |
-| 2468 | NewTV精品電影 (1080p) | [NewTV精品電影 (1080p)](http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8) |
-| 2469 | NewTV精品電影 (1080p) | [NewTV精品電影 (1080p)](http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225567/index.m3u8) |
+| 2468 | NewTV精品电影 (1080p) | [NewTV精品电影 (1080p)](http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8) |
+| 2469 | NewTV精品电影 (1080p) | [NewTV精品电影 (1080p)](http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225567/index.m3u8) |
 | 2470 | NewTV超级电影 (1080p) | [NewTV超级电影 (1080p)](http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8) |
 | 2471 | Nex TV Canal 21 (1080p) | [Nex TV Canal 21 (1080p)](https://vcp4.myplaytv.com:1936/nextv/nextv/playlist.m3u8) |
 | 2472 | Next HD (480p) | [Next HD (480p)](https://live.enhdtv.com:19360/nexthd/nexthd.m3u8) |
@@ -2537,8 +2537,8 @@
 | 2533 | Now This (720p) | [Now This (720p)](https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnowthis/CDN/playlist.m3u8) |
 | 2534 | Now TV 102.3FM Edmonton (CKNO-FM) | [Now TV 102.3FM Edmonton (CKNO-FM)](https://videostream.jpbgdigital.com/NOWTV.m3u8) |
 | 2535 | Now TV (720p) [Not 24/7] | [Now TV (720p) [Not 24/7]](https://delivery.upictv.co.bw/NOW-TV-DNL/index.m3u8) |
-| 2536 | Now新聞台 | [Now新聞台](https://sc2022.stream-link.org/tv2306.php?id=h08) |
-| 2537 | Now精選體育 | [Now精選體育](https://sc2022.stream-link.org/tv2306.php?id=s01) |
+| 2536 | Now新闻台 | [Now新闻台](https://sc2022.stream-link.org/tv2306.php?id=h08) |
+| 2537 | Now精选体育 | [Now精选体育](https://sc2022.stream-link.org/tv2306.php?id=s01) |
 | 2538 | NRB TV (480p) | [NRB TV (480p)](https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8) |
 | 2539 | NRB TV (1080p) [Not 24/7] | [NRB TV (1080p) [Not 24/7]](https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/playlist.m3u8) |
 | 2540 | NRG 91 (720p) [Not 24/7] | [NRG 91 (720p) [Not 24/7]](http://tv.nrg91.gr:1935/onweb/live/master.m3u8) |
@@ -2788,8 +2788,8 @@
 | 2784 | Pet Club TV | [Pet Club TV](https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8) |
 | 2785 | Phenomenal Life TV (1080p) | [Phenomenal Life TV (1080p)](https://5be80bd118c27.streamlock.net:433/phenomenaltv/phenomenal/playlist.m3u8) |
 | 2786 | Phoenix (720p) | [Phoenix (720p)](https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8) |
-| 2787 | Phoenix Chinese Channel (鳳凰衛視中文) (1080p) | [Phoenix Chinese Channel (鳳凰衛視中文) (1080p)](https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8) |
-| 2788 | Phoenix InfoNews Channel (鳳凰衛視資訊) (1080p) | [Phoenix InfoNews Channel (鳳凰衛視資訊) (1080p)](https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8) |
+| 2787 | Phoenix Chinese Channel (凤凰卫视中文) (1080p) | [Phoenix Chinese Channel (凤凰卫视中文) (1080p)](https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8) |
+| 2788 | Phoenix InfoNews Channel (凤凰卫视资讯) (1080p) | [Phoenix InfoNews Channel (凤凰卫视资讯) (1080p)](https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8) |
 | 2789 | PHTV (720p) [Not 24/7] | [PHTV (720p) [Not 24/7]](https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8) |
 | 2790 | Phu Yen TV (360p) | [Phu Yen TV (360p)](http://113.161.4.48:8080/phuyen/tv/index.m3u8) |
 | 2791 | PHXTV | [PHXTV](https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/phoenix/G1498_002/chunklist.m3u8) |
@@ -2834,7 +2834,7 @@
 | 2830 | Play TV (720p) [Not 24/7] | [Play TV (720p) [Not 24/7]](http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8) |
 | 2831 | Play.Works (720p) | [Play.Works (720p)](https://b12eca572da7423284734ca3a6242ea2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_PlayWorks/playlist.m3u8?ads.app_bundle=com.plexapp.desktop&ads.app_store_url=https://app.plex.tv&ads.consent=0&ads.gdpr=1&ads.plex_id=5f0ff263d71dcb00449ec01e&ads.plex_token=MorUy57ijWhGe4ixZb_T&ads.psid=df8e1a36-847d-5096-86a7-3803ed330ede&ads.targetopt=0&ads.ua=Mozilla/5.0+(Windows+NT+6.1;+rv:83.0)+Gecko/20100101+Firefox/83.0&ads.us_privacy=1---&ads.wurl_channel=512&ads.wurl_name=PlayWorks) |
 | 2832 | Players TV (1080p) | [Players TV (1080p)](https://playerstv-roku-us.amagi.tv/playlist.m3u8) |
-| 2833 | PLAYY 韓國電影台 | [PLAYY 韓國電影台](https://sc2022.stream-link.org/tv2306.php?id=e19) |
+| 2833 | PLAYY 韩国电影台 | [PLAYY 韩国电影台](https://sc2022.stream-link.org/tv2306.php?id=e19) |
 | 2834 | Plaza TV (720p) | [Plaza TV (720p)](https://unlimited10-cl.dps.live/girovisual2/girovisual2.smil/playlist.m3u8) |
 | 2835 | Plena TV (720p) | [Plena TV (720p)](https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8) |
 | 2836 | PLEX TV (360p) [Not 24/7] | [PLEX TV (360p) [Not 24/7]](http://connectiktv.ddns.me:8080/live/61f1a681f3a0e-1/index.m3u8) |
@@ -3471,9 +3471,9 @@
 | 3467 | RTG (1080p) | [RTG (1080p)](https://okkotv-live.cdnvideo.ru/channel/RTG_HD.m3u8) |
 | 3468 | RTH-TV1 (1080p) | [RTH-TV1 (1080p)](https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4203440/playlist.m3u8) |
 | 3469 | RTH-TV2 Gospel (1080p) | [RTH-TV2 Gospel (1080p)](https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4202592/playlist.m3u8) |
-| 3470 | RTHK (港台電視31) (1080p) | [RTHK (港台電視31) (1080p)](https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8) |
-| 3471 | RTHK (港台電視32) (1080p) | [RTHK (港台電視32) (1080p)](https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8) |
-| 3472 | RTHK TV 33 (港台電視33) (720p) | [RTHK TV 33 (港台電視33) (720p)](https://live.astradamy.com/hk33/index.m3u8) |
+| 3470 | RTHK (港台电视31) (1080p) | [RTHK (港台电视31) (1080p)](https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8) |
+| 3471 | RTHK (港台电视32) (1080p) | [RTHK (港台电视32) (1080p)](https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8) |
+| 3472 | RTHK TV 33 (港台电视33) (720p) | [RTHK TV 33 (港台电视33) (720p)](https://live.astradamy.com/hk33/index.m3u8) |
 | 3473 | RTI 1 (1080p) | [RTI 1 (1080p)](https://www.enovativecdn.com/rticdn/smil:rti1.smil/playlist.m3u8) |
 | 3474 | RTI 2 (1080p) | [RTI 2 (1080p)](https://www.enovativecdn.com/rticdn/smil:rti2.smil/playlist.m3u8) |
 | 3475 | RTI La 3 (1080p) [Not 24/7] | [RTI La 3 (1080p) [Not 24/7]](https://www.enovativecdn.com/rticdn/smil:rti3.smil/playlist.m3u8) |
@@ -3711,7 +3711,7 @@
 | 3707 | ServusTV Deutschland (720p) | [ServusTV Deutschland (720p)](https://stv-live.akamaized.net/hls/live/2031012/lingeoSTVDEwebPri/master_3392.m3u8) |
 | 3708 | SESC TV (1080p) | [SESC TV (1080p)](https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/93a9920d-1b24-4c5e-a7d2-63d5489f59b5_index.m3u8) |
 | 3709 | SET iNews | [SET iNews](https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8) |
-| 3710 | SET News (三立新聞) (1080p) | [SET News (三立新聞) (1080p)](http://seb.sason.top/sc/sllive_fhd.m3u8) |
+| 3710 | SET News (三立新闻) (1080p) | [SET News (三立新闻) (1080p)](http://seb.sason.top/sc/sllive_fhd.m3u8) |
 | 3711 | SET Televisión Canal 26.1 (720p) [Not 24/7] | [SET Televisión Canal 26.1 (720p) [Not 24/7]](http://189.240.210.28:1935/envivo/puecom/playlist.m3u8) |
 | 3712 | SET Televisión Canal 26.2 (720p) [Not 24/7] | [SET Televisión Canal 26.2 (720p) [Not 24/7]](http://189.240.210.28:1935/live/setpuebla/playlist.m3u8) |
 | 3713 | SET TV 1 (1080p) | [SET TV 1 (1080p)](https://5dcab9aed5331.streamlock.net/SET1/livestream/playlist.m3u8) |
@@ -4507,14 +4507,14 @@
 | 4503 | TVB Thai (1080p) | [TVB Thai (1080p)](https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8) |
 | 4504 | TVBE Joinville (720p) | [TVBE Joinville (720p)](https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8) |
 | 4505 | TVBS Asia (1080p) | [TVBS Asia (1080p)](http://38.64.72.148/hls/modn/list/4005/playlist.m3u8) |
-| 4506 | TVBS News (TVBS新聞台) | [TVBS News (TVBS新聞台)](https://ythls.armelin.one/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8) |
-| 4507 | TVBS亞洲台 | [TVBS亞洲台](https://sc2022.stream-link.org/tv2306.php?id=t18) |
-| 4508 | TVBS新聞 | [TVBS新聞](https://sc2022.stream-link.org/tv2306.php?id=t14) |
-| 4509 | TVBS財經 | [TVBS財經](https://sc2022.stream-link.org/tv2306.php?id=t15) |
-| 4510 | TVB千禧經典台 | [TVB千禧經典台](https://sc2022.stream-link.org/tv2306.php?id=h23) |
-| 4511 | TVB娛樂新聞台 | [TVB娛樂新聞台](https://sc2022.stream-link.org/tv2306.php?id=h10) |
+| 4506 | TVBS News (TVBS新闻台) | [TVBS News (TVBS新闻台)](https://ythls.armelin.one/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8) |
+| 4507 | TVBS亚洲台 | [TVBS亚洲台](https://sc2022.stream-link.org/tv2306.php?id=t18) |
+| 4508 | TVBS新闻 | [TVBS新闻](https://sc2022.stream-link.org/tv2306.php?id=t14) |
+| 4509 | TVBS财经 | [TVBS财经](https://sc2022.stream-link.org/tv2306.php?id=t15) |
+| 4510 | TVB千禧经典台 | [TVB千禧经典台](https://sc2022.stream-link.org/tv2306.php?id=h23) |
+| 4511 | TVB娱乐新闻台 | [TVB娱乐新闻台](https://sc2022.stream-link.org/tv2306.php?id=h10) |
 | 4512 | TVB星河台 | [TVB星河台](https://sc2022.stream-link.org/tv2306.php?id=h22) |
-| 4513 | TVB華語劇台 | [TVB華語劇台](https://sc2022.stream-link.org/tv2306.php?id=h21) |
+| 4513 | TVB华语剧台 | [TVB华语剧台](https://sc2022.stream-link.org/tv2306.php?id=h21) |
 | 4514 | TVC (480p) | [TVC (480p)](https://d2vb5iv6i34lh5.cloudfront.net/TVCEC/d58f5eb5cbb9ad9c56649a0083de7c8b.sdp/playlist.m3u8) |
 | 4515 | TVC (1080p) | [TVC (1080p)](http://31.146.5.178:8087/play/a009/index.m3u8) |
 | 4516 | TVC (1080p) | [TVC (1080p)](https://tvce.gridpapaservers.com/TVCSEPT/ngrp:myStream_all/playlist.m3u8) |
@@ -5117,4 +5117,4 @@
 | 5113 | Хит HD | [Хит HD](http://moobl.ru/hls/Hit_hd.m3u8) |
 | 5114 | Առաջին ալիք (1080p) | [Առաջին ալիք (1080p)](https://amtv1.livestreamingcdn.com/am2abr/index.m3u8) |
 
-Updated at **Wed Dec 13 2023 03:43:39 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Dec 13 2023 04:32:19 GMT+0000 (Coordinated Universal Time)**

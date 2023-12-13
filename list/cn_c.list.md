@@ -70,7 +70,7 @@
 | 66 | [BD]山东生活 | [[BD]山东生活](rtmp://livealone.iqilu.com/iqilu/shpdhjOF03kn) |
 | 67 | [BD]山东综艺 | [[BD]山东综艺](rtmp://livealone.iqilu.com/iqilu/zypdhjOF03kn) |
 | 68 | [BD]山东农科 | [[BD]山东农科](rtmp://livealone.iqilu.com/iqilu/nkpdhjOF03kn) |
-| 69 | [SD]山東體育 | [[SD]山東體育](rtmp://livealone.iqilu.com/iqilu/typdhjOF03kn) |
+| 69 | [SD]山东体育 | [[SD]山东体育](rtmp://livealone.iqilu.com/iqilu/typdhjOF03kn) |
 | 70 | [SD]山东齐鲁 | [[SD]山东齐鲁](rtmp://livealone.iqilu.com/iqilu/qlpdhjOF03kn) |
 | 71 | [HD]山西公共 | [[HD]山西公共](https://epg.pw/stream/cf835305701c451e7e532c9dd04f082d81e7b46eadd4685d508e665c709fa2fb.ctv) |
 | 72 | [HD]山西影视 | [[HD]山西影视](https://epg.pw/stream/f96d8634d466c4f2220b1c85e0997b47a2c07a9d0771baafb66f7151b3d75ef8.ctv) |
@@ -95,7 +95,7 @@
 | 91 | [BD]快乐垂钓[ipv6] | [[BD]快乐垂钓[ipv6]](https://epg.pw/stream/49dec5896a11bcd4fc6a3238d8bb966bd22ff9f163f3db16fa136170d314a7a2.m3u8) |
 | 92 | [BD]收藏天下 | [[BD]收藏天下](https://epg.pw/stream/06721d102fff6bee9be6bc1afc6fcc7b98152ae725c268a17b41b5502b3c7b5c.ctv) |
 | 93 | [BD]文物宝库 | [[BD]文物宝库](https://epg.pw/stream/e8a4d9f6d3ba5e1e6ff4c1a48e190d72f245bd2afedb8ee0cca017934c8e2830.m3u8) |
-| 94 | [BD]新昌新聞綜合 | [[BD]新昌新聞綜合](https://epg.pw/stream/7f856c798f5a5167cf5966b25d0ab5d352c40c5975d4a78d25e6a92c0251cb89.m3u8) |
+| 94 | [BD]新昌新闻综合 | [[BD]新昌新闻综合](https://epg.pw/stream/7f856c798f5a5167cf5966b25d0ab5d352c40c5975d4a78d25e6a92c0251cb89.m3u8) |
 | 95 | [HD]无锡生活 | [[HD]无锡生活](https://epg.pw/stream/5287bcc8b0f75ef8125e5331b1335f7829684d9eff5e531cdcff9cb32198a0b9.m3u8) |
 | 96 | [BD]晋城新闻 | [[BD]晋城新闻](https://epg.pw/stream/bef72ce4c2d1d83126bb2af671ce94763a3457869acca885d2eaaf7c5c0b45d7.m3u8) |
 | 97 | [BD]东方财经 | [[BD]东方财经](https://epg.pw/stream/76079aa6a26f481e2218b469cd5c6f2236223a0b4244bdad4a6d36cf985e637e.m3u8) |
@@ -189,4 +189,4 @@
 | 185 | [VGA]黑龙江新闻 | [[VGA]黑龙江新闻](https://epg.pw/stream/6fe0461d8f101b8f9da77bb21785e3224610d31b800c0bd5c86f9abdd8ab380f.m3u8) |
 | 186 | [HD]点掌财经 | [[HD]点掌财经](https://epg.pw/stream/96bec7b1f9d22ac90697af55775bf2328443600cdc5ac81952ca681c136f86f7.m3u8) |
 
-Updated at **Wed Dec 13 2023 03:43:39 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Dec 13 2023 04:32:19 GMT+0000 (Coordinated Universal Time)**
