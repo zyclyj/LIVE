@@ -5,9 +5,8 @@ import { getM3u } from "./file"
 import { sources, filter } from "./sources"
 
 const updateVercelJson = (domains: string[]) => {
-    const vercel_temp_p = path.join(path.resolve(), "vercel.temp.json")
     const vercel_p = path.join(path.resolve(), "vercel.json")
-    const vercel = JSON.parse(fs.readFileSync(vercel_temp_p).toString())
+    const vercel = JSON.parse(fs.readFileSync(vercel_p).toString())
 
     const rewrites = domains.map((d) => {
         const [protocol, domain] = d.split("/")
@@ -18,8 +17,6 @@ const updateVercelJson = (domains: string[]) => {
     })
 
     vercel["rewrites"] = rewrites
-
-    console.log(vercel)
 
     fs.writeFileSync(vercel_p, JSON.stringify(vercel))
 }
