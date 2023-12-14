@@ -1,6 +1,6 @@
 # List for **China National**
 
-> <https://m3u.ibert.me/cn_n.m3u>
+> M3U: <https://m3u.ibert.me/cn_n.m3u>, TXT: <https://m3u.ibert.me/txt/cn_n.txt>
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
@@ -15,4 +15,4 @@
 | 9 | [BD]石狮综合 | [[BD]石狮综合](https://epg.pw/stream/e57ff89d61689ee5bc07eba9fe1cc46570a4c45532ff44b4df6b24e99549dd20.m3u8) |
 | 10 | [BD]风云足球[ipv6] | [[BD]风云足球[ipv6]](https://epg.pw/stream/2f15d1c8f0acaa40abcbf0b5cab1d4011bf75bd775e650078108a7354dbf9dc0.m3u8) |
 
-Updated at **Thu Dec 14 2023 04:04:53 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Dec 14 2023 05:13:11 GMT+0000 (Coordinated Universal Time)**

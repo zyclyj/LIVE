@@ -1,6 +1,6 @@
 # List for **iptv.org All**
 
-> <https://m3u.ibert.me/o_all.m3u>
+> M3U: <https://m3u.ibert.me/o_all.m3u>, TXT: <https://m3u.ibert.me/txt/o_all.txt>
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
@@ -5093,4 +5093,4 @@
 | 5087 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 5088 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
 
-Updated at **Thu Dec 14 2023 04:04:53 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Dec 14 2023 05:13:11 GMT+0000 (Coordinated Universal Time)**
