@@ -12,7 +12,7 @@
 | 6 | [BD]cctv风云足球[ipv6] | [[BD]cctv风云足球[ipv6]](https://epg.pw/stream/122835fa915406615737ceb261f638f27e4101526191b85c281580274a185862.m3u8) |
 | 7 | [BD]cctv风云音乐[ipv6] | [[BD]cctv风云音乐[ipv6]](https://epg.pw/stream/1fb1205c93c4029eeebd219d3dc6898df1514b4dc5df4562e3748dbda97f82be.m3u8) |
 | 8 | [BD]发现之旅 | [[BD]发现之旅](https://epg.pw/stream/0c141ad833ea9162fa1248de0bda4204a8c72f891e8ee10adb4303758f904aa3.ctv) |
-| 9 | [BD]石狮综合 | [[BD]石狮综合](https://epg.pw/stream/e57ff89d61689ee5bc07eba9fe1cc46570a4c45532ff44b4df6b24e99549dd20.m3u8) |
+| 9 | [BD]石狮综合 | [[BD]石狮综合](https://epg.pw/stream/611e94f85d8e7b5016b9f15490d511f1bb8efa643a13d82e6f57cd2606c312e7.m3u8) |
 | 10 | [BD]风云足球[ipv6] | [[BD]风云足球[ipv6]](https://epg.pw/stream/2f15d1c8f0acaa40abcbf0b5cab1d4011bf75bd775e650078108a7354dbf9dc0.m3u8) |
 
-Updated at **Thu Dec 14 2023 12:27:26 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Dec 14 2023 15:14:57 GMT+0000 (Coordinated Universal Time)**
