@@ -62,7 +62,7 @@ Promise.allSettled(
     .then((domains) => {
         const domainsArray = [
             ...new Set(domains.map((d) => (<any>d).value).flat(Infinity)),
-        ]
+        ].filter((d) => !!d)
         return domainsArray
     })
     .then((domains) => {
