@@ -12,8 +12,8 @@ Sources are from:
 
 | channel | url | list | count |
 | ------- | --- | ---- | ----- |
-| China | <https://m3u.ibert.me/cn.m3u> <br> <https://m3u.ibert.me/txt/cn.txt> | [List for China](https://m3u.ibert.me/list/cn.list) | 176 |
-| China National | <https://m3u.ibert.me/cn_n.m3u> <br> <https://m3u.ibert.me/txt/cn_n.txt> | [List for China National](https://m3u.ibert.me/list/cn_n.list) | 10 |
+| China | <https://m3u.ibert.me/cn.m3u> <br> <https://m3u.ibert.me/txt/cn.txt> | [List for China](https://m3u.ibert.me/list/cn.list) | 175 |
+| China National | <https://m3u.ibert.me/cn_n.m3u> <br> <https://m3u.ibert.me/txt/cn_n.txt> | [List for China National](https://m3u.ibert.me/list/cn_n.list) | 8 |
 | China Country | <https://m3u.ibert.me/cn_c.m3u> <br> <https://m3u.ibert.me/txt/cn_c.txt> | [List for China Country](https://m3u.ibert.me/list/cn_c.list) | 187 |
 | China Province | <https://m3u.ibert.me/cn_p.m3u> <br> <https://m3u.ibert.me/txt/cn_p.txt> | [List for China Province](https://m3u.ibert.me/list/cn_p.list) | 36 |
 | All | <https://m3u.ibert.me/all.m3u> <br> <https://m3u.ibert.me/txt/all.txt> | [List for All](https://m3u.ibert.me/list/all.list) | 1781 |
@@ -25,6 +25,6 @@ Sources are from:
 | iptv.org stream China CCTV | <https://m3u.ibert.me/o_s_cn_cctv.m3u> <br> <https://m3u.ibert.me/txt/o_s_cn_cctv.txt> | [List for iptv.org stream China CCTV](https://m3u.ibert.me/list/o_s_cn_cctv.list) | 22 |
 | iptv.org stream China CGTN | <https://m3u.ibert.me/o_s_cn_cgtn.m3u> <br> <https://m3u.ibert.me/txt/o_s_cn_cgtn.txt> | [List for iptv.org stream China CGTN](https://m3u.ibert.me/list/o_s_cn_cgtn.list) | 6 |
 
-Updated at **Thu Dec 14 2023 15:14:58 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Dec 14 2023 18:18:16 GMT+0000 (Coordinated Universal Time)**
 
 See <https://m3u.ibert.me> to get more.
