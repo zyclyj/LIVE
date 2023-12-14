@@ -4,7 +4,7 @@
   "main": "index.js",
   "repository": "git@github.com:HerbertHe/iptv-sources.git",
   "author": "HerbertHe <Herbert.He0229@gmail.com>",
-  "type": "commonjs",
+  "type": "module",
   "license": "MIT",
   "scripts": {
     "build": "npm run vercel:build && npm run domain",
