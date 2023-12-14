@@ -36,7 +36,7 @@ https://epg.pw/stream/121f0bc3c34bc3b495088efa9d456052b27a0da0fe4b07637ad622681e
 #EXTINF:-1 tvg-name="4fun tv (576p) [not 24/7]" tvg-id="" tvg-country="Cambodia" tvg-language="Khmer" tvg-logo="https://epg.pw/media/images/channel/2021/06/26/large/20210626150003886383_84.png" group-title="News",[SD]4fun tv (576p) [not 24/7]
 https://epg.pw/stream/4c1fb7cc931b03768691e8c55651411d33cd6a4c0a621daeeb2e04d270521c92.m3u8
 #EXTINF:-1 tvg-name="5 Star Max" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020557769714_94.png" group-title="Movie",[BD]5 Star Max
-https://epg.pw/stream/b5e3e8cc2b8e0c731844dcf2d82ada8de62f322c9c18c7ef72b6dd567a6d3544.ctv
+https://epg.pw/stream/498fc0d479b00c044953bb4aec38d037460152154c18de9c2d70e82c9f52de38.ctv
 #EXTINF:-1 tvg-name="5 канал" tvg-id="6379" tvg-country="Russia" tvg-language="Русский" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164618232540_39.png" group-title="Generic",[BD]5 канал
 https://epg.pw/stream/a6653557d6b23d088b5c652a2a8364aee537e75629ab23eb5fefdad0651c68c0.ctv
 #EXTINF:-1 tvg-name="5USA UK" tvg-id="" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/01/20140601214910095304_28.png" group-title="Generic",[SD]5USA UK
@@ -65,7 +65,7 @@ https://epg.pw/stream/cb4cdc2b64bc840dc9e89c4db084a0a11d830ca587db0f79fa0a3c6766
 https://epg.pw/stream/4a3cda4803f22fbcf9b8d60ec81e211d0d58e9b9d1b4b63c969bb0ad58a38014.m3u8
 #EXTINF:-1 tvg-name="ABC News Live" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/" group-title="News",[HD]abc news live 9 (720p)
 https://epg.pw/stream/bb281ef60fecb8c3b1b4b0e73b25750b915ce231338f614e929ff6632f2fbb70.m3u8
-#EXTINF:-1 tvg-name="ACTION MAX" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/06/20151206122156438218_84.jpg" group-title="Movie",[SD]ACTION MAX
+#EXTINF:-1 tvg-name="ACTION MAX" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/06/20151206122156438218_84.jpg" group-title="Movie",[HD]ACTION MAX
 https://epg.pw/stream/2a80bbab7a55dd8d35785b893e579c703556d324a4735aa1ef7340fd4391a451.ctv
 #EXTINF:-1 tvg-name="AL Jazeera" tvg-id="2405" tvg-country="Qatar" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311010508135042_15.png" group-title="News",[BD]al jazeera mubasher (1080p)
 https://epg.pw/stream/a2632b8be0e6ecc5735a19a93bee30bc97ca66d44c1c98f44236d9baf6a7698b.m3u8
@@ -73,9 +73,9 @@ https://epg.pw/stream/a2632b8be0e6ecc5735a19a93bee30bc97ca66d44c1c98f44236d9baf6
 https://epg.pw/stream/8f2bf96e414c3ccf8c7a30a32092e975fa4a2db4e98d1a4106203585c69f8215.ctv
 #EXTINF:-1 tvg-name="ANTV" tvg-id="" tvg-country="Indonesia" tvg-language="Bahasa Indonesia" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/09/01/20150901235624453824_73.png" group-title="Generic",[SD]ANTV
 https://epg.pw/stream/3efa242f42a3ed4120b9dc2fc15ca844d7c990c82f6cfda55592b7ad991ee05c.ctv
-#EXTINF:-1 tvg-name="ASSP(backup)" tvg-id="" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/01/large/20230601214654098451_57.png" group-title="Sport",[HD]ASSP
+#EXTINF:-1 tvg-name="ASSP(backup)" tvg-id="" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/01/large/20230601214654098451_57.png" group-title="Sport",[BD]ASSP
 https://epg.pw/stream/0478051c97dc666a6cb30ab52deb294f97c18a613a902a957b3de5d17ab56522.ctv
-#EXTINF:-1 tvg-name="ASSP3(backup)" tvg-id="" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/01/large/20230601214733652914_66.png" group-title="Sport",[HD]ASSP3
+#EXTINF:-1 tvg-name="ASSP3(backup)" tvg-id="" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/01/large/20230601214733652914_66.png" group-title="Sport",[BD]ASSP3
 https://epg.pw/stream/fa2d4db5baaf86f56b9022ab95a91559810d8126cbc2dee93b55c662d50b75a6.ctv
 #EXTINF:-1 tvg-name="ASSP4(backup)" tvg-id="" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/01/large/20230601214844209453_27.jpg" group-title="Sport",[HD]ASSP4
 https://epg.pw/stream/902489e510b2200e20ae79ed97e4c2a61606ec0b44524bfc204faba45281bb3f.ctv
@@ -134,15 +134,15 @@ https://epg.pw/stream/6997073dfad2a4b3173daa27b75a7ffd9148ed76d963e52c6411a2b628
 #EXTINF:-1 tvg-name="Astro Aod353" tvg-id="" tvg-country="Malaysia" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2023/07/25/large/20230725224340437511_70.png" group-title="Movie",[SD]ASTROAOD353
 https://epg.pw/stream/b8a3826b6600f0e055c480b23875dc031fb8a77f8a0bcb56299dccfcd18ef5ea.ctv
 #EXTINF:-1 tvg-name="Astro Premier" tvg-id="98330" tvg-country="Malaysia" tvg-language="Tamil" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922161447393378_46.png" group-title="Movie",[HD]ASRTO PREMIER
-https://epg.pw/stream/4fe43bd7848c0a55ca79d29ff4cf597119ea83bf668a6817ecbbf0b81a198181.ctv
+https://epg.pw/stream/360448432fbd324d4fe11b2cbbd4f32fb424b0ca4711774c752108bf49b48c00.ctv
 #EXTINF:-1 tvg-name="Astro QJ" tvg-id="" tvg-country="Malaysia" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/10/26/large/20231026184205607217_59.png" group-title="Generic",[HD]ASTRO QJ
 https://epg.pw/stream/81700a85e6a31bae372bc8ff9b6959c9487fc7f8eda338499feb07b1cce8818b.ctv
 #EXTINF:-1 tvg-name="Astro SuperSport2(backup)" tvg-id="" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/01/large/20230601214713274324_17.png" group-title="Sport",[BD]ASSP2
 https://epg.pw/stream/a7efeac29b00e0a9f81fbe4378ce979d8966c8a77f00219380302977686853b0.ctv
 #EXTINF:-1 tvg-name="Astro Supersports 1" tvg-id="" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/01/large/20230601213721172738_41.png" group-title="Sport",[BD]AstroSupersports1
-https://epg.pw/stream/2db909329aa45f652bd31f7232eafd0411791e1b909df63adc162fd62f742548.ctv
-#EXTINF:-1 tvg-name="Astro Supersports 2" tvg-id="" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/01/large/20230601213941106492_41.png" group-title="Sport",[BD]astro supersport 2
-https://epg.pw/stream/9fbe4b92cfa6f7fa181acab3ef3b3dd28ef2c7a70d3cbe087ae43899f480df58.ctv
+https://epg.pw/stream/47fc6b287cb7b275d059679530a070cc0294ac1d52fc0b7b00d0bb85d57ddc17.ctv
+#EXTINF:-1 tvg-name="Astro Supersports 2" tvg-id="" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/01/large/20230601213941106492_41.png" group-title="Sport",[BD]AstroSupersports2
+https://epg.pw/stream/e633e59628ba9b93d3f05369c0332fdb8d9f45dd460a071509433276f77e7c0d.ctv
 #EXTINF:-1 tvg-name="Astro Supersports 3" tvg-id="" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/01/large/20230601214114116807_50.png" group-title="Sport",[SD]AstroSupersports3
 https://epg.pw/stream/3d92f1db68f7f0d0f8655b956842ad7817a1cb6ff546362e7a0b50c604fb9134.ctv
 #EXTINF:-1 tvg-name="Astro TVS" tvg-id="" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210222138178348_52.png" group-title="Other",[SD]astrotv
@@ -158,16 +158,16 @@ https://epg.pw/stream/ee520004e36040c3d9c2d7f635ddd931f9c6ab949c55ea78dcc202b3d6
 #EXTINF:-1 tvg-name="B4U MUSIC" tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821172236097756_15.jpg" group-title="Generic",[SD]B4U MUSIC
 https://epg.pw/stream/abcb9c7695938bc2c4fdb95a704af55485dd7034f4aa7acd4626d94061d2be6f.ctv
 #EXTINF:-1 tvg-name="B4U PLUS" tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020506523898_52.png" group-title="Movie",[SD]B4U PLUS
-https://epg.pw/stream/6517641e82f7aa00faf8a180d6f8ec206d239278f06e52524594feb0ba8bd047.ctv
+https://epg.pw/stream/3a7272aeb32bd5c5ab890ff1d40c3f5e2840b3f4c4fc59c87184139b548a3f8d.ctv
 #EXTINF:-1 tvg-name="BABY TV" tvg-id="" tvg-country="Other" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_448.jpg" group-title="Other",[HD]BABY TV
 https://epg.pw/stream/f2d10d414f2f93871e5988539723d7dac9be26d8e6247c7392cb401238f34ec4.ctv
 #EXTINF:-1 tvg-name="BBC 1" tvg-id="" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226164814064929_90.png" group-title="Generic",[BD]BBC 1
 https://epg.pw/stream/39c51ab86666dbbddff1b8b52728dc2e7376c49bc111a1d86721c39b34c0a0f3.ctv
 #EXTINF:-1 tvg-name="BBC 2" tvg-id="" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226165238302878_43.png" group-title="Generic",[HD]BBC 2
 https://epg.pw/stream/6acece507e9766d1872fd57f3415cd3eae067dc3ea7dd5d6000de63a5c0b2013.ctv
-#EXTINF:-1 tvg-name="BBC 3" tvg-id="" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/03/21/large/20170321141857973260_91.png" group-title="Cartoon",[SD]BBC 3
+#EXTINF:-1 tvg-name="BBC 3" tvg-id="" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/03/21/large/20170321141857973260_91.png" group-title="Cartoon",[HD]BBC 3
 https://epg.pw/stream/0a13df3de859c9af6d25c2179734e4d3b41db6059c1fc2d4180667a004ccd0ef.ctv
-#EXTINF:-1 tvg-name="BBC 4" tvg-id="" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821125153486376_11.png" group-title="Generic",[HD]BBC 4
+#EXTINF:-1 tvg-name="BBC 4" tvg-id="" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821125153486376_11.png" group-title="Generic",[SD]BBC 4
 https://epg.pw/stream/f523a4ed4c9bfe3b5bd07b5fc3874c866232fe14ac0dd643c5b2fd36e86d29bd.ctv
 #EXTINF:-1 tvg-name="BBC Lifestyle" tvg-id="" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/07/18/large/20230718011830806342_49.png" group-title="Generic",[HD]BBC Lifestyle
 https://epg.pw/stream/1c7175054db330d74f3fc2d48d2c980d5c9b88824e3abd56b9c5f31f4db74db3.ctv
@@ -180,7 +180,7 @@ https://epg.pw/stream/dcaf8da0327277938e0615e90669e42f171b8d63d3fa762500751888f8
 #EXTINF:-1 tvg-name="BOLT" tvg-id="6182" tvg-country="Ukraine" tvg-language="Русский" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020635900072_12.png" group-title="Movie",[BD]bolt
 https://epg.pw/stream/1b55a8f95924e95baaa4dfb393a59cdfdf85d7e6428fa2f7c3cc3e705b6c53ce.ctv
 #EXTINF:-1 tvg-name="BOO" tvg-id="" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2020/02/29/large/20200229173038846949_11.png" group-title="Movie",[HD]BOO
-https://epg.pw/stream/01c55a5afa310cb5f53b2cfcd1f9a3afb619f462d938ee14472c1862cb089feb.ctv
+https://epg.pw/stream/ecc4c8993117524ee7abefcbd2d1ac61cc3a5f54082be8a845eed4bb151fc686.ctv
 #EXTINF:-1 tvg-name="BOOMERANG" tvg-id="8969" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/02/28/large/20220228152242083993_90.png" group-title="Cartoon",[HD]BOOMERANG
 https://epg.pw/stream/e6eb4ab7a5ce42337dcc83fe709a115041a690e29de1ac479511d1ff379cc0cf.ctv
 #EXTINF:-1 tvg-name="BSテレビ东京" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/12/large/20211212021100323506_16.png" group-title="News",[SD]テレビ东京
@@ -217,6 +217,8 @@ https://epg.pw/stream/40adc10287958a96b105faae6ecb3ea85c5f3e18f28ed4d271e4a67cbe
 https://epg.pw/stream/51c02d90fc162cf09431c3837aa79c96bdd5eced9a6b75806f662df3f55969eb.m3u8
 #EXTINF:-1 tvg-name="CBEEBIES" tvg-id="" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/03/06/large/20170306151945702456_36.png" group-title="Cartoon",[VGA]CBEEBIES
 https://epg.pw/stream/a6011f534a8c1e142b72c60f564676527fa28f592cbc12b0acd7433db8ba2983.ctv
+#EXTINF:-1 tvg-name="CBS Action" tvg-id="" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2015/11/28/large/20151128104403371880_38.jpg" group-title="Movie",[SD]CBS Action
+https://epg.pw/stream/f59e941647547caed3c18dbf027c6059e4e29e6d4a2bd39e7fb184efa0dd769f.ctv
 #EXTINF:-1 tvg-name="CBS Drama" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/04/15/large/20220415004505055239_46.jpg" group-title="Movie",[SD]CBS Drama
 https://epg.pw/stream/579f33d2379704b16b208b3f6abe562533f8670abc6e237bf503923926b24580.ctv
 #EXTINF:-1 tvg-name="CBS News" tvg-id="8802" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/09/21/large/20220921003134675689_79.png" group-title="News",[HD]cbs news
@@ -385,6 +387,8 @@ https://epg.pw/stream/0410d7122b0d747831bffdcdc1c3ba4027548b9b4d03125ee9d7d433c0
 https://epg.pw/stream/6a94c7dec3f7ea54d3e91a85a46b5bf8ae1f5d65eb2aef0fff9494eda79ed90b.ctv
 #EXTINF:-1 tvg-name="ESPN" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304234949121822_43.png" group-title="Sport",[HD]ESPN
 https://epg.pw/stream/09e8430b0f3bc9a4ab7f1547a22fc5344669c07608f9da6bef10fbc7faccb9ab.ctv
+#EXTINF:-1 tvg-name="ESPN NEWS" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/06/25/large/20220625152948057557_76.png" group-title="Sport",[HD]ESPNNEWS
+https://epg.pw/stream/bc4e5040b4570614abfbd50469fb7ef93974d80e023ebc2d44ccdd39e0e19ebe.ctv
 #EXTINF:-1 tvg-name="ESPN2" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/11/14/large/20201114212523756889_54.png" group-title="Sport",[HD]ESPN2
 https://epg.pw/stream/9acf73963f9369dd38b977e9c2b68b84d558ef9a6fbf0a0053facd06a3838bcf.ctv
 #EXTINF:-1 tvg-name="EYE TV戏剧" tvg-id="11269" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/07/18/large/20230718001716954288_87.jpg" group-title="Movie",[VGA]eye 戏剧台
@@ -399,8 +403,8 @@ https://epg.pw/stream/a1be0d5b186b429656e63036825a7a691f591e3f59c187f719ab964886
 https://epg.pw/stream/5b182da8504cb290406541a5edbb4faaedd02760ad17c1beb4ea2cfe3cc7aef7.m3u8
 #EXTINF:-1 tvg-name="FOODNETWORK" tvg-id="" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/08/27/large/20220827225917116348_71.png" group-title="Other",[HD]FOODNETWORK
 https://epg.pw/stream/f6882c53c2bfcf3adcf358349b1e99ed8f61e722874f031ea66a4f4d0befbb6e.ctv
-#EXTINF:-1 tvg-name="FOX" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/913dcd8057223f39c7af43cc0c4fc63b.jpg" group-title="Movie",[SD]fox
-https://epg.pw/stream/72f5f82e53d32af322c717d1353df0e442aa6d8b5e84367d25b4ccce138b0344.m3u8
+#EXTINF:-1 tvg-name="FOX" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/913dcd8057223f39c7af43cc0c4fc63b.jpg" group-title="Movie",[HD]Fox
+https://epg.pw/stream/b5687d931fb28fc175adac842bf80ccbc84e39b343accbc31d1cc5f5b99921fb.ctv
 #EXTINF:-1 tvg-name="FOX 503" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/06/05/large/20220605132826131696_81.png" group-title="Sport",[SD]fox sport 503
 https://epg.pw/stream/c9ce1b2f5829128669f51c78f713d13169f059f8b6555fc83e6ed800b9057473.ctv
 #EXTINF:-1 tvg-name="FOX 506" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/06/02/large/20220602000736620801_54.PNG" group-title="Sport",[HD]fox sport 506
@@ -412,7 +416,7 @@ https://epg.pw/stream/cb941d80cf6f4cf188e1349de966121c817bf6f42389cd56df0b62d713
 #EXTINF:-1 tvg-name="FOX MOVIES" tvg-id="" tvg-country="Saudi Arabia" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821164409123023_94.png" group-title="Generic",[BD]FOX MOVIES
 https://epg.pw/stream/0231bbde1bda5073254db53769da95c14f5f5261d169777785cc027823ec8127.ctv
 #EXTINF:-1 tvg-name="FOX NEWS" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_208.jpg" group-title="News",[VGA]FOX NEWS
-https://epg.pw/stream/f2c4786b1d3953960277fbd7cea49197e4af29d6c63838b4aaa20e332952a7c8.ctv
+https://epg.pw/stream/73097e9b20abd4b5492c36d971cfc6d2c4a39d8d280a7bf82aade6bfc618ae47.ctv
 #EXTINF:-1 tvg-name="FOX NEWS NOW" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/09/01/large/20230901185447289662_51.jpg" group-title="News",[HD]fox newsnow
 https://epg.pw/stream/516cd8fec2b2c85c5d66b50e360a503ccde03570a6701514765b03e42443d43a.m3u8
 #EXTINF:-1 tvg-name="FOX Sports 2" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720210021959688_47.png" group-title="Sport",[HD]FoxSports2
@@ -565,8 +569,10 @@ https://epg.pw/stream/9cff6a43e31749618b42a7437524eff608e46e4a5ee7695161e8c922ce
 https://epg.pw/stream/54fa803999659caa34cf50eb8a6790cbb0464e81a4b72ea5d8b3958bcae15758.m3u8
 #EXTINF:-1 tvg-name="MTV LIVE" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/10/27/large/20171027212332267177_57.png" group-title="Music",[SD]MTV LIVE
 https://epg.pw/stream/dca32960237590b8c905720d0f413d33c6e3c286f212b001ef8d632caaf12578.ctv
-#EXTINF:-1 tvg-name="MTV UK" tvg-id="" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/04/18/large/20220418230044523988_98.png" group-title="Music",[SD]MTV UK
+#EXTINF:-1 tvg-name="MTV UK" tvg-id="" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/04/18/large/20220418230044523988_98.png" group-title="Music",[HD]MTV UK
 https://epg.pw/stream/df02525d45ab8358c660b5a3a0e7266a27737822d2ceba21177b09ec0b3683f1.ctv
+#EXTINF:-1 tvg-name="MTVHD" tvg-id="" tvg-country="United States" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2016/06/20/large/20160620154233977402_79.png" group-title="Music",[BD]MTVHD
+https://epg.pw/stream/b8989204f13f6f528176cc139b7e91d7d94d093824b72f596d23498191ae55d5.ctv
 #EXTINF:-1 tvg-name="MTVHITS" tvg-id="" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2015/11/28/large/20151128114935333600_98.jpg" group-title="Music",[SD]MTVHITS
 https://epg.pw/stream/d2c1dd28a38e9fb9de7fb872695ee8d9a88a09c6d4201505b6856f124482d7c4.ctv
 #EXTINF:-1 tvg-name="Maah TV" tvg-id="" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318085339314482_56.png" group-title="News",[SD]makkah tv
@@ -577,7 +583,7 @@ https://epg.pw/stream/1852038bd6fa3f30de1a3fa56e8946a4924342a62d5ee88a095fe6ffae
 https://epg.pw/stream/0a121bbadc2103c10c92559124dace41040788948cbcb4f7ced811653dbd4465.m3u8
 #EXTINF:-1 tvg-name="Movie Plus" tvg-id="" tvg-country="Japan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513214224888581_72.jpg" group-title="Movie",[SD]ムービープラス / movie plus
 https://epg.pw/stream/287870ec1af6e2f0c82dc60d40b083c83bfb7317da44a1f8eca9e592e8056813.m3u8
-#EXTINF:-1 tvg-name="Music On!TV" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/12/large/20211212021118140187_79.png" group-title="Entertainment",[HD]music on tv!
+#EXTINF:-1 tvg-name="Music On!TV" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/12/large/20211212021118140187_79.png" group-title="Entertainment",[VGA]music on tv!
 https://epg.pw/stream/567c4d2e06087ed5a754bba796506b8710c452ad11675ba97b92c395f3fbf206.m3u8
 #EXTINF:-1 tvg-name="NART TV" tvg-id="" tvg-country="Jordan" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174342081100_40.png" group-title="Entertainment",[BD]nat tv (1080p)
 https://epg.pw/stream/c38da8a5b50de96fc5ca77a36655061544f2c955081a1135aa8ca51d424ba86f.m3u8
@@ -617,8 +623,6 @@ https://epg.pw/stream/d4388d0883822c943bfd9c08204f99d0bb0607a81b2b207ffcb104ee82
 https://epg.pw/stream/36c7b460935f92b0104ebbabd0d92689e91f568f0bf4910f29f8967d668d3742.m3u8
 #EXTINF:-1 tvg-name="NHK BS1" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513155023988525_66.jpg" group-title="Generic",[SD]nhk bs1
 https://epg.pw/stream/631167d465811fe2437e79eebbbc3501f4c35f3c70ca9bafd2af5b4366f66776.m3u8
-#EXTINF:-1 tvg-name="NHK BS4K" tvg-id="10770" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/12/large/20211212021040986978_14.png" group-title="News",[SD]nhk bsp4k
-https://epg.pw/stream/2256b596dfe5e62f8beca3a009ff7fe2b3f1e185eded031b0f640afa5115ba63.m3u8
 #EXTINF:-1 tvg-name="NHK Education" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513160430068486_35.jpg" group-title="Other",[BD]lnktv education
 https://epg.pw/stream/d89a47c5e381287620df7410bae473a43a9b5ac1f093267647f71f02521a2542.m3u8
 #EXTINF:-1 tvg-name="NHK World Japan" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/03/05/large/20220305152534604002_80.png" group-title="Generic",[BD]nhk world japan
@@ -681,8 +685,10 @@ https://epg.pw/stream/6c58ad9a751644fad9fd999d9d8136b61a28ef7029306b533dc048c316
 https://epg.pw/stream/67946fc50564147f6e8d7975491f5f4f8f85337223ffae3afec0860fea9b2d82.m3u8
 #EXTINF:-1 tvg-name="SKY CINEMA SELECT HD" tvg-id="9315" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/22/large/20221022002850610910_54.png" group-title="Movie",[HD]SKY CINEMA SELECT HD
 https://epg.pw/stream/23e0059dbbe858d8528bd1d95f5e970d9589dbd2d24c3d9313ce27978fcd675f.ctv
-#EXTINF:-1 tvg-name="SKY Cinema Thriller" tvg-id="" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/17/large/20220817145317304738_63.jpg" group-title="Movie",[BD]SKY CINEMA THRILLER
+#EXTINF:-1 tvg-name="SKY Cinema Thriller" tvg-id="" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/17/large/20220817145317304738_63.jpg" group-title="Movie",[HD]SKY CINEMA THRILLER
 https://epg.pw/stream/7b4d6f7f395fc8efb199fc60d5c3666687a54a451bd3d6b01e9d55d668aaf82a.ctv
+#EXTINF:-1 tvg-name="SKY Crime" tvg-id="12394" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/04/18/large/20220418231326430406_79.png" group-title="Movie",[SD]SKYCRIME
+https://epg.pw/stream/8d3fc97346bdf1028d90b023e3a26ab6543bb222e04cf416391eaf8ed4c38ac8.ctv
 #EXTINF:-1 tvg-name="SKY Sports Arena" tvg-id="" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/20/large/20220820183718915232_77.png" group-title="Sport",[HD]ช่อง sky sports arena
 https://epg.pw/stream/62d26606d9eabe527ec18ab2b2187b2eae939d7797495d54de5928e2ad9237c9.m3u8
 #EXTINF:-1 tvg-name="SKY Sports Football" tvg-id="9154" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/07/14/large/20200714134144611568_75.png" group-title="Sport",[HD]ช่อง sky sports football
@@ -691,6 +697,8 @@ https://epg.pw/stream/7b5aa5336d372a0f13ea96e900d63d682dc8be30a43034ab6893daae65
 https://epg.pw/stream/a66aee59844fc6c9c3a0a53c6d27032bd519af3eeadb1330d7b7942e5ce098e3.m3u8
 #EXTINF:-1 tvg-name="SKYCINEMAACTIONHD" tvg-id="" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/09/19/large/20220919230346467253_96.png" group-title="Movie",[HD]SKYCINEMAACTIONHD
 https://epg.pw/stream/49958d5fd40f22ed101c5ceec145351151a0f883a18f008e5a8f96e9ac72b886.ctv
+#EXTINF:-1 tvg-name="SKYSHOWCASE" tvg-id="" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2015/11/08/large/20151108142713417793_75.jpg" group-title="Movie",[SD]SKYSHOWCASE
+https://epg.pw/stream/a915dba8e597d0168bdaf49d0b619675c0f468e0acb1932ecb2f95b5120ad425.ctv
 #EXTINF:-1 tvg-name="STARZCINEMA" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/06/20151206121217311298_75.jpg" group-title="Movie",[VGA]STARZCINEMA
 https://epg.pw/stream/aa2631ce2ea9e38976a94cb2e29764d96d28cb1df024b91a44bdfa12053d6834.ctv
 #EXTINF:-1 tvg-name="SUNDANCE" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/03/05/large/20170305232411501741_49.png" group-title="Documentary",[HD]SUNDANCE
@@ -699,8 +707,8 @@ https://epg.pw/stream/92b3551ac9f57e2708395b262af9677a5d334bf40c6101d1c1b0f16090
 https://epg.pw/stream/fa230eb782c2bf9eb710239c8990342cadb56f9a30341e6ef3098fdf9b01d7e2.ctv
 #EXTINF:-1 tvg-name="Semerkand TV" tvg-id="" tvg-country="Turkey" tvg-language="Turkish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174322491087_30.png" group-title="Entertainment",[HD]semerkand tv
 https://epg.pw/stream/4d30e01aef956585fd8c263ab72deddfc7a38a3462a0737e8682e6f02e9f5a63.m3u8
-#EXTINF:-1 tvg-name="Showtime" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/02/24/large/20220224195356312478_19.png" group-title="Movie",[BD]Showtime
-https://epg.pw/stream/5f060a5244c70f6c025ca47572f50d6db9b3405fc74d56937c1acf48f7651cd0.ctv
+#EXTINF:-1 tvg-name="Showtime" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/02/24/large/20220224195356312478_19.png" group-title="Movie",[HD]Showtime
+https://epg.pw/stream/d84ed799809a96cea5f76c77ec247e2f8a1fedf0392d2075373372c2e925cdb3.ctv
 #EXTINF:-1 tvg-name="Sky Arts" tvg-id="12135" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/04/18/large/20220418231947908429_98.jpg" group-title="Entertainment",[BD]SkyArts
 https://epg.pw/stream/58e71a9a9e148c0154ef24e6833bc54ffbc10e43b26ed6cd99190360436fa15f.ctv
 #EXTINF:-1 tvg-name="Sky Documentaries" tvg-id="9366" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/04/13/large/20220413144541457274_63.png" group-title="Documentary",[HD]rakuten documentaries
@@ -1013,7 +1021,7 @@ https://epg.pw/stream/4a1f590466d769feb9c2025f6265e08e7f061b6f88d3b5d75c7a427693
 https://epg.pw/stream/b1c58c806c8ad4031c3d50c5e88b4f547e5893124e0b6a13f67a9b866f3f55e5.m3u8
 #EXTINF:-1 tvg-name="ary news" tvg-id="" tvg-country="Pakistan" tvg-language="Urdu" tvg-logo="https://epg.pw/media/img/logo/1_78.jpg" group-title="News",[BD]ary news
 https://epg.pw/stream/b03d78204cfb6f058625ded4b53e64f643951479b6ba90d30424fba0c32c5fe8.m3u8
-#EXTINF:-1 tvg-name="asharq discovery" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/10/12/large/20171012233016673772_39.png" group-title="Documentary",[HD]asharq discovery
+#EXTINF:-1 tvg-name="asharq discovery" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/10/12/large/20171012233016673772_39.png" group-title="Documentary",[BD]asharq discovery
 https://epg.pw/stream/290316838c66f7325c997195b5f5c564dfd995d2e7cd7fe00cca7ab263082aa6.m3u8
 #EXTINF:-1 tvg-name="asharq news (1080p)" tvg-id="" tvg-country="Iraq" tvg-language="العربية" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/8edf68fca605a7b93c190c26e55838a3.png" group-title="News",[BD]asharq news (1080p)
 https://epg.pw/stream/409962e3325684053ebaaf4cb7e48db3d50b72bbcf626b4c0bd02ed156a8a0f3.m3u8
@@ -1099,7 +1107,7 @@ https://epg.pw/stream/82e1e42b8ce5dc7f8b1865373573b65347189f1365d4286da50afa7abc
 https://epg.pw/stream/6593328ba3053d3c97773ca397efa0c0a7dc41501aca7ec8c16c3c5c37590500.ctv
 #EXTINF:-1 tvg-name="bs-tbs" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513154427017647_84.jpg" group-title="Generic",[HD]bs-tbs
 https://epg.pw/stream/838c358f466f61af90c05abaa9346b9ffc5768d5bd03c1c84d228fa519ee0287.m3u8
-#EXTINF:-1 tvg-name="bs11" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/08/27/large/20210827190336051433_50.png" group-title="News",[HD]bs11
+#EXTINF:-1 tvg-name="bs11" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/08/27/large/20210827190336051433_50.png" group-title="News",[VGA]bs11
 https://epg.pw/stream/5fbc42b041ceb605c264acc2d2d9610cacf644acb15b473397920e5b4ca0ef4f.ctv
 #EXTINF:-1 tvg-name="btn tv (1080p)" tvg-id="" tvg-country="Korea" tvg-language="Korean" tvg-logo="https://epg.pw/media/images/channel/2022/12/24/large/20221224163818740665_45.jpeg" group-title="News",[BD]btn tv (1080p)
 https://epg.pw/stream/732d9bbe5849427165fe21663e597d479db125a9aea66cbe5b9a458c04439959.m3u8
@@ -1323,6 +1331,8 @@ https://epg.pw/stream/70aae32f941ab8b702ee73c95adc058a1b87e065db280fbb667887f61a
 https://epg.pw/stream/23d4a4ba53acfdcb65ba678700185fa58c8e1de0aeb5395385bcdcbad43ea5a6.m3u8
 #EXTINF:-1 tvg-name="english club tv" tvg-id="" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173936661517_47.png" group-title="Other",[BD]english club tv
 https://epg.pw/stream/15739965ef875aed58117ffcb940d9e6577e9cada64e688e01723439d76b5b1c.ctv
+#EXTINF:-1 tvg-name="espn 3" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/05/12/20160512220011575873_25.png" group-title="Sport",[HD]espn 3
+https://epg.pw/stream/93b50799cf19f9223ae2ce8f833c36b94b81a28ef34629f60cc60de3f709eb6f.ctv
 #EXTINF:-1 tvg-name="espn2 méxico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2017/01/08/large/20170108232724093116_88.jpg" group-title="Sport",[VGA]espn2 méxico
 https://epg.pw/stream/8185efed8eaa2684b89c1ab9dd6e5790ad52f52633558c4378e3a1159586fd05.m3u8
 #EXTINF:-1 tvg-name="estv (1080p)" tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/img/logo/ESTV.PNG" group-title="Generic",[BD]estv (1080p)
@@ -1441,7 +1451,7 @@ https://epg.pw/stream/1f44d0b1ffa596bf68f50d6d18a92b2752f6cf9615bcd05c8cc607edef
 https://epg.pw/stream/427e03dd99563179c24b5d7b2323de6ab3ca3b65b8b941e90c4f0e4edd54612a.ctv
 #EXTINF:-1 tvg-name="hbo plus" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/02/12/large/20230212215529490602_27.png" group-title="Movie",[HD]hbo plus
 https://epg.pw/stream/ca89e46836f09f72a3b0fd65e262dfcbe9dc2e1c0deab05b48330465577e5ea1.ctv
-#EXTINF:-1 tvg-name="hbo2*" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2015/10/21/large/20151021120721309481_57.jpg" group-title="Movie",[BD]hbo2*
+#EXTINF:-1 tvg-name="hbo2*" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2015/10/21/large/20151021120721309481_57.jpg" group-title="Movie",[HD]hbo2*
 https://epg.pw/stream/b55e548ed34239f35f054d5d41b5c17d2cce1da7d596252e33e544855cdea106.ctv
 #EXTINF:-1 tvg-name="hbtv" tvg-id="" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/02/10/20170210215455741600_89.png" group-title="Generic",[VGA]hbtv
 https://epg.pw/stream/0a0808dec3812e9bb57ca89fff8cd02d700dce5f277a1cc70c4257c3bf4961bd.m3u8
@@ -1629,7 +1639,7 @@ https://epg.pw/stream/c414a801f21b327a0aafb94704c8d0e1d0f20fe469e23d7bc84db1ad1c
 https://epg.pw/stream/af6246836cb5b4aa73b19269e9a550863244138255669a92202d2d2603f1c13f.m3u8
 #EXTINF:-1 tvg-name="magic tv" tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/images/channel/2021/06/24/large/20210624004025127408_48.png" group-title="Entertainment",[HD]magic tv
 https://epg.pw/stream/18655fcd8e29d939067ff01057b86371c3e9aad595dd19bb7684eeec10ff4fbc.m3u8
-#EXTINF:-1 tvg-name="magna channel" tvg-id="" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152121888863_44.png" group-title="News",[BD]magna channel
+#EXTINF:-1 tvg-name="magna channel" tvg-id="" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152121888863_44.png" group-title="News",[HD]magna channel
 https://epg.pw/stream/5c23cc46be18db0fe98557b0534405fe4b5cbe0423704550b7f2b48934c48bac.m3u8
 #EXTINF:-1 tvg-name="malta" tvg-id="" tvg-country="malta" tvg-language="Maltese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/05/20160105045351650501_86.jpg" group-title="Generic",[HD]malta
 https://epg.pw/stream/cbded20c9aeb794947c96247f7a8b242846887f330d2d5c6147800fd1d1e569b.m3u8
@@ -1701,13 +1711,11 @@ https://epg.pw/stream/88df8a61eb8975fcaae5f910e85de2ce7267826e4eef17119dbf940ce7
 https://epg.pw/stream/c7ea679b5242228e8eb49d10c41930d2d85b0decb0e0446fc9b3d46e20d0f757.ctv
 #EXTINF:-1 tvg-name="msnbc" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/01/23/large/20190123012009812276_31.jpg" group-title="News",[VGA]msnbc
 https://epg.pw/stream/03c13ef1222ec66ac5e3adef9076f5a111a75acf6c708000b4839aaf8242fc85.m3u8
-#EXTINF:-1 tvg-name="mtv hd" tvg-id="" tvg-country="United States" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2016/06/20/large/20160620154233977402_79.png" group-title="Music",[BD]mtv hd
-https://epg.pw/stream/9e8d079f18d73f7c8bc8f664ed48372915eeabc747af92aaa1f42a7f056d4822.m3u8
 #EXTINF:-1 tvg-name="mtv lebanon" tvg-id="" tvg-country="Lebanon" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2015/12/01/large/20151201164631263144_42.jpg" group-title="Music",[BD]mtv lebanon
 https://epg.pw/stream/8ff8f23baca9cf4c9acb9c46409870c8741408e5e035b3918b6139088502900b.m3u8
 #EXTINF:-1 tvg-name="mtv live" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/19/20140519121831600486_54.png" group-title="Music",[BD]mtv live
 https://epg.pw/stream/b3cdb6f76f83a37d3dd6777793d5c299c76de98d0c509d0d472a3ded813d4e8d.m3u8
-#EXTINF:-1 tvg-name="multishow" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/27/20170727164051233389_25.png" group-title="Generic",[HD]multishow
+#EXTINF:-1 tvg-name="multishow" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/27/20170727164051233389_25.png" group-title="Generic",[BD]multishow
 https://epg.pw/stream/5596d872c0490d66b88cae11ba350549ab401ca8e21101ee2ff75259a1f3acb9.ctv
 #EXTINF:-1 tvg-name="music" tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/06/02/20150602170136873196_31.png" group-title="Entertainment",[BD]music
 https://epg.pw/stream/ac2accb2d61b5a5af2e17e9598b374967f415b6e158612c1d990b3598b6219b9.ctv
@@ -2115,9 +2123,9 @@ https://epg.pw/stream/8652d2d016ac773ed954c166e99989e77efb955c136e13544413ac34ae
 https://epg.pw/stream/b5dda13e24860830ea601c88935169dbd460917028d240dcf68bf8c968dfcc16.m3u8
 #EXTINF:-1 tvg-name="sports italia" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2022/04/15/large/20220415000118080279_93.png" group-title="Sport",[BD]sports italia
 https://epg.pw/stream/5fcc7bd74c511b531db9df5b759826f38e17b7ef9868cd9bf2c6a00d37238cef.m3u8
-#EXTINF:-1 tvg-name="sporttv 1" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/04/15/20150415005322259911_37.png" group-title="Sport",[SD]sporttv 1
+#EXTINF:-1 tvg-name="sporttv 1" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/04/15/20150415005322259911_37.png" group-title="Sport",[BD]sporttv 1
 https://epg.pw/stream/47d9fe610ae0c9ce02e19cdf979de7062ce3b30b77fa10ecef3df2bac1ea401a.m3u8
-#EXTINF:-1 tvg-name="sporttv 2" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/04/15/20150415005430330867_31.png" group-title="Sport",[SD]sporttv 2
+#EXTINF:-1 tvg-name="sporttv 2" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/04/15/20150415005430330867_31.png" group-title="Sport",[BD]sporttv 2
 https://epg.pw/stream/cb635f7ff096958bc284a5dcc046dd0f3d60bdf47339d90dc0945aa8c1cffd04.m3u8
 #EXTINF:-1 tvg-name="sportv" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/27/20170727175239652936_97.png" group-title="Sport",[HD]sportv
 https://epg.pw/stream/c2ab9e2ecccda2cce55db7e2c62d1b48e5e1a8053a5431a55cc658d6e0ed3789.ctv
@@ -2785,7 +2793,7 @@ https://epg.pw/stream/f951ab49e5198e21e04d633712b6b88d15cd4cbdbfddd0c49d0f1c5ea9
 https://epg.pw/stream/aa98a9968159ce115f8d1f2abed173e2b7e9d46b96d025167fe3747760bc7603.ctv
 #EXTINF:-1 tvg-name="兵团卫视" tvg-id="13901" tvg-country="China Country" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531161153317523_67.jpg" group-title="Other",[SD]兵团卫视[ipv6]
 https://epg.pw/stream/4a8abda1e84955b569ee1083bd382f5246d6e746277e0dc61a6f9af14a0032f1.m3u8
-#EXTINF:-1 tvg-name="内蒙卫视" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531160914023715_85.jpg" group-title="Generic",[VGA]内蒙卫视
+#EXTINF:-1 tvg-name="内蒙卫视" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531160914023715_85.jpg" group-title="Generic",[SD]内蒙卫视
 https://epg.pw/stream/1b883ea5879587ad63629e92ea51aa3717f9168d9e5e84f135dfbb97f2876c47.m3u8
 #EXTINF:-1 tvg-name="内蒙古蒙语文化" tvg-id="" tvg-country="China" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531161101868480_69.jpg" group-title="Generic",[BD]内蒙古蒙语文化
 https://epg.pw/stream/c3c0caed96cd1a72b3d080bfd1e51aeaf58dc40f803768cfb2e6a153eced3555.m3u8
@@ -3003,7 +3011,7 @@ https://epg.pw/stream/37555bfaaf041a1f11ac31ebb1b28ae693f5fc4299751b197a83e43783
 https://epg.pw/stream/54eacf981d4eba031293a7c4fb1c96c29c75f44fcacf6fa9ab6d8063b1060711.ctv
 #EXTINF:-1 tvg-name="广东珠江" tvg-id="" tvg-country="China Country" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721131424130629_91.png" group-title="Generic",[HD]广东珠江
 https://epg.pw/stream/2edf350407f7d14d96462c234b64d1d5ce353df9741f8b8ed1d63d50ed33256d.ctv
-#EXTINF:-1 tvg-name="广东经济科教" tvg-id="" tvg-country="China Country" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721133826826032_54.png" group-title="Generic",[VGA]广东经济科教
+#EXTINF:-1 tvg-name="广东经济科教" tvg-id="" tvg-country="China Country" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721133826826032_54.png" group-title="Generic",[BD]广东经济科教
 https://epg.pw/stream/92d2fa1304545640f7fd0d67aef94454f51f05a0cb77d0825f446954857c899a.m3u8
 #EXTINF:-1 tvg-name="广东综艺" tvg-id="14155" tvg-country="China Country" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721134205157268_86.png" group-title="Entertainment",[HD]广东综艺
 https://epg.pw/stream/e8b28ec61f7a94aee321cb57b38b6ed69638f0489cb004dae3417ba2de8ef4dd.ctv
@@ -3077,7 +3085,7 @@ https://epg.pw/stream/96fb4677915219a69c151563855a231f0b7d6e7392e403e66e40af9208
 https://epg.pw/stream/668fb3d6e3a20521e548c2ebfd06301680bbf96a2cf9163533ce7a92f08fd8a4.m3u8
 #EXTINF:-1 tvg-name="东方购物" tvg-id="" tvg-country="China Country" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/05/14/large/20220514170333461314_55.jpg" group-title="Other",[BD]东方购物[ipv6]
 https://epg.pw/stream/0dd853a4dd66a84e47bacb9da8d178429ba8fa9bf16c989b9b3df354ce0c9c1d.m3u8
-#EXTINF:-1 tvg-name="东映チャンネル" tvg-id="10711" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/10/26/large/20211026185045950061_64.png" group-title="Cartoon",[VGA]东映チャンネル
+#EXTINF:-1 tvg-name="东映チャンネル" tvg-id="10711" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/10/26/large/20211026185045950061_64.png" group-title="Cartoon",[HD]东映チャンネル
 https://epg.pw/stream/7b4039e1f687287a452111af31a166e48ef2e0c99d639b1cf7b7070b8250d01f.m3u8
 #EXTINF:-1 tvg-name="东映チャンネル / toei channel" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/09/21/large/20210921164213208358_67.png" group-title="Other",[BD]东映チャンネル / toei channel
 https://epg.pw/stream/7ce45ea3a73bd4f41a771025676708b7d1816d1d5f2f6c2070471360deb3ee82.m3u8
