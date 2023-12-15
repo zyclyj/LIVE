@@ -2225,9 +2225,9 @@
 | 2219 | TVK | [TVK](http://203.176.130.123:8989/live/tvk_480k.stream/playlist.m3u8?checkedby:iptvcat.com) |
 | 2220 | UCTV - University of California | [UCTV - University of California](https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8?checkedby:iptvcat.com) |
 | 2221 | UK  Akaal TV | [UK  Akaal TV](http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8?checkedby:iptvcat.com) |
-| 2222 | US  Albany | CBS 6 WRGB | [US  Albany | CBS 6 WRGB](https://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8?checkedby:iptvcat.com) |
+| 2222 | US  Albany  CBS 6 WRGB | [US  Albany  CBS 6 WRGB](https://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8?checkedby:iptvcat.com) |
 | 2223 | US  Better Life TV | [US  Better Life TV](https://uni10rtmp.tulix.tv/betterlife/betterlife.stream/chunklist.m3u8?checkedby:iptvcat.com) |
-| 2224 | US  Denver | ABC 7 KMGH | [US  Denver | ABC 7 KMGH](https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8?checkedby:iptvcat.com) |
+| 2224 | US  Denver  ABC 7 KMGH | [US  Denver  ABC 7 KMGH](https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8?checkedby:iptvcat.com) |
 | 2225 | WABI 5 - Bangor - Maine | [WABI 5 - Bangor - Maine](https://ad-playlistserver.aws.syncbak.com/playlist/13613390/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOjEzNjEzMzkwLCJtZDUiOiI2Y2M5MzczYjIxZWIwNzQ4ZDA0YTRlYzYyMjU2YjBhMiIsImlhdCI6MTQ5NzM4MTU5NywiaXNzIjoiU3luY2JhayIsInN1YiI6IkdyYXkifQ.qJPiMCbnGjAn9wgPrGjVl3M9Xfc4CVSyoZTZ5OH-1jo&checkedby:iptvcat.com) |
 | 2226 | WCCA-TV | [WCCA-TV](http://worcester.vod.castus.tv/live/ch1.m3u8?checkedby:iptvcat.com) |
 | 2227 | Wicked Tuna | [Wicked Tuna](https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-wickedtunanl-samsungnl/playlist.m3u8?checkedby:iptvcat.com) |
@@ -2567,4 +2567,4 @@
 | 2561 | 足球超级猎食者(上) | [足球超级猎食者(上)](https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/4d0dc6b22b8e48efa4a984ec990a4faf/1200.m3u8) |
 | 2562 | 足球超级猎食者(下) | [足球超级猎食者(下)](https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d7aec4db75da469d915a5dd7a0fb3d70/1200.m3u8) |
 
-Updated at **Fri Dec 15 2023 09:14:24 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Dec 15 2023 09:31:52 GMT+0000 (Coordinated Universal Time)**

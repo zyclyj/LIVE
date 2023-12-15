@@ -18,7 +18,7 @@
 | 12 | [BD]cctv4[ipv6] | [[BD]cctv4[ipv6]](https://epg.pw/stream/5ea26961bbc8690cbd372a194e8801249644123feab6354e1f2cdd2b8a0026ca.m3u8) |
 | 13 | [BD]cctv-5[ipv6] | [[BD]cctv-5[ipv6]](https://epg.pw/stream/0cebf04f8ced719321d379ebea3e3cb758aa2bb1a1ac7fd14c84ba6dc3f243dc.m3u8) |
 | 14 | [BD]cctv 5 | [[BD]cctv 5](https://epg.pw/stream/bea9cd814987adc99d80a9c5d4809e8670c99b9797c2abcacd77ab8459792df9.m3u8) |
-| 15 | [BD]cctv5+[ipv6] | [[BD]cctv5+[ipv6]](https://epg.pw/stream/c8560b706d9c7cb02b8b2a59a2c11a8b3d27768b932893d7d46084a95db47d57.m3u8) |
+| 15 | [BD]cctv5+ | [[BD]cctv5+](https://epg.pw/stream/3a46ab2e35791a2ab555f708c1f791b15eb6f249405d9ce255ef11e78eb16f5b.m3u8) |
 | 16 | [BD]cctv6[ipv6] | [[BD]cctv6[ipv6]](https://epg.pw/stream/7bbfe5fb8392af3f4ffdc18217c886d0937de05315ed7980dc17d9578d4411ac.m3u8) |
 | 17 | [BD]cctv7[ipv6] | [[BD]cctv7[ipv6]](https://epg.pw/stream/085cc8320b47039f91c89f261b3bde134c04438bf58155988cdd2120c8ae5c1c.m3u8) |
 | 18 | [BD]cctv8 | [[BD]cctv8](https://epg.pw/stream/9e5ef6be8ac32d23db431bdc8d9d49531b4bdf96d53db08dd102919b70f12e88.m3u8) |
@@ -179,4 +179,4 @@
 | 173 | [SD]黑龙江公共农业 | [[SD]黑龙江公共农业](https://epg.pw/stream/d4bc9942241f1c893fad50ece90abfce425419abf78dc318325058f860b1df11.m3u8) |
 | 174 | [BD]黑龙江卫视 8m | [[BD]黑龙江卫视 8m](https://epg.pw/stream/53cf5f9b0b328e1c40de1fc5d4aac8926a4772f9beeddad01f8a3350be87e5f1.ctv) |
 
-Updated at **Fri Dec 15 2023 09:14:24 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Dec 15 2023 09:31:52 GMT+0000 (Coordinated Universal Time)**
