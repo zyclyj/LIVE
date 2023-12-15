@@ -171,7 +171,7 @@
 | 165 | [BD]云南康旅 | [[BD]云南康旅](https://epg.pw/stream/dfa3173aad48d81e4bb65e1cd26f95558b31b51add7c5f5cdce6f670069946c2.m3u8) |
 | 166 | [BD]电竞天堂 | [[BD]电竞天堂](https://epg.pw/stream/2215b58aec9e988784dc101fa6de63fde15e8d53a489b05a01c275b8b7ae4989.ctv) |
 | 167 | [HD]青海都市 | [[HD]青海都市](https://epg.pw/stream/4acd2e75fc0a26c45b41c6808d6eb07039e023cf62c2b24b33767e969eaadc1a.m3u8) |
-| 168 | [BD]5+体育赛事 | [[BD]5+体育赛事](https://epg.pw/stream/e5eab09987c6427f243fbb4debcabf8686121e8eaf3385a451a798f5ce99949a.m3u8) |
+| 168 | [BD]5+体育赛事 | [[BD]5+体育赛事](https://epg.pw/stream/8e87dfe99f2a476ed0f64027d3fe221c0aa002845001d44e3e273df669c0bd9c.m3u8) |
 | 169 | [HD]黄石新闻综合 | [[HD]黄石新闻综合](https://epg.pw/stream/1586c79b7cfe7c205b3508bfd9d0fac2da8a9eb50edbb301312b3059740019d9.m3u8) |
 | 170 | [BD]黑莓动画[ipv6] | [[BD]黑莓动画[ipv6]](https://epg.pw/stream/89e7b1ef96dda539de25777630876882df0b78804426054f09f3a2aa677a868e.m3u8) |
 | 171 | [BD]黑莓电影[ipv6] | [[BD]黑莓电影[ipv6]](https://epg.pw/stream/a106bba49a6159d54ee66205038e678acf94d13e34266e678ee7b08ce650766a.m3u8) |
@@ -179,4 +179,4 @@
 | 173 | [SD]黑龙江公共农业 | [[SD]黑龙江公共农业](https://epg.pw/stream/d4bc9942241f1c893fad50ece90abfce425419abf78dc318325058f860b1df11.m3u8) |
 | 174 | [BD]黑龙江卫视 8m | [[BD]黑龙江卫视 8m](https://epg.pw/stream/53cf5f9b0b328e1c40de1fc5d4aac8926a4772f9beeddad01f8a3350be87e5f1.ctv) |
 
-Updated at **Fri Dec 15 2023 01:04:55 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Dec 15 2023 03:14:18 GMT+0000 (Coordinated Universal Time)**
