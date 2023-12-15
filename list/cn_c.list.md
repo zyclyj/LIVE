@@ -80,7 +80,7 @@
 | 74 | [HD]山西影视 | [[HD]山西影视](https://epg.pw/stream/f96d8634d466c4f2220b1c85e0997b47a2c07a9d0771baafb66f7151b3d75ef8.ctv) |
 | 75 | [HD]山西山西社会与法治 | [[HD]山西山西社会与法治](https://epg.pw/stream/d4939f0b26efd071f690ea78f655acea45c7b99bc35e835f4f48a136a8876929.m3u8) |
 | 76 | [HD]平湖新闻综合 | [[HD]平湖新闻综合](https://epg.pw/stream/42b48170548b6a57776c7592ecda1c9f326f0ed39dc0631337d1e8961aa97486.m3u8) |
-| 77 | [BD]康巴卫视 | [[BD]康巴卫视](https://epg.pw/stream/9456034a558ae718bcb6548cea66ff93832dcda8ca4051eaa574a596c281907f.ctv) |
+| 77 | [SD]康巴卫视 | [[SD]康巴卫视](https://epg.pw/stream/4a7f901d517897aa0bf1ff684b61423b1e107da6ea3b0bccc233526fba9cdf99.m3u8) |
 | 78 | [HD]广州综合.720 | [[HD]广州综合.720](https://epg.pw/stream/9e5d2238e47a5aadb49746075ee39e41a7b4826265014c349edeea310336c656.ctv) |
 | 79 | [HD]广东国际 | [[HD]广东国际](https://epg.pw/stream/ee751fa9b7a6838f962336dd49e45c4c037fdec6e9f7add40f8e6299db6dee1a.ctv) |
 | 80 | [HD]广东少儿 | [[HD]广东少儿](https://epg.pw/stream/a4e4c101283a531599d4477b69a2621112e7802e230a5afaa161c191fb9ec2d4.ctv) |
@@ -193,4 +193,4 @@
 | 187 | [VGA]黑龙江新闻 | [[VGA]黑龙江新闻](https://epg.pw/stream/6fe0461d8f101b8f9da77bb21785e3224610d31b800c0bd5c86f9abdd8ab380f.m3u8) |
 | 188 | [HD]点掌财经 | [[HD]点掌财经](https://epg.pw/stream/96bec7b1f9d22ac90697af55775bf2328443600cdc5ac81952ca681c136f86f7.m3u8) |
 
-Updated at **Fri Dec 15 2023 18:11:30 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Dec 15 2023 20:09:40 GMT+0000 (Coordinated Universal Time)**
