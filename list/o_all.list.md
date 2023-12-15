@@ -3832,4 +3832,4 @@
 | 3826 | Хит HD | [Хит HD](http://moobl.ru/hls/Hit_hd.m3u8) |
 | 3827 | Առաջին ալիք (1080p) | [Առաջին ալիք (1080p)](https://amtv1.livestreamingcdn.com/am2abr/index.m3u8) |
 
-Updated at **Fri Dec 15 2023 12:27:12 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Dec 15 2023 13:39:46 GMT+0000 (Coordinated Universal Time)**
