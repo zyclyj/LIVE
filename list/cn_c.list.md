@@ -16,7 +16,7 @@
 | 10 | [BD]newtv精品纪录[ipv6] | [[BD]newtv精品纪录[ipv6]](https://epg.pw/stream/3745626b332353d3a3b029f2c86d2be6025b392c11261585cee511bd1dffdf63.m3u8) |
 | 11 | [BD]newtv精品体育[ipv6] | [[BD]newtv精品体育[ipv6]](https://epg.pw/stream/d057acbad8a13889c27b858257a7ea1791caf9409afc026a8f83f279c00d9a45.m3u8) |
 | 12 | [BD]newtv超级综艺[ipv6] | [[BD]newtv超级综艺[ipv6]](https://epg.pw/stream/993b177d006da3fe1e88f9e34d5c4f039acb16c782b8588a422b382bc0fd848b.m3u8) |
-| 13 | [BD]newtv超级电视剧[ipv6] | [[BD]newtv超级电视剧[ipv6]](https://epg.pw/stream/cbb96741ec3cf4ec53c38206d00900573c2528364c958f8f4f8e99d9d7e32b30.m3u8) |
+| 13 | [BD]newtv超级电视剧[ipv6] | [[BD]newtv超级电视剧[ipv6]](https://epg.pw/stream/7143af007bc83b9378182b9052cb62556fdae3f57eda7e3d41bd95dd057769d9.m3u8) |
 | 14 | [BD]newtv超级体育[ipv6] | [[BD]newtv超级体育[ipv6]](https://epg.pw/stream/c7503b6b9f77e14eea36ce3be4648424cadcb4818ffdb6c7aab217d3294c3189.m3u8) |
 | 15 | [BD]newtv军事评论[ipv6] | [[BD]newtv军事评论[ipv6]](https://epg.pw/stream/a97767f126f84edb52e8344d91366034de22cd1beb45310cdf8cc368205421c1.m3u8) |
 | 16 | [BD]newtv军旅剧场[ipv6] | [[BD]newtv军旅剧场[ipv6]](https://epg.pw/stream/189da59a4ede23964b9effa3cfb8a7a77da2a8c6d5d4bcfd6ebb82c7d92f3049.m3u8) |
@@ -35,7 +35,7 @@
 | 29 | [BD]内蒙古新闻综合 | [[BD]内蒙古新闻综合](https://epg.pw/stream/d7aa1346ac7eb6557177de5d526cbf5ca3f027ffa89d3f95472c1f6c5b8a5b2c.m3u8) |
 | 30 | [BD]内蒙古经济生活 | [[BD]内蒙古经济生活](https://epg.pw/stream/15b68111ae34d993d7b93a271508a997b3410ab2a8e9b98543d831295c3e35bf.m3u8) |
 | 31 | [BD]内蒙古农牧 | [[BD]内蒙古农牧](https://epg.pw/stream/f426a12024c3d2a6271d7b4e1514b8da71aeef77a9033c211e1e49a8386a8668.m3u8) |
-| 32 | [SD]兵团卫视[ipv6] | [[SD]兵团卫视[ipv6]](https://epg.pw/stream/4a8abda1e84955b569ee1083bd382f5246d6e746277e0dc61a6f9af14a0032f1.m3u8) |
+| 32 | [VGA]兵团卫视 | [[VGA]兵团卫视](https://epg.pw/stream/2b93c0707ebebf36cc725d90facea67f6e499455e679ec27ec061e901adbf063.m3u8) |
 | 33 | [BD]劲爆体育 | [[BD]劲爆体育](https://epg.pw/stream/5c9f8deb5d2b8a259adb635f16239674f23d6075bb3713aa4795a8a7ecb34f52.ctv) |
 | 34 | [BD]动漫秀场[ipv6] | [[BD]动漫秀场[ipv6]](https://epg.pw/stream/ca411be8f82bf17d3a956ffaf09b072a27ff9d9bb0d83fa3cae307eef53b6a68.m3u8) |
 | 35 | [BD]北京纪实8k | [[BD]北京纪实8k](https://epg.pw/stream/544cc09b12f4a7e88dcf6d03ac6f42925ce17749273bdc3f324897c1593df622.m3u8) |
@@ -112,7 +112,7 @@
 | 106 | [HD]武汉外语频道 | [[HD]武汉外语频道](https://epg.pw/stream/7d6f0bf46970d632f2114819f82f87d6b6635f78c38f5e060d9cd4012d9b1b4b.m3u8) |
 | 107 | [SD]武汉少儿 | [[SD]武汉少儿](https://epg.pw/stream/27cd1eac8d351cc84757c70d2e26ed14cb26bb6c81a7c33b569d083b99db4129.m3u8) |
 | 108 | [HD]武汉教育 | [[HD]武汉教育](https://epg.pw/stream/c5bc53591db0451f2626ddff43e2de1460de1cbb8d7225d9d8c45e9660e9cb51.m3u8) |
-| 109 | [HD]武汉文体 (480p) | [[HD]武汉文体 (480p)](https://epg.pw/stream/b5e5c2bf78a8bed49158096472f899ffe30bc2a0ca4ac0471778b117308ec49b.m3u8) |
+| 109 | [VGA]武汉文体 (480p) | [[VGA]武汉文体 (480p)](https://epg.pw/stream/b5e5c2bf78a8bed49158096472f899ffe30bc2a0ca4ac0471778b117308ec49b.m3u8) |
 | 110 | [VGA]武汉新闻综合 | [[VGA]武汉新闻综合](https://epg.pw/stream/277c2b350a2b37b80dd8a4b766d55c7bf7b44e2b0cdfbe38024cf5803f80ace4.m3u8) |
 | 111 | [HD]武汉经济 (360p) | [[HD]武汉经济 (360p)](https://epg.pw/stream/60692e28a9cf28d4d2bc7f266c2bca9418f30b3ffdc15f5f702871690d35acfa.m3u8) |
 | 112 | [SD]河北武汉电视剧 | [[SD]河北武汉电视剧](https://epg.pw/stream/456f2251ba309946a1b4954299fa7941150642941c69ef7224f888c4803834df.m3u8) |
@@ -171,27 +171,26 @@
 | 165 | [BD]西藏影视文化 | [[BD]西藏影视文化](https://epg.pw/stream/9a6b49ff952af2ee818eb442630cba62a6d2838512c25cca0dbbb538928bd639.ctv) |
 | 166 | [BD]西藏藏语卫视 | [[BD]西藏藏语卫视](https://epg.pw/stream/148e540afa7683fb494344fb52815e6140e275533007ac87e8edc270a978677f.ctv) |
 | 167 | [HD]象山新闻综合 | [[HD]象山新闻综合](https://epg.pw/stream/19c5142ea270b459d4f7b4bd6ee40d94f774a61bfc3ee98a4a41f31e4a2956f6.m3u8) |
-| 168 | [VGA]郧阳新闻综合 | [[VGA]郧阳新闻综合](https://epg.pw/stream/fdbab753884bf4af529a26485aa48b82bab87d576dcccab427f5cf2203c051d3.m3u8) |
-| 169 | [BD]都市剧场[ipv6] | [[BD]都市剧场[ipv6]](https://epg.pw/stream/a71e07f6cbd3312516acb0e57d051b658f6c883a8962fef4e6e950241bc230c7.m3u8) |
-| 170 | [BD]鄂州新闻综合 | [[BD]鄂州新闻综合](https://epg.pw/stream/a548b0d006d8b7197c3544f2a678e07744882777dc4c25e42a94e9cc27d006b3.m3u8) |
-| 171 | [SD]金鹰卡通[ipv6] | [[SD]金鹰卡通[ipv6]](https://epg.pw/stream/1c8b5cf46200851398c52c4355d49b4ef49fab78c2a0f0c0b69d1669f4792080.m3u8) |
-| 172 | [BD]金鹰纪实 | [[BD]金鹰纪实](https://epg.pw/stream/e315ceabf401c1ff3137b66f82fda9495138bc05b689dc5c5651fc924ce0787c.m3u8) |
-| 173 | [BD]长沙女性 | [[BD]长沙女性](https://epg.pw/stream/8167b6aedb869a56915fbf9d7000f4836c7dcc069517b231b59e1d101b9dff18.m3u8) |
-| 174 | [BD]长沙政法 | [[BD]长沙政法](https://epg.pw/stream/f44a51bbf1ea4a7a9d8b3e977f036244d3a7c62a99226d727742791b9d078ea3.m3u8) |
-| 175 | [BD]长沙新闻 | [[BD]长沙新闻](https://epg.pw/stream/e887be792378e8f9de68cdcdd8a739a3ef931e1554eaea918601ed647d063ce2.m3u8) |
-| 176 | [BD]云南少儿 | [[BD]云南少儿](https://epg.pw/stream/a83a92e245f1cd9fde9b4051bf2d6c0e74090d4e3fcf6f68e34a2ac9ecd8c010.m3u8) |
-| 177 | [BD]云南影视 | [[BD]云南影视](https://epg.pw/stream/738a72f80690b1c6f06ad0a7543f0d084c8bf90a096b3e6c44706660250fc345.m3u8) |
-| 178 | [SD]青海西宁新闻 | [[SD]青海西宁新闻](https://epg.pw/stream/2fa389df085b27ada57c504583186076a49b6b839f3bd74c051aeafff9121abf.m3u8) |
-| 179 | [SD]青海西宁生活 | [[SD]青海西宁生活](https://epg.pw/stream/ebb284bdfa9c46f0d32785abba28b9ceff5efefde0e722eea947bf5b3a71b377.m3u8) |
-| 180 | [HD]青海青海综合 | [[HD]青海青海综合](https://epg.pw/stream/5cb777ff37d8dd005b5912ce19a3c229a89692c66f661e67996f46b1cea13138.m3u8) |
-| 181 | [HD]青海经视 | [[HD]青海经视](https://epg.pw/stream/684b0967063b916bcc7e16480e96a7917c0cf4e14a4813aa871b2737beda135a.m3u8) |
-| 182 | [BD]魅力足球 | [[BD]魅力足球](https://epg.pw/stream/100f8d10fb39d11544e9f834c30dd5a57e92915f801d8e9bf50bf0f01345bef7.m3u8) |
-| 183 | [BD]黑龙江少儿[ipv6] | [[BD]黑龙江少儿[ipv6]](https://epg.pw/stream/48e92831729c0c0856754b6a8d35e579263b726e9c14f9d70add1b78c8971231.m3u8) |
-| 184 | [BD]黑龙江影视[ipv6] | [[BD]黑龙江影视[ipv6]](https://epg.pw/stream/ed5dc2b0cc5b2b66aa555a138facfa40db8ca24d1225e593d45fc3bb8f07d688.m3u8) |
-| 185 | [BD]黑龙江文体[ipv6] | [[BD]黑龙江文体[ipv6]](https://epg.pw/stream/c9c4d9aabfbd26984e900ce586b7bfbf1c5c3d6fc5ff90682f704e8cc069ee9f.m3u8) |
-| 186 | [VGA]黑龙江新闻法治 | [[VGA]黑龙江新闻法治](https://epg.pw/stream/96f880b7640f6a9b54b46cc980132e9a824732a85a9b93fba194fb5977735412.m3u8) |
-| 187 | [BD]黑龙江都市[ipv6] | [[BD]黑龙江都市[ipv6]](https://epg.pw/stream/7f0506c053e2d595749fd2c67c83e4abd7b5115ab0d735ae6eb8519dd9624bf6.m3u8) |
-| 188 | [VGA]黑龙江新闻 | [[VGA]黑龙江新闻](https://epg.pw/stream/6fe0461d8f101b8f9da77bb21785e3224610d31b800c0bd5c86f9abdd8ab380f.m3u8) |
-| 189 | [HD]点掌财经 | [[HD]点掌财经](https://epg.pw/stream/96bec7b1f9d22ac90697af55775bf2328443600cdc5ac81952ca681c136f86f7.m3u8) |
+| 168 | [BD]都市剧场[ipv6] | [[BD]都市剧场[ipv6]](https://epg.pw/stream/a71e07f6cbd3312516acb0e57d051b658f6c883a8962fef4e6e950241bc230c7.m3u8) |
+| 169 | [BD]鄂州新闻综合 | [[BD]鄂州新闻综合](https://epg.pw/stream/a548b0d006d8b7197c3544f2a678e07744882777dc4c25e42a94e9cc27d006b3.m3u8) |
+| 170 | [SD]金鹰卡通[ipv6] | [[SD]金鹰卡通[ipv6]](https://epg.pw/stream/1c8b5cf46200851398c52c4355d49b4ef49fab78c2a0f0c0b69d1669f4792080.m3u8) |
+| 171 | [BD]金鹰纪实 | [[BD]金鹰纪实](https://epg.pw/stream/e315ceabf401c1ff3137b66f82fda9495138bc05b689dc5c5651fc924ce0787c.m3u8) |
+| 172 | [BD]长沙女性 | [[BD]长沙女性](https://epg.pw/stream/8167b6aedb869a56915fbf9d7000f4836c7dcc069517b231b59e1d101b9dff18.m3u8) |
+| 173 | [BD]长沙政法 | [[BD]长沙政法](https://epg.pw/stream/f44a51bbf1ea4a7a9d8b3e977f036244d3a7c62a99226d727742791b9d078ea3.m3u8) |
+| 174 | [BD]长沙新闻 | [[BD]长沙新闻](https://epg.pw/stream/e887be792378e8f9de68cdcdd8a739a3ef931e1554eaea918601ed647d063ce2.m3u8) |
+| 175 | [BD]云南少儿 | [[BD]云南少儿](https://epg.pw/stream/a83a92e245f1cd9fde9b4051bf2d6c0e74090d4e3fcf6f68e34a2ac9ecd8c010.m3u8) |
+| 176 | [BD]云南影视 | [[BD]云南影视](https://epg.pw/stream/738a72f80690b1c6f06ad0a7543f0d084c8bf90a096b3e6c44706660250fc345.m3u8) |
+| 177 | [SD]青海西宁新闻 | [[SD]青海西宁新闻](https://epg.pw/stream/2fa389df085b27ada57c504583186076a49b6b839f3bd74c051aeafff9121abf.m3u8) |
+| 178 | [SD]青海西宁生活 | [[SD]青海西宁生活](https://epg.pw/stream/ebb284bdfa9c46f0d32785abba28b9ceff5efefde0e722eea947bf5b3a71b377.m3u8) |
+| 179 | [HD]青海青海综合 | [[HD]青海青海综合](https://epg.pw/stream/5cb777ff37d8dd005b5912ce19a3c229a89692c66f661e67996f46b1cea13138.m3u8) |
+| 180 | [HD]青海经视 | [[HD]青海经视](https://epg.pw/stream/684b0967063b916bcc7e16480e96a7917c0cf4e14a4813aa871b2737beda135a.m3u8) |
+| 181 | [BD]魅力足球 | [[BD]魅力足球](https://epg.pw/stream/100f8d10fb39d11544e9f834c30dd5a57e92915f801d8e9bf50bf0f01345bef7.m3u8) |
+| 182 | [BD]黑龙江少儿[ipv6] | [[BD]黑龙江少儿[ipv6]](https://epg.pw/stream/48e92831729c0c0856754b6a8d35e579263b726e9c14f9d70add1b78c8971231.m3u8) |
+| 183 | [BD]黑龙江影视[ipv6] | [[BD]黑龙江影视[ipv6]](https://epg.pw/stream/ed5dc2b0cc5b2b66aa555a138facfa40db8ca24d1225e593d45fc3bb8f07d688.m3u8) |
+| 184 | [BD]黑龙江文体[ipv6] | [[BD]黑龙江文体[ipv6]](https://epg.pw/stream/c9c4d9aabfbd26984e900ce586b7bfbf1c5c3d6fc5ff90682f704e8cc069ee9f.m3u8) |
+| 185 | [VGA]黑龙江新闻法治 | [[VGA]黑龙江新闻法治](https://epg.pw/stream/96f880b7640f6a9b54b46cc980132e9a824732a85a9b93fba194fb5977735412.m3u8) |
+| 186 | [BD]黑龙江都市[ipv6] | [[BD]黑龙江都市[ipv6]](https://epg.pw/stream/7f0506c053e2d595749fd2c67c83e4abd7b5115ab0d735ae6eb8519dd9624bf6.m3u8) |
+| 187 | [VGA]黑龙江新闻 | [[VGA]黑龙江新闻](https://epg.pw/stream/6fe0461d8f101b8f9da77bb21785e3224610d31b800c0bd5c86f9abdd8ab380f.m3u8) |
+| 188 | [HD]点掌财经 | [[HD]点掌财经](https://epg.pw/stream/96bec7b1f9d22ac90697af55775bf2328443600cdc5ac81952ca681c136f86f7.m3u8) |
 
-Updated at **Sat Dec 16 2023 07:02:18 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Dec 16 2023 08:10:38 GMT+0000 (Coordinated Universal Time)**

@@ -21,7 +21,7 @@
 | 15 | [BD]东方卫视[ipv6] | [[BD]东方卫视[ipv6]](https://epg.pw/stream/96fb4677915219a69c151563855a231f0b7d6e7392e403e66e40af920843cb68.m3u8) |
 | 16 | [BD]江苏卫视[ipv6] | [[BD]江苏卫视[ipv6]](https://epg.pw/stream/e61d0b2ff70a89a4a13d126f4fa6bba8faaaf145a78470643dad104f2b23c889.m3u8) |
 | 17 | [BD]江西卫视[ipv6] | [[BD]江西卫视[ipv6]](https://epg.pw/stream/712a9501771f77767d38d69d884e87056ee0cb44e57bb3f4e75f50d3d0ab05fb.m3u8) |
-| 18 | [BD]河北卫视[ipv6] | [[BD]河北卫视[ipv6]](https://epg.pw/stream/3d72ae947c8d574411b9d26bc49ef1b6e8c2c5bf3a55c97df0b37f0af5080a99.m3u8) |
+| 18 | [BD]河北卫视[ipv6] | [[BD]河北卫视[ipv6]](https://epg.pw/stream/49b81228eb02073791ce98fbba2fbd077663e55bc903daf2faa35d18705df6f4.m3u8) |
 | 19 | [VGA]河南卫视 | [[VGA]河南卫视](https://epg.pw/stream/373af07efa0fdc1e1b66e0ddb16da329e7ea008d2aa66141ee85bdfc19178495.m3u8) |
 | 20 | [BD]浙江6套 (1080p) [not 24/7] | [[BD]浙江6套 (1080p) [not 24/7]](https://epg.pw/stream/de4faca820b070b86e43c7dd783f307d6bb1ecb818b48a4e4f28971d5c599b48.m3u8) |
 | 21 | [BD]浙江卫视[ipv6] | [[BD]浙江卫视[ipv6]](https://epg.pw/stream/52e4843605cfcef08b1f545c6196ae40253869e76a0f398e617fe35a0b8e9576.m3u8) |
@@ -41,4 +41,4 @@
 | 35 | [SD]青海卫视[ipv6] | [[SD]青海卫视[ipv6]](https://epg.pw/stream/baf5e50a17f574f86c96810d5d2eebbbc3570ca5f5a35d953837040845c89726.m3u8) |
 | 36 | [BD]黑龙江卫视[ipv6] | [[BD]黑龙江卫视[ipv6]](https://epg.pw/stream/bba30e5caaeffff57cecd7e3145d77937bb135028de2be19ffe2f644858124ca.m3u8) |
 
-Updated at **Sat Dec 16 2023 07:02:18 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Dec 16 2023 08:10:38 GMT+0000 (Coordinated Universal Time)**
