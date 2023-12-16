@@ -70,7 +70,7 @@
 | 64 | [SD]宁夏卫视[ipv6] | [[SD]宁夏卫视[ipv6]](https://epg.pw/stream/36d06a642456bafe7043aaed3e01dd7557dba0fb2072c40a91ae029700665b25.m3u8) |
 | 65 | [HD]咸宁经济生活 | [[HD]咸宁经济生活](https://epg.pw/stream/a54e5bea2c05e2aa3f7c76eda34ffd95cfdf2e5ff9c0aa5ac284e34d8a512ea3.m3u8) |
 | 66 | [SD]山东山东少儿 | [[SD]山东山东少儿](https://epg.pw/stream/ed13a4e9ffe04579a88d7b09027e3e4e29c96a8a116fbcb81f0d618361eee304.ctv) |
-| 67 | [SD]山东教育 | [[SD]山东教育](https://epg.pw/stream/5d23c2d55bf72be1537a0eafcd443bad151f40f0bd3e87c51be9fa8c13b624fb.m3u8) |
+| 67 | [HD]山东教育 | [[HD]山东教育](https://epg.pw/stream/5d23c2d55bf72be1537a0eafcd443bad151f40f0bd3e87c51be9fa8c13b624fb.m3u8) |
 | 68 | [BD]山东生活 | [[BD]山东生活](rtmp://livealone.iqilu.com/iqilu/shpdhjOF03kn) |
 | 69 | [BD]山东综艺 | [[BD]山东综艺](rtmp://livealone.iqilu.com/iqilu/zypdhjOF03kn) |
 | 70 | [BD]山东农科 | [[BD]山东农科](rtmp://livealone.iqilu.com/iqilu/nkpdhjOF03kn) |
@@ -193,4 +193,4 @@
 | 187 | [VGA]黑龙江新闻 | [[VGA]黑龙江新闻](https://epg.pw/stream/6fe0461d8f101b8f9da77bb21785e3224610d31b800c0bd5c86f9abdd8ab380f.m3u8) |
 | 188 | [HD]点掌财经 | [[HD]点掌财经](https://epg.pw/stream/96bec7b1f9d22ac90697af55775bf2328443600cdc5ac81952ca681c136f86f7.m3u8) |
 
-Updated at **Sat Dec 16 2023 10:08:28 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Dec 16 2023 12:14:40 GMT+0000 (Coordinated Universal Time)**
