@@ -72,7 +72,7 @@
 | 66 | [HD]ASRTO PREMIER | [[HD]ASRTO PREMIER](https://epg.pw/stream/360448432fbd324d4fe11b2cbbd4f32fb424b0ca4711774c752108bf49b48c00.ctv) |
 | 67 | [HD]ASTRO QJ | [[HD]ASTRO QJ](https://epg.pw/stream/81700a85e6a31bae372bc8ff9b6959c9487fc7f8eda338499feb07b1cce8818b.ctv) |
 | 68 | [BD]ASSP2 | [[BD]ASSP2](https://epg.pw/stream/a7efeac29b00e0a9f81fbe4378ce979d8966c8a77f00219380302977686853b0.ctv) |
-| 69 | [BD]AstroSupersports1 | [[BD]AstroSupersports1](https://epg.pw/stream/762b78d0327c296664e061ca5456bd306aa8b84809612c81aa3685b663c6c867.ctv) |
+| 69 | [BD]Astro Supersports 1 | [[BD]Astro Supersports 1](https://epg.pw/stream/9e19996c3c579fcf67c6c8d6ef8ff72b01c19587282d2932a0d9e0d7c171818d.ctv) |
 | 70 | [HD]astro supersport 2 | [[HD]astro supersport 2](https://epg.pw/stream/ffe742184c1296423861fbe29d39cd12ae3ff7e10e99b1f8e456c45bce931815.ctv) |
 | 71 | [SD]AstroSupersports3 | [[SD]AstroSupersports3](https://epg.pw/stream/3d92f1db68f7f0d0f8655b956842ad7817a1cb6ff546362e7a0b50c604fb9134.ctv) |
 | 72 | [SD]astrotv | [[SD]astrotv](https://epg.pw/stream/61b47eb5e7551f99a32454d3ba9b9baf0f579ea58e697ed0e65db4983302caa5.m3u8) |
@@ -232,7 +232,7 @@
 | 226 | [BD]HBO COMEDY | [[BD]HBO COMEDY](https://epg.pw/stream/b603af773dbfb4384d3a4e7859296bca5fc1dafb6442fcf62fedead0af0c01bf.ctv) |
 | 227 | [BD]HBO East | [[BD]HBO East](https://epg.pw/stream/cf10376c92f6809b3889e5e6978d4b91d61d3fbe79202d21d2cb7dcbb10747f0.ctv) |
 | 228 | [SD]hbo family | [[SD]hbo family](https://epg.pw/stream/8f819b013efd619c45f84d9a5825d23c03c53c1e2f2e8342c7079dabc096c90c.m3u8) |
-| 229 | [BD]HBO FAMILY USA | [[BD]HBO FAMILY USA](https://epg.pw/stream/3e366ab0ac457d18cd595bca7746e20b0c9e60e22a2af5867a3d70aa9d85edcd.ctv) |
+| 229 | [BD]HBO FAMILY USA | [[BD]HBO FAMILY USA](https://epg.pw/stream/d45dd8fefccc649b3321217540c9f30223bf9b55a964aa5f488a76322bfac166.ctv) |
 | 230 | [BD]hbo hd | [[BD]hbo hd](https://epg.pw/stream/4942abf0111719d244945b3528ad1061b3ad4af300754b34f22cf04471b0f76b.ctv) |
 | 231 | [BD]HBO HD USA | [[BD]HBO HD USA](https://epg.pw/stream/bcc52f2ea9a67c8c46696fb51913b3c696378cc806f9a696ca70c08d71b2e7d9.ctv) |
 | 232 | [HD]HBO HITS | [[HD]HBO HITS](https://epg.pw/stream/2faa684aa2f8d4092407378b960c8a743a641f6c194f4caf9d5a8c3abce74dc4.ctv) |
@@ -1783,4 +1783,4 @@
 | 1777 | [VGA]龙祥电影台 | [[VGA]龙祥电影台](https://epg.pw/stream/2b3cd7837810fc1db41fef2ff391b68aecffb09d57febe61d20bde39187865e7.ctv) |
 | 1778 | [BD]국악방송 | [[BD]국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 
-Updated at **Sat Dec 16 2023 00:40:55 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Dec 16 2023 02:20:54 GMT+0000 (Coordinated Universal Time)**
