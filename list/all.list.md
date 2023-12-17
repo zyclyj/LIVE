@@ -53,7 +53,7 @@
 | 47 | [HD]Astro华丽台 | [[HD]Astro华丽台](https://epg.pw/stream/435ee905fda0b0012e9a86fc318c7b33e583ac178660f6fdba8d4dd0178d69c2.ctv) |
 | 48 | [HD]ASTRO小太阳 | [[HD]ASTRO小太阳](https://epg.pw/stream/174d105019b0ba17c941d1aa30bc988ebd4b42f9b6b45f586b6bc8f925f3bac3.ctv) |
 | 49 | [HD]axn | [[HD]axn](https://epg.pw/stream/d290befff40ea26516e35ccad44726d0923e8063f164c76ca294e4cb5f05a7a0.ctv) |
-| 50 | [HD]AXNHD | [[HD]AXNHD](https://epg.pw/stream/d29f4a73e9d1f2e78caaadf08fd43c4a969352d9d8b2cfb638c6defda2a83d1b.ctv) |
+| 50 | [HD]AXNHD | [[HD]AXNHD](https://epg.pw/stream/4ce391641be48c176307a8c1a4a3fa01135b696d7e77a3c9a8517bab1f54ecf2.ctv) |
 | 51 | [VGA]AFN | [[VGA]AFN](https://epg.pw/stream/bebd8e80bf5e50895fff962835e9df167462a85ceae1b05394eb0f4cfb40c0d7.ctv) |
 | 52 | [HD]AL JAZEERA | [[HD]AL JAZEERA](https://epg.pw/stream/114ee416489f55768736a5c3f31f4a7a2fa17aa77711a89abb8406af409a3e1f.ctv) |
 | 53 | [VGA][巴林]almaareftv(350p)[622*350][622*350] | [[VGA][巴林]almaareftv(350p)[622*350][622*350]](https://epg.pw/stream/8dcb9ead2efa93b794c540e2df2495a090cabf85ad0b3b2bc42ece4135e54130.m3u8) |
@@ -373,7 +373,7 @@
 | 367 | [HD]ช่อง sportsnet east | [[HD]ช่อง sportsnet east](https://epg.pw/stream/06542a0ac87ec27b16f5e096012b684d8b14df05357d6189bdef61ffa47d1486.m3u8) |
 | 368 | [HD]ช่อง sportsnet ontario | [[HD]ช่อง sportsnet ontario](https://epg.pw/stream/10f2842733a31c8fb3d461c8035995cc1d6c89d0df81c8b004fa10a815db4f3b.m3u8) |
 | 369 | [BD]star movie | [[BD]star movie](https://epg.pw/stream/a162cf413a130eee62ffedb5540e976e334dac7bf5c29a1aa29c45213d5add48.m3u8) |
-| 370 | [VGA]STARZ | [[VGA]STARZ](https://epg.pw/stream/706622b6f8d031c4b5ef8b3f0c1e4c64028f0e0e165edd3378bf6f75e80369ae.ctv) |
+| 370 | [VGA]STARZ | [[VGA]STARZ](https://epg.pw/stream/d83293ae31ba773b199547f59a5c38937f3394977087f5f99ed4cdfb9f53cccf.ctv) |
 | 371 | [HD]Starz Edge | [[HD]Starz Edge](https://epg.pw/stream/f1fd3d0c05c1cf8c23cfbe4d9a21adda4040ce94806a1d7576f031ed62ef4e5a.ctv) |
 | 372 | [BD]STARZENCORE | [[BD]STARZENCORE](https://epg.pw/stream/71d7e12009a8579d2ce718066048969ed561ead81706e58e99b3acfb8e19cbde.ctv) |
 | 373 | [HD]STARZ WEST | [[HD]STARZ WEST](https://epg.pw/stream/ef20ea7d842717fab14869936d70e1b878bd8c06010fbc2a6d6728890f01ca2d.ctv) |
@@ -1789,4 +1789,4 @@
 | 1783 | [VGA]龙祥电影台 | [[VGA]龙祥电影台](https://epg.pw/stream/2b3cd7837810fc1db41fef2ff391b68aecffb09d57febe61d20bde39187865e7.ctv) |
 | 1784 | [BD]국악방송 | [[BD]국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 
-Updated at **Sun Dec 17 2023 04:44:06 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Dec 17 2023 04:53:10 GMT+0000 (Coordinated Universal Time)**
