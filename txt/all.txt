@@ -35,7 +35,7 @@ All,#genre#
 [BD]al jazeera mubasher (1080p),https://epg.pw/stream/a2632b8be0e6ecc5735a19a93bee30bc97ca66d44c1c98f44236d9baf6a7698b.m3u8
 [SD]AMC,https://epg.pw/stream/8f2bf96e414c3ccf8c7a30a32092e975fa4a2db4e98d1a4106203585c69f8215.ctv
 [SD]ANTV,https://epg.pw/stream/3efa242f42a3ed4120b9dc2fc15ca844d7c990c82f6cfda55592b7ad991ee05c.ctv
-[HD]ASSP,https://epg.pw/stream/0478051c97dc666a6cb30ab52deb294f97c18a613a902a957b3de5d17ab56522.ctv
+[BD]ASSP,https://epg.pw/stream/8b88ba26965ce0409faa6a8a49dc8b826b57d04fa9c46832d186735a884d35eb.ctv
 [HD]ASSP3,https://epg.pw/stream/1069899e08bd1d9d4210c653323e88b60cc75986b187f525223f200e96bbb925.ctv
 [HD]ASSP4,https://epg.pw/stream/902489e510b2200e20ae79ed97e4c2a61606ec0b44524bfc204faba45281bb3f.ctv
 [SD]ASTRO AOD 311,https://epg.pw/stream/b688d85b0ebdec4d08725ceb714855d91a36e3174947be61f3c4d8947ab35d46.ctv
@@ -67,7 +67,7 @@ All,#genre#
 [HD]ASRTO PREMIER,https://epg.pw/stream/360448432fbd324d4fe11b2cbbd4f32fb424b0ca4711774c752108bf49b48c00.ctv
 [HD]ASTRO QJ,https://epg.pw/stream/81700a85e6a31bae372bc8ff9b6959c9487fc7f8eda338499feb07b1cce8818b.ctv
 [HD]ASSP2,https://epg.pw/stream/cd2615218ed19860e03359a90b0e0a7df45e0daf0f2295b0d990ccc240681fee.ctv
-[BD]Astro Supersports 1,https://epg.pw/stream/9e19996c3c579fcf67c6c8d6ef8ff72b01c19587282d2932a0d9e0d7c171818d.ctv
+[BD]AstroSupersports1,https://epg.pw/stream/762b78d0327c296664e061ca5456bd306aa8b84809612c81aa3685b663c6c867.ctv
 [HD]astro supersport 2,https://epg.pw/stream/ffe742184c1296423861fbe29d39cd12ae3ff7e10e99b1f8e456c45bce931815.ctv
 [SD]astrotv,https://epg.pw/stream/61b47eb5e7551f99a32454d3ba9b9baf0f579ea58e697ed0e65db4983302caa5.m3u8
 [HD]KPLUS HD,https://epg.pw/stream/9df4de6738fd5385b83b095594cafbe907bf63f7dc02b0f50eb67ad5a787742d.ctv
@@ -163,7 +163,7 @@ All,#genre#
 [HD]ChannelU,https://epg.pw/stream/362c1193594a98a90d63bf835fe3fbbf3e891715c9e919c0c078cb8e0e60b912.ctv
 [SD]channel s,https://epg.pw/stream/2be7760632ca85ffc77375f63216812cbc0243e79dad0dd979b6fadb644935c9.m3u8
 [BD]cinemaworld,https://epg.pw/stream/006e46e4ee331957d9687e09200f9c129b7637edd5aab67176f51df0513ace52.m3u8
-[BD]CINEMAX,https://epg.pw/stream/dd4f140945b701d09f100645d0c69addfdb8f86e8b58adf4b85ffd9c8baffcd1.ctv
+[SD]cinemax,https://epg.pw/stream/012a5f72f5e2658ae2c268c434f10001fb449507532a4c202f589a76ef09665b.ctv
 [BD]ACTIONMAX,https://epg.pw/stream/40ed310231caadc0d039d326385b92e612d24aa231abc302cbe8db47703cd0b9.ctv
 [BD]Cinestar 2,https://epg.pw/stream/66a2aa5a6119de2ef80bd6181aac9e7da25be5170dd81a7cefe660b8218609a3.ctv
 [HD]Cinestar1,https://epg.pw/stream/addb5d2a5a46f580f21102f3402ae46831892903138ae4ec1dc1a76e5fdb0629.ctv
@@ -226,7 +226,7 @@ All,#genre#
 [HD]HBO HITS,https://epg.pw/stream/c005fdc4e8b7ab532912760e70bf1ae92d1b72795435a508ea2e025526b47c6e.ctv
 [SD]hbo signature,https://epg.pw/stream/2c342fc784c1adf5c99b8111272b371cda8247236f0610c3a4f783cad848d286.ctv
 [HD]HBO SIGNATURE USA,https://epg.pw/stream/d237a6fb8507390c2700dc51f8e220d467ffcf6eb23acde1b5dc2236c70b96f3.ctv
-[HD]HBO WEST,https://epg.pw/stream/482bad34f23cb5bd2a2f591adf8d429a1795c718618f44a4f0c4aaa10eda3bf0.ctv
+[HD]HBO WEST,https://epg.pw/stream/45c45ef0964e0639b75d6558037da4a7de1a02f6291ba370a31f43e93b78ab7c.ctv
 [HD]hbo xtreme,https://epg.pw/stream/e215c1e64765b9c7ab6997a384614cff227ca4ef72a79d0b12d2a3a28df2d740.ctv
 [BD]HBO2HDUSA,https://epg.pw/stream/a7a14983cab7bae2a00e69a51942fe4eaa6ad3de14d5e34e4e124172fb9b32bb.ctv
 [BD]HBOZONEUSA,https://epg.pw/stream/0c3417d0ff5935aedce67e5b60819373bc221247ed430d1fea2bee2f3f6db713.ctv
@@ -1050,7 +1050,6 @@ All,#genre#
 [HD]sky news arabia (720p) [not 24/7],https://epg.pw/stream/d33d6b654a91c73b60138a8762772913cc08cb61169a50604a82a50d31ab5229.m3u8
 [BD]sky sport f1 uhd,https://epg.pw/stream/51f596042c7612a6ae42765d83258d035ea59c03640823aec8f9e93ecadc04de.ctv
 [HD]sky sport pl,https://epg.pw/stream/6d6de82973b4af30a7ff519b5669ec6ba87315fa30ae28e7fd337269844d7e10.m3u8
-[BD]sky sports main event uhd,https://epg.pw/stream/4d5cafee29d20a07ac06b30527a8b2d8bb6512432edc86e1564984322509a47c.ctv
 [VGA]sky-movies comedy,https://epg.pw/stream/0f42edeed73414463706c45a5f2b5f0d874c57e20d1513305f377f343907a75e.m3u8
 [HD]skysport f1,https://epg.pw/stream/fb0bb4f8c5006b321aa73f310ae0fc555c75cb0133a518fd5c109fc7d2058c79.ctv
 [SD]sonnenklar tv,https://epg.pw/stream/c64cb602e1e2779933a5d840c523273a2c8e8146a1e88a614b2a13e1294df1d0.m3u8
@@ -1342,6 +1341,7 @@ All,#genre#
 [HD]ช่อง red bull tv,https://epg.pw/stream/d03ce6ed52d1adaaf8bce62475e916fac2139d9eb6a57dbdd251dae67ea7a194.m3u8
 [HD]ช่อง showcase,https://epg.pw/stream/8de6c569e0498f154d21c64babfab11b9c33137d03ea611c67ae8c034b31e238.m3u8
 [HD]ช่อง sky sports golf,https://epg.pw/stream/795e5fb77aa2594993009f68a01ae2b98bf2dd8f0a04363b56e484a87508df98.m3u8
+[HD]ช่อง sky sports main event,https://epg.pw/stream/b9fc0ef3a2f44bd14068f7517f99f95f218cc14ae86bb16156d407fdc379eb4c.m3u8
 [HD]ช่อง treehouse,https://epg.pw/stream/1bb76c321aff92fc6dcaf8aa7b3c8b1a5ba0ec42d008ee0a88379ddb88b9e387.m3u8
 [HD]ช่อง tsn 1,https://epg.pw/stream/90850035fb27d6b760a4be6a6ce8d02c9655dc22d79a657d5cf361342d9cb00c.m3u8
 [HD]ช่อง tsn 2,https://epg.pw/stream/ed2bf685073fd3ccc77845fbc478e32721d2ff83f6f4901c67dda92372c595cb.m3u8
