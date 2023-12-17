@@ -57,7 +57,7 @@
 | 51 | [BD]云南都市 | [[BD]云南都市](https://epg.pw/stream/1ca2457b9bd7a0905af48485803ac1357abc261d2ad96158b1970d5edde59ab3.m3u8) |
 | 52 | [BD]五星体育 8m | [[BD]五星体育 8m](https://epg.pw/stream/22245524bde60cc6f805db18f5af17413485ab766670f6cf07e0b23d29358163.ctv) |
 | 53 | [BD]全纪实 8m | [[BD]全纪实 8m](https://epg.pw/stream/f951ab49e5198e21e04d633712b6b88d15cd4cbdbfddd0c49d0f1c5ea9b69b31.ctv) |
-| 54 | [VGA]内蒙卫视 | [[VGA]内蒙卫视](https://epg.pw/stream/1b883ea5879587ad63629e92ea51aa3717f9168d9e5e84f135dfbb97f2876c47.m3u8) |
+| 54 | [SD]内蒙卫视 | [[SD]内蒙卫视](https://epg.pw/stream/1b883ea5879587ad63629e92ea51aa3717f9168d9e5e84f135dfbb97f2876c47.m3u8) |
 | 55 | [BD]内蒙古蒙语文化 | [[BD]内蒙古蒙语文化](https://epg.pw/stream/c3c0caed96cd1a72b3d080bfd1e51aeaf58dc40f803768cfb2e6a153eced3555.m3u8) |
 | 56 | [BD]刘德华 | [[BD]刘德华](https://epg.pw/stream/8848575026ebd3c19258f79bc476986d87d68dd75fc6d2ae65eb99163ca4883d.ctv) |
 | 57 | [BD]动漫秀场 8m | [[BD]动漫秀场 8m](https://epg.pw/stream/541688af2977b7986c2aa3ac1bb605d9d807911f568852a5e529ae2a2a18aa27.ctv) |
@@ -78,7 +78,7 @@
 | 72 | [HD]四川蓬安新闻综合 | [[HD]四川蓬安新闻综合](https://epg.pw/stream/2ee3dbb766acd5cf07af7a7ec948673b819eb6e6076c46eb6acbf7db898b571a.m3u8) |
 | 73 | [SD]四川卫视 8m | [[SD]四川卫视 8m](https://epg.pw/stream/41bf966a14dc202c4f06c48d7410fac1dcab83affab6629cca762e917185e1c5.ctv) |
 | 74 | [BD]天津卫视 | [[BD]天津卫视](https://epg.pw/stream/a6742c93cfbe45322b12fce389c8b3f1e2d4873b8d8a0a8651fd76d14d8d1ef7.m3u8) |
-| 75 | [SD]安徽卫视 8m | [[SD]安徽卫视 8m](https://epg.pw/stream/f28ca2b181313c7d1c12e5782d855064a5b7d884f911753018d33cdbb6944b9b.ctv) |
+| 75 | [BD]安徽卫视 8m | [[BD]安徽卫视 8m](https://epg.pw/stream/f6b1dcb74cfda40bc84467d836f82596de9d58c96875cd23d0134bb00e9dd190.ctv) |
 | 76 | [BD]安徽导视 | [[BD]安徽导视](https://epg.pw/stream/a7246583550aa4f39c3c5c71f7aaee412061387be1b7e5b57ad7c11513507106.m3u8) |
 | 77 | [SD]山东山东新闻 | [[SD]山东山东新闻](https://epg.pw/stream/df596aabef19d13e9bbd460f86089bc10de5facf7620b644d048039aa5897b4a.ctv) |
 | 78 | [BD]山东文旅 | [[BD]山东文旅](rtmp://livealone.iqilu.com/iqilu/yspdhjOF03kn) |
@@ -182,4 +182,4 @@
 | 176 | [SD]黑龙江公共农业 | [[SD]黑龙江公共农业](https://epg.pw/stream/d4bc9942241f1c893fad50ece90abfce425419abf78dc318325058f860b1df11.m3u8) |
 | 177 | [BD]黑龙江卫视 8m | [[BD]黑龙江卫视 8m](https://epg.pw/stream/53cf5f9b0b328e1c40de1fc5d4aac8926a4772f9beeddad01f8a3350be87e5f1.ctv) |
 
-Updated at **Sun Dec 17 2023 14:07:41 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Dec 17 2023 16:10:03 GMT+0000 (Coordinated Universal Time)**
