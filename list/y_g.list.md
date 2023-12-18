@@ -20,8 +20,8 @@
 | 14 | 纯享 4K「IPV6」 | [纯享 4K「IPV6」](http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8) |
 | 15 | SiTV欢笑剧场4K 「IPV6」 | [SiTV欢笑剧场4K 「IPV6」](http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com) |
 | 16 | 华数4K「IPV6」 | [华数4K「IPV6」](http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3) |
-| 17 | CCTV [随机4K] 「IPV6」 | [CCTV [随机4K] 「IPV6」](http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/PLTV/1/224/3221230805/1.m3u8) |
-| 18 | CCTV [随机4K] 「IPV6」 | [CCTV [随机4K] 「IPV6」](http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8) |
+| 17 | CCTV [随机4K] 「IPV6」 | [CCTV  随机4K  「IPV6」](http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/PLTV/1/224/3221230805/1.m3u8) |
+| 18 | CCTV [随机4K] 「IPV6」 | [CCTV  随机4K  「IPV6」](http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8) |
 | 19 | CCTV16 4K 「IPV6」 | [CCTV16 4K 「IPV6」](http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8) |
 | 20 | CCTV8K「IPV6」 | [CCTV8K「IPV6」](http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8) |
 | 21 | CCTV1「IPV6」 | [CCTV1「IPV6」](http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001022/index.m3u8?love=freedom) |
@@ -2177,7 +2177,7 @@
 | 2171 | HollyWire | [HollyWire](https://bozztv.com/hwotta/playlist/playlist.m3u8?checkedby:iptvcat.com) |
 | 2172 | Horse and Country | [Horse and Country](https://hncfree-samsungau.amagi.tv/playlist.m3u8) |
 | 2173 | Iqra TV | [Iqra TV](https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/playlist.m3u8?checkedby:iptvcat.com) |
-| 2174 | KBEV Spectrum Channel 6 [Beverly Hills] | [KBEV Spectrum Channel 6 [Beverly Hills]](https://s3-us-west-2.amazonaws.com/beverly-hills-high-school.castus-vod/live/ch1/video.m3u8?checkedby:iptvcat.com) |
+| 2174 | KBEV Spectrum Channel 6 [Beverly Hills] | [KBEV Spectrum Channel 6  Beverly Hills](https://s3-us-west-2.amazonaws.com/beverly-hills-high-school.castus-vod/live/ch1/video.m3u8?checkedby:iptvcat.com) |
 | 2175 | Legislative Assembly of Ontario | [Legislative Assembly of Ontario](http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8?checkedby:iptvcat.com) |
 | 2176 | LifevisionTV | [LifevisionTV](http://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8?checkedby:iptvcat.com) |
 | 2177 | LON TV (Lokale Omroep Nuenen) | [LON TV (Lokale Omroep Nuenen)](https://streamingserver02.omroepnuenen.nl/lon/lonweb_720p/playlist.m3u8?checkedby:iptvcat.com) |
@@ -2567,4 +2567,4 @@
 | 2561 | 足球超级猎食者(上) | [足球超级猎食者(上)](https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/4d0dc6b22b8e48efa4a984ec990a4faf/1200.m3u8) |
 | 2562 | 足球超级猎食者(下) | [足球超级猎食者(下)](https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d7aec4db75da469d915a5dd7a0fb3d70/1200.m3u8) |
 
-Updated at **Mon Dec 18 2023 07:08:56 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Dec 18 2023 07:21:22 GMT+0000 (Coordinated Universal Time)**

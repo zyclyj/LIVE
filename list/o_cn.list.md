@@ -24,8 +24,8 @@
 | 18 | CBN News | [CBN News](https://sc2022.stream-link.org/tv2306.php?id=e04) |
 | 19 | CBS News | [CBS News](https://sc2022.stream-link.org/tv2306.php?id=e05) |
 | 20 | CCTV5+ | [CCTV5+](https://pull-f5-spe.ixigua.com/live/YesLiveTV-7d098b36-c7e5-4941-8eb0-6af0f5ad3f8d.flv) |
-| 21 | CCTV+ 1 (600p) [Not 24/7] | [CCTV+ 1 (600p) [Not 24/7]](https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8) |
-| 22 | CCTV+ 2 (600p) [Not 24/7] | [CCTV+ 2 (600p) [Not 24/7]](https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8) |
+| 21 | CCTV+ 1 (600p) [Not 24/7] | [CCTV+ 1 (600p)  Not 24/7](https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8) |
+| 22 | CCTV+ 2 (600p) [Not 24/7] | [CCTV+ 2 (600p)  Not 24/7](https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8) |
 | 23 | CCTV-1 (1080p) | [CCTV-1 (1080p)](http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8) |
 | 24 | CCTV-2 (1080p) | [CCTV-2 (1080p)](http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8) |
 | 25 | CCTV-3综艺 (1080p) | [CCTV-3综艺 (1080p)](http://183.196.25.171:808/hls/75/index.m3u8) |
@@ -48,4 +48,4 @@
 | 42 | CETV1 (576p) | [CETV1 (576p)](http://183.207.248.71/gitv/live1/G_CETV-1/G_CETV-1) |
 | 43 | CETV2 (576p) | [CETV2 (576p)](http://183.207.248.71/gitv/live1/G_CETV-2/G_CETV-2) |
 
-Updated at **Mon Dec 18 2023 07:08:56 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Dec 18 2023 07:21:22 GMT+0000 (Coordinated Universal Time)**
