@@ -988,7 +988,7 @@
 | 982 | [BD]praha tv (1080p) | [[BD]praha tv (1080p)](https://epg.pw/stream/7f8f9b17f5cd3a76d6c7407003c34f1c2e4a1ac49cc751b33f535799a853c0af.m3u8) |
 | 983 | [HD]premier sports 1 fhd vip uk | [[HD]premier sports 1 fhd vip uk](https://epg.pw/stream/e7ca2237c03ff0f6e9e67d0b56e13914051d4f091b340f382dd88b1d3f0b9233.m3u8) |
 | 984 | [HD]press tv | [[HD]press tv](https://epg.pw/stream/90b43f44861f8af1a24f727e479b55468e76acdee61e04541eaa753ac58ed3b0.m3u8) |
-| 985 | [HD]private tv | [[HD]private tv](https://epg.pw/stream/ff41d01becb15c1ea8b3de8e2428dbf2efad27bafc03bf0dbc9b14ea50912feb.m3u8) |
+| 985 | [SD]private tv | [[SD]private tv](https://epg.pw/stream/cd3522e54a1f0ccd47df81327591619becb2e022143307bf284b7d7c1fdc8617.m3u8) |
 | 986 | [BD]pro tv news (1080p) | [[BD]pro tv news (1080p)](https://epg.pw/stream/ad3458a7730205e492d0bd0fefe005ceeaf73e74e91afa3611dd8236634339af.m3u8) |
 | 987 | [SD]prosieben | [[SD]prosieben](https://epg.pw/stream/d395cbc3410d4d0eb7e78413ec469b9f03fd1ea6eafb326b9988717c3bf7ea08.ctv) |
 | 988 | [SD]prosieben austria | [[SD]prosieben austria](https://epg.pw/stream/4583f1f9d9539a05e884fc3f1e29b985eed1855bcf3402fcce4fb097cdcfe2b7.m3u8) |
@@ -1826,4 +1826,4 @@
 | 1820 | [HD]龙祥电影 | [[HD]龙祥电影](https://epg.pw/stream/9404e32456473a20ff1d28e9060baf33bdf75462ba286cfc1895d54c7bb35c9b.ctv) |
 | 1821 | [BD]국악방송 | [[BD]국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 
-Updated at **Mon Dec 18 2023 02:23:47 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Dec 18 2023 04:11:45 GMT+0000 (Coordinated Universal Time)**

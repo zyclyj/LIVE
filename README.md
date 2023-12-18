@@ -31,7 +31,7 @@ Sources are from:
 | YueChan_Live IPTV | <https://m3u.ibert.me/ycl_iptv.m3u> <br> <https://m3u.ibert.me/txt/ycl_iptv.txt> | [List for YueChan_Live IPTV](https://m3u.ibert.me/list/ycl_iptv.list) | 108 | - |
 | YanG_1989 Gather | <https://m3u.ibert.me/y_g.m3u> <br> <https://m3u.ibert.me/txt/y_g.txt> | [List for YanG_1989 Gather](https://m3u.ibert.me/list/y_g.list) | 2562 | - |
 
-Updated at **Mon Dec 18 2023 02:23:48 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Dec 18 2023 04:11:45 GMT+0000 (Coordinated Universal Time)**
 
 See <https://m3u.ibert.me> to get more.
 
