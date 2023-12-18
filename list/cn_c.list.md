@@ -16,7 +16,7 @@
 | 10 | [BD]newtv精品纪录[ipv6] | [BD newtv精品纪录 ipv6](https://epg.pw/stream/3745626b332353d3a3b029f2c86d2be6025b392c11261585cee511bd1dffdf63.m3u8) |
 | 11 | [BD]newtv精品体育[ipv6] | [BD newtv精品体育 ipv6](https://epg.pw/stream/d057acbad8a13889c27b858257a7ea1791caf9409afc026a8f83f279c00d9a45.m3u8) |
 | 12 | [BD]newtv超级综艺[ipv6] | [BD newtv超级综艺 ipv6](https://epg.pw/stream/993b177d006da3fe1e88f9e34d5c4f039acb16c782b8588a422b382bc0fd848b.m3u8) |
-| 13 | [BD]newtv超级电视剧[ipv6] | [BD newtv超级电视剧 ipv6](https://epg.pw/stream/7143af007bc83b9378182b9052cb62556fdae3f57eda7e3d41bd95dd057769d9.m3u8) |
+| 13 | [BD]newtv超级电视剧[ipv6] | [BD newtv超级电视剧 ipv6](https://epg.pw/stream/cbb96741ec3cf4ec53c38206d00900573c2528364c958f8f4f8e99d9d7e32b30.m3u8) |
 | 14 | [BD]newtv超级体育[ipv6] | [BD newtv超级体育 ipv6](https://epg.pw/stream/c7503b6b9f77e14eea36ce3be4648424cadcb4818ffdb6c7aab217d3294c3189.m3u8) |
 | 15 | [BD]newtv军事评论[ipv6] | [BD newtv军事评论 ipv6](https://epg.pw/stream/a97767f126f84edb52e8344d91366034de22cd1beb45310cdf8cc368205421c1.m3u8) |
 | 16 | [BD]newtv军旅剧场[ipv6] | [BD newtv军旅剧场 ipv6](https://epg.pw/stream/189da59a4ede23964b9effa3cfb8a7a77da2a8c6d5d4bcfd6ebb82c7d92f3049.m3u8) |
@@ -107,11 +107,11 @@
 | 101 | [SD]枣庄公共 | [SD 枣庄公共](https://epg.pw/stream/322da1913ea0e1d42b658beeda6c2b8b019c8fbf8470dd1a69010da6137507af.m3u8) |
 | 102 | [SD]枣庄教育 | [SD 枣庄教育](https://epg.pw/stream/5c9be548faf8b08d6c887f2037065b56dac729995abfb7e9da64ed34c99fec3d.m3u8) |
 | 103 | [SD]枣庄新闻 | [SD 枣庄新闻](https://epg.pw/stream/7996424bc3c1787a3b73efd84dac13f864e07b3bff8353ccfac13dc3f465bb25.m3u8) |
-| 104 | [BD]欢笑剧场[ipv6] | [BD 欢笑剧场 ipv6](https://epg.pw/stream/658ca7166f908d2b2460919ae4fdeff8bda61c2c33722af951dcc63a1889f8b7.m3u8) |
+| 104 | [BD]欢笑剧场[ipv6] | [BD 欢笑剧场 ipv6](https://epg.pw/stream/8c09f04576aaa42921a0406324b1ebdd07eb7a5340bf3ff6245c279705c38932.m3u8) |
 | 105 | [HD]武汉外语频道 | [HD 武汉外语频道](https://epg.pw/stream/7d6f0bf46970d632f2114819f82f87d6b6635f78c38f5e060d9cd4012d9b1b4b.m3u8) |
 | 106 | [SD]武汉少儿 | [SD 武汉少儿](https://epg.pw/stream/27cd1eac8d351cc84757c70d2e26ed14cb26bb6c81a7c33b569d083b99db4129.m3u8) |
 | 107 | [HD]武汉教育 | [HD 武汉教育](https://epg.pw/stream/c5bc53591db0451f2626ddff43e2de1460de1cbb8d7225d9d8c45e9660e9cb51.m3u8) |
-| 108 | [HD]武汉文体 (480p) | [HD 武汉文体 (480p)](https://epg.pw/stream/b5e5c2bf78a8bed49158096472f899ffe30bc2a0ca4ac0471778b117308ec49b.m3u8) |
+| 108 | [VGA]武汉文体 (480p) | [VGA 武汉文体 (480p)](https://epg.pw/stream/b5e5c2bf78a8bed49158096472f899ffe30bc2a0ca4ac0471778b117308ec49b.m3u8) |
 | 109 | [HD]武汉新闻综合 | [HD 武汉新闻综合](https://epg.pw/stream/277c2b350a2b37b80dd8a4b766d55c7bf7b44e2b0cdfbe38024cf5803f80ace4.m3u8) |
 | 110 | [HD]武汉经济 (360p) | [HD 武汉经济 (360p)](https://epg.pw/stream/60692e28a9cf28d4d2bc7f266c2bca9418f30b3ffdc15f5f702871690d35acfa.m3u8) |
 | 111 | [SD]河北武汉电视剧 | [SD 河北武汉电视剧](https://epg.pw/stream/456f2251ba309946a1b4954299fa7941150642941c69ef7224f888c4803834df.m3u8) |
@@ -190,4 +190,4 @@
 | 184 | [VGA]黑龙江新闻 | [VGA 黑龙江新闻](https://epg.pw/stream/6fe0461d8f101b8f9da77bb21785e3224610d31b800c0bd5c86f9abdd8ab380f.m3u8) |
 | 185 | [HD]点掌财经 | [HD 点掌财经](https://epg.pw/stream/96bec7b1f9d22ac90697af55775bf2328443600cdc5ac81952ca681c136f86f7.m3u8) |
 
-Updated at **Mon Dec 18 2023 08:12:46 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Dec 18 2023 09:09:22 GMT+0000 (Coordinated Universal Time)**
