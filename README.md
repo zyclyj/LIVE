@@ -45,7 +45,7 @@ EPG Sources are from:
 | 112114.xyz | <https://m3u.ibert.me/epg/112114_xyz.xml> | - |
 | fanmingming/live | <https://m3u.ibert.me/epg/fmml.xml> | - |
 
-Updated at **Mon Dec 18 2023 07:03:39 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Dec 18 2023 07:08:58 GMT+0000 (Coordinated Universal Time)**
 
 See <https://m3u.ibert.me> to get more.
 
