@@ -27,8 +27,8 @@
 | 21 | 凤凰香港 | [凤凰香港](http://[2409:8087:2001:20:2800:0:df6e:eb1d]/ott.mobaibox.com/PLTV/3/224/3221228530/1.m3u8) |
 | 22 | 凤凰中文 | [凤凰中文](http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8) |
 | 23 | 凤凰资讯 | [凤凰资讯](http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8) |
-| 24 | CNN新闻 | [CNN新闻](https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8) |
-| 25 | FOX新闻 | [FOX新闻](https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8) |
+| 24 | CNN新闻 | [CNN新闻](http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/418435) |
+| 25 | BBC新闻 | [BBC新闻](http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/418112) |
 | 26 | CNA新闻 | [CNA新闻](https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8) |
 | 27 | 半岛新闻 | [半岛新闻](http://live-hls-web-aje.getaj.net/AJE/01.m3u8) |
 | 28 | NHK世界 | [NHK世界](https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8) |
@@ -113,4 +113,4 @@
 | 107 | 高清电影 | [高清电影](http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com) |
 | 108 | 华数超清 | [华数超清](http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3) |
 
-Updated at **Mon Dec 18 2023 00:42:31 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Dec 18 2023 02:10:07 GMT+0000 (Coordinated Universal Time)**
