@@ -4,34 +4,34 @@
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
-| 1 | [BD]cctv1[ipv6] | [BD cctv1 ipv6](https://epg.pw/stream/3415b8e289adbdbd4835bbdcd1a9396edbadfb65f276fcece6542d6a44a6605c.m3u8) |
-| 2 | [BD]cctv10 | [BD cctv10](https://epg.pw/stream/6ef5ffbb8c7555a1beee3d70767d5f42614470f8a2b7344cc478e75a0fe444a1.m3u8) |
-| 3 | [BD]cctv11[ipv6] | [BD cctv11 ipv6](https://epg.pw/stream/6ba4b8f02bff74ce5171e23abaeba2663203fa82ab49744698d429566f706afe.m3u8) |
-| 4 | [BD]cctv12[ipv6] | [BD cctv12 ipv6](https://epg.pw/stream/06025da15ba23cad6264166f6216c1cfb7f9bd2e1e759e6eab92ed6fb62f7daa.m3u8) |
-| 5 | [BD]cctv13[ipv6] | [BD cctv13 ipv6](https://epg.pw/stream/40a9e2982bc945aca7ceebc0664c69c3da53d8b7169e7edee6383656ab72004b.m3u8) |
-| 6 | [BD]cctv14[ipv6] | [BD cctv14 ipv6](https://epg.pw/stream/81b7797c31f3ca9a91e207b707f88027d93cf50d35999fc2e33c24e9bf30d709.m3u8) |
-| 7 | [BD]cctv15 8m | [BD cctv15 8m](https://epg.pw/stream/df25f03b60f5d8a1d6574d8e44974d1a266922f81912c2fecfd46361454467a2.ctv) |
-| 8 | [BD]cctv16[ipv6] | [BD cctv16 ipv6](https://epg.pw/stream/9eeb49b6d1048ea7c05421a7409300f43ed5695e937a78feb1cc9eb1cb4de5b4.m3u8) |
-| 9 | [BD]cctv17[ipv6] | [BD cctv17 ipv6](https://epg.pw/stream/ce5a1eea427e695aac64366f5c727e80bdda57a6a6df856f2654d325f559f8a5.m3u8) |
-| 10 | [BD]cctv2[ipv6] | [BD cctv2 ipv6](https://epg.pw/stream/f86540c126a751cc707e3805911549bd077fb5a7f0f53a824212d75addea3747.m3u8) |
-| 11 | [BD]cctv3[ipv6] | [BD cctv3 ipv6](https://epg.pw/stream/7361b754ebaf0853cb863bc4a3af9233d23c74c0e46a0aa7190d44f0389e0822.m3u8) |
-| 12 | [BD]cctv4[ipv6] | [BD cctv4 ipv6](https://epg.pw/stream/5ea26961bbc8690cbd372a194e8801249644123feab6354e1f2cdd2b8a0026ca.m3u8) |
-| 13 | [BD]cctv4k超高清[ipv6] | [BD cctv4k超高清 ipv6](https://epg.pw/stream/14061ea886df6edfb76d8015ef8df852acbce8d4d862909db2279d3b3387cd9c.m3u8) |
-| 14 | [BD]cctv-5[ipv6] | [BD cctv-5 ipv6](https://epg.pw/stream/0cebf04f8ced719321d379ebea3e3cb758aa2bb1a1ac7fd14c84ba6dc3f243dc.m3u8) |
-| 15 | [VGA]cctv-5 体育 | [VGA cctv-5 体育](https://epg.pw/stream/6ab838fe184ffa82dd1a81afb2f535c24bdfc0bb5fd64e4485ac4c6a9b61ed7f.m3u8) |
-| 16 | [BD]cctv-5+ 体育赛事 | [BD cctv-5+ 体育赛事](https://epg.pw/stream/eb41e17246248e438598bfcec41dbb4fbd2fde87e9f658d776d8eabdea473b3f.m3u8) |
-| 17 | [BD]cctv6[ipv6] | [BD cctv6 ipv6](https://epg.pw/stream/7bbfe5fb8392af3f4ffdc18217c886d0937de05315ed7980dc17d9578d4411ac.m3u8) |
-| 18 | [BD]cctv7[ipv6] | [BD cctv7 ipv6](https://epg.pw/stream/085cc8320b47039f91c89f261b3bde134c04438bf58155988cdd2120c8ae5c1c.m3u8) |
-| 19 | [BD]cctv8 | [BD cctv8](https://epg.pw/stream/9e5ef6be8ac32d23db431bdc8d9d49531b4bdf96d53db08dd102919b70f12e88.m3u8) |
-| 20 | [VGA]cctv9 | [VGA cctv9](https://epg.pw/stream/468810bb8a5aea0738c0e707e4b0ed227aeb431a11a977aa1a43fd542997f525.m3u8) |
-| 21 | [SD]cctv-7国防军事 | [SD cctv-7国防军事](https://epg.pw/stream/bbe967530d8fa9e49eaf55e5658ac938f0d80d6f616399efd0a110116c6b2c1f.m3u8) |
-| 22 | [BD]cctv央视台球[ipv6] | [BD cctv央视台球 ipv6](https://epg.pw/stream/51b8aac49ec3c280ee204075b38542e9a547208c9f6a19b6bd517a333e321407.m3u8) |
-| 23 | [HD]ccgtn | [HD ccgtn](https://epg.pw/stream/aaa56ce8ac0666968ec0399c5b51f0d39a6a20a0b154da1b0739c872a920111d.m3u8) |
-| 24 | [BD]chc家庭影院 | [BD chc家庭影院](https://epg.pw/stream/085a38ada3bf036f74dc58987291160253095044bdff40a127b5578345656db0.ctv) |
-| 25 | [SD]ltv | [SD ltv](https://epg.pw/stream/029e955b34c740d195366fd33dcebdce79b63fabb52d2c6ed911106d93759f86.m3u8) |
-| 26 | [SD]cctv-11戏曲 | [SD cctv-11戏曲](https://epg.pw/stream/b7ef5c529b15446a2c8ce45c8f7aa56adcdf83cca42dd7c680952f4fbd52a163.m3u8) |
-| 27 | [BD]cctv文化精品[ipv6] | [BD cctv文化精品 ipv6](https://epg.pw/stream/24c64b08560eaa6524bf24d20d577d0938a4d64229416a5744a16f08f4dd161a.m3u8) |
-| 28 | [VGA]celestial classic movie | [VGA celestial classic movie](https://epg.pw/stream/a99d94cf909403d7fb9d745cdebc3dd3fa9137da7e6feeb00d3456feafacd3b9.m3u8) |
+| 1 | [SD]CCM | [SD CCM](https://epg.pw/stream/23e70b3eb1d514cb89a6372d8a29b50cbf9ac72a5f5e597d28b02445a26d1fe8.ctv) |
+| 2 | [BD]cctv1[ipv6] | [BD cctv1 ipv6](https://epg.pw/stream/3415b8e289adbdbd4835bbdcd1a9396edbadfb65f276fcece6542d6a44a6605c.m3u8) |
+| 3 | [BD]cctv10 | [BD cctv10](https://epg.pw/stream/6ef5ffbb8c7555a1beee3d70767d5f42614470f8a2b7344cc478e75a0fe444a1.m3u8) |
+| 4 | [BD]cctv11[ipv6] | [BD cctv11 ipv6](https://epg.pw/stream/6ba4b8f02bff74ce5171e23abaeba2663203fa82ab49744698d429566f706afe.m3u8) |
+| 5 | [BD]cctv12[ipv6] | [BD cctv12 ipv6](https://epg.pw/stream/06025da15ba23cad6264166f6216c1cfb7f9bd2e1e759e6eab92ed6fb62f7daa.m3u8) |
+| 6 | [BD]cctv13[ipv6] | [BD cctv13 ipv6](https://epg.pw/stream/40a9e2982bc945aca7ceebc0664c69c3da53d8b7169e7edee6383656ab72004b.m3u8) |
+| 7 | [BD]cctv14[ipv6] | [BD cctv14 ipv6](https://epg.pw/stream/81b7797c31f3ca9a91e207b707f88027d93cf50d35999fc2e33c24e9bf30d709.m3u8) |
+| 8 | [BD]cctv15 8m | [BD cctv15 8m](https://epg.pw/stream/df25f03b60f5d8a1d6574d8e44974d1a266922f81912c2fecfd46361454467a2.ctv) |
+| 9 | [BD]cctv16[ipv6] | [BD cctv16 ipv6](https://epg.pw/stream/9eeb49b6d1048ea7c05421a7409300f43ed5695e937a78feb1cc9eb1cb4de5b4.m3u8) |
+| 10 | [BD]cctv17[ipv6] | [BD cctv17 ipv6](https://epg.pw/stream/ce5a1eea427e695aac64366f5c727e80bdda57a6a6df856f2654d325f559f8a5.m3u8) |
+| 11 | [BD]cctv2[ipv6] | [BD cctv2 ipv6](https://epg.pw/stream/f86540c126a751cc707e3805911549bd077fb5a7f0f53a824212d75addea3747.m3u8) |
+| 12 | [BD]cctv3[ipv6] | [BD cctv3 ipv6](https://epg.pw/stream/7361b754ebaf0853cb863bc4a3af9233d23c74c0e46a0aa7190d44f0389e0822.m3u8) |
+| 13 | [BD]cctv4[ipv6] | [BD cctv4 ipv6](https://epg.pw/stream/5ea26961bbc8690cbd372a194e8801249644123feab6354e1f2cdd2b8a0026ca.m3u8) |
+| 14 | [BD]cctv4k超高清[ipv6] | [BD cctv4k超高清 ipv6](https://epg.pw/stream/14061ea886df6edfb76d8015ef8df852acbce8d4d862909db2279d3b3387cd9c.m3u8) |
+| 15 | [BD]cctv-5[ipv6] | [BD cctv-5 ipv6](https://epg.pw/stream/0cebf04f8ced719321d379ebea3e3cb758aa2bb1a1ac7fd14c84ba6dc3f243dc.m3u8) |
+| 16 | [VGA]cctv-5 体育 | [VGA cctv-5 体育](https://epg.pw/stream/6ab838fe184ffa82dd1a81afb2f535c24bdfc0bb5fd64e4485ac4c6a9b61ed7f.m3u8) |
+| 17 | [BD]cctv-5+ 体育赛事 | [BD cctv-5+ 体育赛事](https://epg.pw/stream/eb41e17246248e438598bfcec41dbb4fbd2fde87e9f658d776d8eabdea473b3f.m3u8) |
+| 18 | [BD]cctv6[ipv6] | [BD cctv6 ipv6](https://epg.pw/stream/7bbfe5fb8392af3f4ffdc18217c886d0937de05315ed7980dc17d9578d4411ac.m3u8) |
+| 19 | [BD]cctv7[ipv6] | [BD cctv7 ipv6](https://epg.pw/stream/085cc8320b47039f91c89f261b3bde134c04438bf58155988cdd2120c8ae5c1c.m3u8) |
+| 20 | [BD]cctv8 | [BD cctv8](https://epg.pw/stream/9e5ef6be8ac32d23db431bdc8d9d49531b4bdf96d53db08dd102919b70f12e88.m3u8) |
+| 21 | [VGA]cctv9 | [VGA cctv9](https://epg.pw/stream/468810bb8a5aea0738c0e707e4b0ed227aeb431a11a977aa1a43fd542997f525.m3u8) |
+| 22 | [SD]cctv-7国防军事 | [SD cctv-7国防军事](https://epg.pw/stream/bbe967530d8fa9e49eaf55e5658ac938f0d80d6f616399efd0a110116c6b2c1f.m3u8) |
+| 23 | [BD]cctv央视台球[ipv6] | [BD cctv央视台球 ipv6](https://epg.pw/stream/51b8aac49ec3c280ee204075b38542e9a547208c9f6a19b6bd517a333e321407.m3u8) |
+| 24 | [HD]ccgtn | [HD ccgtn](https://epg.pw/stream/aaa56ce8ac0666968ec0399c5b51f0d39a6a20a0b154da1b0739c872a920111d.m3u8) |
+| 25 | [BD]chc家庭影院 | [BD chc家庭影院](https://epg.pw/stream/085a38ada3bf036f74dc58987291160253095044bdff40a127b5578345656db0.ctv) |
+| 26 | [SD]ltv | [SD ltv](https://epg.pw/stream/029e955b34c740d195366fd33dcebdce79b63fabb52d2c6ed911106d93759f86.m3u8) |
+| 27 | [SD]cctv-11戏曲 | [SD cctv-11戏曲](https://epg.pw/stream/b7ef5c529b15446a2c8ce45c8f7aa56adcdf83cca42dd7c680952f4fbd52a163.m3u8) |
+| 28 | [BD]cctv文化精品[ipv6] | [BD cctv文化精品 ipv6](https://epg.pw/stream/24c64b08560eaa6524bf24d20d577d0938a4d64229416a5744a16f08f4dd161a.m3u8) |
 | 29 | [BD]cetv1[ipv6] | [BD cetv1 ipv6](https://epg.pw/stream/8b1753aa1c34222511ed35b4c2590e3e37b4722a458ce8aa18f5243fb1659868.m3u8) |
 | 30 | [SD]cgtn español (576p) | [SD cgtn español (576p)](https://epg.pw/stream/32644b27df53a500dd42ddb0c101df37f0ada5c8d4bb5ed3f0612a65873b6de7.m3u8) |
 | 31 | [SD]cgtn français (576p) [not 24/7] | [SD cgtn français (576p)  not 24/7](https://epg.pw/stream/182476bbeaf13251289573a758465d37f1716f737f8f770d4e5980a63eb4a88b.m3u8) |
@@ -185,4 +185,4 @@
 | 179 | [SD]黑龙江公共农业 | [SD 黑龙江公共农业](https://epg.pw/stream/d4bc9942241f1c893fad50ece90abfce425419abf78dc318325058f860b1df11.m3u8) |
 | 180 | [BD]黑龙江卫视 8m | [BD 黑龙江卫视 8m](https://epg.pw/stream/53cf5f9b0b328e1c40de1fc5d4aac8926a4772f9beeddad01f8a3350be87e5f1.ctv) |
 
-Updated at **Tue Dec 19 2023 02:24:43 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Dec 19 2023 02:59:26 GMT+0000 (Coordinated Universal Time)**
