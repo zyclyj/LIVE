@@ -3365,7 +3365,7 @@ http://150.107.205.212:1935/live/mithila/playlist.m3u8?DVR=
 https://inliveserver.com:1936/19018/19018/playlist.m3u8
 #EXTINF:-1 tvg-id="MyanmarInternationalTV.mm" tvg-logo="https://i.imgur.com/ClmWqE5.png" group-title="Undefined",MITV (480p)
 http://183.89.246.119:8881/play/a07r/index.m3u8
-#EXTINF:-1 tvg-id="MiTV.py" tvg-logo="https://lh3.googleusercontent.com/-EvztcqftXgc/YH47C8J3ByI/AAAAAAABBxg/wV8hmM0M5MMPL9Im4r1eQRejLGb9wUIkQCK8BGAsYHg/s512/2021-04-19.png" group-title="Undefined",MiTV (720p)
+#EXTINF:-1 tvg-id="MiTV.py" tvg-logo="https://i.imgur.com/sgrEt9z.png" group-title="Undefined",MiTV (720p)
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 #EXTINF:-1 tvg-id="MiTV.do" tvg-logo="https://i.imgur.com/qsyjdR8.png" group-title="General",MiTV (720p) [Not 24/7]
 https://ss2.domint.net:3204/mitv_str/mitv/playlist.m3u8
@@ -6347,7 +6347,7 @@ https://unidfp-nlds164.global.ssl.fastly.net/nlds/univisionnow/unimas_east2/as/l
 https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
 #EXTINF:-1 tvg-id="UniquelyThai.vn" tvg-logo="https://i.imgur.com/cTSDB8O.png" group-title="Shop",Uniquely Thai (720p)
 https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Uniradio.py" tvg-logo="https://lh3.googleusercontent.com/-34FgWqzMBDg/YH9cw6_T2TI/AAAAAAABBzs/kBRRqFmgxqoFDZbfXOnL4wj8E58LW9jkQCK8BGAsYHg/s512/2021-04-20.png" group-title="Undefined",Uniradio (720p)
+#EXTINF:-1 tvg-id="Uniradio.py" tvg-logo="" group-title="Undefined",Uniradio (720p)
 https://59ce1298bfb98.streamlock.net/uniradiotv/uniradiotv/playlist.m3u8
 #EXTINF:-1 tvg-id="UnirioTV.ar" tvg-logo="https://i.imgur.com/RMlneSY.png" group-title="Undefined",Unirio TV (720p)
 https://5f700d5b2c46f.streamlock.net/uniriotv/uniriotv/playlist.m3u8
