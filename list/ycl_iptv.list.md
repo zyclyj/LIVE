@@ -27,10 +27,10 @@
 | 21 | 凤凰香港 | [凤凰香港](http://[2409:8087:2001:20:2800:0:df6e:eb1d]/ott.mobaibox.com/PLTV/3/224/3221228530/1.m3u8) |
 | 22 | 凤凰中文 | [凤凰中文](http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8) |
 | 23 | 凤凰资讯 | [凤凰资讯](http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8) |
-| 24 | CNN新闻 | [CNN新闻](https://i.mjh.nz/SamsungTVPlus/ATBD800001VA.m3u8) |
-| 25 | FOX新闻 | [FOX新闻](https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8) |
-| 26 | CNA新闻 | [CNA新闻](https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8) |
-| 27 | 半岛新闻 | [半岛新闻](http://live-hls-web-aje.getaj.net/AJE/01.m3u8) |
+| 24 | 半岛新闻 | [半岛新闻](http://live-hls-web-aje.getaj.net/AJE/01.m3u8) |
+| 25 | CNN新闻 | [CNN新闻](https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8) |
+| 26 | FOX新闻 | [FOX新闻](https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8) |
+| 27 | CNA新闻 | [CNA新闻](https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8) |
 | 28 | NHK世界 | [NHK世界](https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8) |
 | 29 | RT新闻 | [RT新闻](https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8) |
 | 30 | RT纪录 | [RT纪录](https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8) |
@@ -113,4 +113,4 @@
 | 107 | 高清电影 | [高清电影](http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com) |
 | 108 | 华数超清 | [华数超清](http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3) |
 
-Updated at **Tue Dec 19 2023 16:10:37 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Dec 19 2023 18:09:20 GMT+0000 (Coordinated Universal Time)**
