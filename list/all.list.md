@@ -122,7 +122,7 @@
 | 116 | [VGA]btv 1 | [VGA btv 1](https://epg.pw/stream/1d744291f5cce040d601f209a59575228c2da666b77cf239f6a2e88b8a34306f.m3u8) |
 | 117 | [HD]ช่อง bally sports sun | [HD ช่อง bally sports sun](https://epg.pw/stream/e9b739ee16fec8cb79263313eb3fd6f1eedd3799003a7fc74cfb8b33e8d63f83.m3u8) |
 | 118 | [HD]band sports | [HD band sports](https://epg.pw/stream/f1fdf95454237cf77dfd3e26a035b3a380ad45e49294e4fe392278fc62bb69ef.m3u8) |
-| 119 | [HD]bein sports 1 | [HD bein sports 1](https://epg.pw/stream/d8a126c8b3fc7167745ea047db725a915ef5afd31742ead15b58a2cc1af6b886.ctv) |
+| 119 | [BD]bein sports 1 | [BD bein sports 1](https://epg.pw/stream/f075247115f9fd5c28e21226ead8b2e4e92b3ac45f34d146f2c30bf3eee8db96.m3u8) |
 | 120 | [SD]bein sports 2 | [SD bein sports 2](https://epg.pw/stream/d28bb592629af3678392dd97796ec220fc935aadf0f477b677732472a4825e72.ctv) |
 | 121 | [HD]bein sports english 3 | [HD bein sports english 3](https://epg.pw/stream/eeda31a9406748fcd6fc8f05b48be7c4e86033286040e488899d0c54bc686709.ctv) |
 | 122 | [BD]bein sports news | [BD bein sports news](https://epg.pw/stream/1aa51778ef4f227812d78a8394ec24719571f0aa6e18d775ea95d120ad5a0dd7.ctv) |
@@ -281,7 +281,7 @@
 | 275 | [SD]islam channel | [SD islam channel](https://epg.pw/stream/8103342d547dffc87f155755a74ddaba14859987d5ee85d3d2104b926837ad49.m3u8) |
 | 276 | [BD]Indosiar | [BD Indosiar](https://epg.pw/stream/4c63719fd99321c08ad11fdc04f2654161e519ef555c54567711b1090a5df8f1.ctv) |
 | 277 | [VGA]finest tv (288p) [not 24/7] | [VGA finest tv (288p)  not 24/7](https://epg.pw/stream/80648d0bdb5700f114edde040658506d0cdb1fca7e9cb2cc60d00559605f6e42.m3u8) |
-| 278 | [HD]infowars network | [HD infowars network](https://epg.pw/stream/e2ddfe678803413d6b751a71ba74ad764442eb5b9d8ec6f20bc8e0a4e41fca95.m3u8) |
+| 278 | [SD]infowars network | [SD infowars network](https://epg.pw/stream/e2ddfe678803413d6b751a71ba74ad764442eb5b9d8ec6f20bc8e0a4e41fca95.m3u8) |
 | 279 | [BD]INVESTIGATION DISCOVERY | [BD INVESTIGATION DISCOVERY](https://epg.pw/stream/c72b7789cf44c93e0e3688497ffc8b8e1d8b33ec4aadf2476b2c14900d4d78ce.ctv) |
 | 280 | [SD]j sports 1 | [SD j sports 1](https://epg.pw/stream/53774e5dcaba3afb84caaf370039bc6852a1aa470100e0a8245fc9e8a2d99416.m3u8) |
 | 281 | [HD]j sports 2 | [HD j sports 2](https://epg.pw/stream/6e98b01b223383c282b8afd75a1ecbd7fca2b6ec1a1b6263762304d8571f0f90.m3u8) |
@@ -299,7 +299,7 @@
 | 293 | [BD]jcn tv | [BD jcn tv](https://epg.pw/stream/c8cf278ea478dcb45d0881efa649b1be4188a636260f08049bd0a224a5a1fffc.m3u8) |
 | 294 | [SD]ltv | [SD ltv](https://epg.pw/stream/029e955b34c740d195366fd33dcebdce79b63fabb52d2c6ed911106d93759f86.m3u8) |
 | 295 | [BD]leipzig fernsehen (1080p) | [BD leipzig fernsehen (1080p)](https://epg.pw/stream/11a55727ff4d320d324cf9f8f08e19ff1866710edde8e8c65ebb34ba585a810b.m3u8) |
-| 296 | [HD]lifetime | [HD lifetime](https://epg.pw/stream/010e6202b2edf64f0c4ac091bb6c50a391d399374694723591feede511ab6521.m3u8) |
+| 296 | [HD]ช่อง lifetime | [HD ช่อง lifetime](https://epg.pw/stream/368d8371137bcd7d2b00399ec6c3b432df847cae546c9d249ff51427a94c4676.m3u8) |
 | 297 | [HD]LIFETIME | [HD LIFETIME](https://epg.pw/stream/a7acf149c23690452ff09b1fe0d6e644afd04ab8de9dd54c05b299b1681eaddf.ctv) |
 | 298 | [BD]mbc yeosu (여수 mbc) (1080p) [not 24/7] | [BD mbc yeosu (여수 mbc) (1080p)  not 24/7](https://epg.pw/stream/794172db13663b24c619a56265a1a966ecba71c01c0c6dec089745ba4c2c7157.m3u8) |
 | 299 | [SD]mbs | [SD mbs](https://epg.pw/stream/460d715aea944f3f6a9281138dfec32ae644ce40cfbb11aa76a1eab9ef066433.m3u8) |
@@ -723,7 +723,7 @@
 | 717 | [BD]eleven sports 1⁴ᴷ_ | [BD eleven sports 1⁴ᴷ_](https://epg.pw/stream/70aae32f941ab8b702ee73c95adc058a1b87e065db280fbb667887f61ae1782c.m3u8) |
 | 718 | [SD]eman channel | [SD eman channel](https://epg.pw/stream/23d4a4ba53acfdcb65ba678700185fa58c8e1de0aeb5395385bcdcbad43ea5a6.m3u8) |
 | 719 | [HD]english club | [HD english club](https://epg.pw/stream/c7cc49477d5a625a44d477a08dc09ca2224f88f1317ef803479b4404db016e36.m3u8) |
-| 720 | [HD]espn 3 | [HD espn 3](https://epg.pw/stream/e926c5e02b4732c880a2e19c7932f64fc52fe88137e3eaea6083d49382032750.ctv) |
+| 720 | [HD]espn 3 | [HD espn 3](https://epg.pw/stream/93b50799cf19f9223ae2ce8f833c36b94b81a28ef34629f60cc60de3f709eb6f.ctv) |
 | 721 | [VGA]espn2 méxico | [VGA espn2 méxico](https://epg.pw/stream/8185efed8eaa2684b89c1ab9dd6e5790ad52f52633558c4378e3a1159586fd05.m3u8) |
 | 722 | [BD]estv (1080p) | [BD estv (1080p)](https://epg.pw/stream/cf0398878b68af4543976b1b4e161f00a0b86b833c07508de7eceabde37d34f5.m3u8) |
 | 723 | [BD]etv | [BD etv](https://epg.pw/stream/ad0d706af3006aab1b254f82a568778b9cdb79165631e40ed106dffaa62e4077.m3u8) |
@@ -1810,7 +1810,7 @@
 | 1804 | [BD]风云足球[ipv6] | [BD 风云足球 ipv6](https://epg.pw/stream/2f15d1c8f0acaa40abcbf0b5cab1d4011bf75bd775e650078108a7354dbf9dc0.m3u8) |
 | 1805 | [HD]香港国际财经台 | [HD 香港国际财经台](https://epg.pw/stream/d7d42738d28d82242956de378400f29c137bb4844173f1517b19bad0dd5c95d5.m3u8) |
 | 1806 | [BD]香港有线新闻 | [BD 香港有线新闻](https://epg.pw/stream/4c65fc12a950810e9f068c55b2abf43cf7937762e9c5d4d44381205743c731bf.ctv) |
-| 1807 | [SD]香港卫视 | [SD 香港卫视](https://epg.pw/stream/819fd0a3c22f662eca7cc397a42c80108b0730dd11c9716b7f2d5023d6b89818.m3u8) |
+| 1807 | [VGA]香港卫视 | [VGA 香港卫视](https://epg.pw/stream/819fd0a3c22f662eca7cc397a42c80108b0730dd11c9716b7f2d5023d6b89818.m3u8) |
 | 1808 | [VGA]香港卫视文旅 | [VGA 香港卫视文旅](https://epg.pw/stream/092a08c73e2f252b5b864bbf21fc7753e7c59c706165977ab071e8b2216da0cb.m3u8) |
 | 1809 | [BD]5+体育赛事 | [BD 5+体育赛事](https://epg.pw/stream/8e87dfe99f2a476ed0f64027d3fe221c0aa002845001d44e3e273df669c0bd9c.m3u8) |
 | 1810 | [BD]魅力足球 | [BD 魅力足球](https://epg.pw/stream/100f8d10fb39d11544e9f834c30dd5a57e92915f801d8e9bf50bf0f01345bef7.m3u8) |
@@ -1836,4 +1836,4 @@
 | 1830 | [HD]龙祥电影 | [HD 龙祥电影](https://epg.pw/stream/9404e32456473a20ff1d28e9060baf33bdf75462ba286cfc1895d54c7bb35c9b.ctv) |
 | 1831 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 
-Updated at **Tue Dec 19 2023 06:12:26 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Dec 19 2023 08:12:20 GMT+0000 (Coordinated Universal Time)**
