@@ -1828,4 +1828,4 @@
 | 1822 | [BD]龙祥电影 | [BD 龙祥电影](https://epg.pw/stream/9404e32456473a20ff1d28e9060baf33bdf75462ba286cfc1895d54c7bb35c9b.ctv) |
 | 1823 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 
-Updated at **Wed Dec 20 2023 15:39:02 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Dec 20 2023 16:09:12 GMT+0000 (Coordinated Universal Time)**
