@@ -12,7 +12,7 @@
 | 6 | [BD]newtv爱情喜剧[ipv6] | [BD newtv爱情喜剧 ipv6](https://epg.pw/stream/7842f9585950362ef02dfe7f4d3b8a01574565b72ddca15ac35b1d91630a3abc.m3u8) |
 | 7 | [BD]newtv海外剧场[ipv6] | [BD newtv海外剧场 ipv6](https://epg.pw/stream/b314ebcd13fbec4a42a56d423398e032e62e662a888437a30c5847b6162a409f.m3u8) |
 | 8 | [BD]newtv潮妈辣婆[ipv6] | [BD newtv潮妈辣婆 ipv6](https://epg.pw/stream/b8b258c3f487a0ca6e3485c53298c0c86cba21b9603aecc6b36a1fec95e6db85.m3u8) |
-| 9 | [BD]newtv精品大剧[ipv6] | [BD newtv精品大剧 ipv6](https://epg.pw/stream/e4d84269860ab91f3eecc82bfa9f2c17c70877716b1ebe2f198c8bd24f7bc2c1.m3u8) |
+| 9 | [BD]newtv精品大剧[ipv6] | [BD newtv精品大剧 ipv6](https://epg.pw/stream/77f3dfac96f46b8db4bab743ef691404ac96b99f59c539a6c573215f57588360.m3u8) |
 | 10 | [BD]newtv精品纪录[ipv6] | [BD newtv精品纪录 ipv6](https://epg.pw/stream/3745626b332353d3a3b029f2c86d2be6025b392c11261585cee511bd1dffdf63.m3u8) |
 | 11 | [BD]newtv精品体育[ipv6] | [BD newtv精品体育 ipv6](https://epg.pw/stream/d057acbad8a13889c27b858257a7ea1791caf9409afc026a8f83f279c00d9a45.m3u8) |
 | 12 | [BD]newtv超级综艺[ipv6] | [BD newtv超级综艺 ipv6](https://epg.pw/stream/993b177d006da3fe1e88f9e34d5c4f039acb16c782b8588a422b382bc0fd848b.m3u8) |
@@ -188,4 +188,4 @@
 | 182 | [VGA]黑龙江新闻 | [VGA 黑龙江新闻](https://epg.pw/stream/6fe0461d8f101b8f9da77bb21785e3224610d31b800c0bd5c86f9abdd8ab380f.m3u8) |
 | 183 | [HD]点掌财经 | [HD 点掌财经](https://epg.pw/stream/96bec7b1f9d22ac90697af55775bf2328443600cdc5ac81952ca681c136f86f7.m3u8) |
 
-Updated at **Wed Dec 20 2023 08:09:52 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Dec 20 2023 10:08:09 GMT+0000 (Coordinated Universal Time)**
