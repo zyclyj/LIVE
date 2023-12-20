@@ -49,7 +49,7 @@
 | 43 | [HD]ASSP4 | [HD ASSP4](https://epg.pw/stream/870653eec936a4555fa91ad8a888454d60967808a894679a2d87e4aef4807538.ctv) |
 | 44 | [HD]ASTRO AEC | [HD ASTRO AEC](https://epg.pw/stream/c4434cd6c9dcd329dac18397f81760cf108ebdbf8274fcbe0cecef5e03a56cce.ctv) |
 | 45 | [SD]ASTRO AOD 311 | [SD ASTRO AOD 311](https://epg.pw/stream/b688d85b0ebdec4d08725ceb714855d91a36e3174947be61f3c4d8947ab35d46.ctv) |
-| 46 | [HD]ASTRO AWANI | [HD ASTRO AWANI](https://epg.pw/stream/b0fc90f9602f16280c1fe7bee9751d059dc07c747fefd4918d280a23f255275a.ctv) |
+| 46 | [HD]ASTRO AWANI | [HD ASTRO AWANI](https://epg.pw/stream/045aeb378bc5c4bc5560ed79f11e6896bb336f8a562c684f89b6e694623a21c2.ctv) |
 | 47 | [HD]ASTRO ARENA | [HD ASTRO ARENA](https://epg.pw/stream/662a30846ebe1d6b2867e1ee0e699a155e2cad2451ad22281a15d2cc076529d0.ctv) |
 | 48 | [BD]Astro Arena 2 | [BD Astro Arena 2](https://epg.pw/stream/10eb65c5405494c83d18112b3422695c1f9e54cfc8a6f549b5860ea682e289af.ctv) |
 | 49 | [HD]ASTRO AURA | [HD ASTRO AURA](https://epg.pw/stream/c3c104e7dd542948f68a129b5b536976871633af353d562f89fd27ea9e517fd3.ctv) |
@@ -264,7 +264,7 @@
 | 258 | [BD]hbo hd | [BD hbo hd](https://epg.pw/stream/4942abf0111719d244945b3528ad1061b3ad4af300754b34f22cf04471b0f76b.ctv) |
 | 259 | [BD]HBO HD USA | [BD HBO HD USA](https://epg.pw/stream/bcc52f2ea9a67c8c46696fb51913b3c696378cc806f9a696ca70c08d71b2e7d9.ctv) |
 | 260 | [HD]HBO HITS | [HD HBO HITS](https://epg.pw/stream/c005fdc4e8b7ab532912760e70bf1ae92d1b72795435a508ea2e025526b47c6e.ctv) |
-| 261 | [HD]HBO HITS | [HD HBO HITS](https://epg.pw/stream/000c7081c669209d98c1ded7145d05708743c5a69a7d0874fa192bc4abc3bc0d.ctv) |
+| 261 | [HD]HBO HITS | [HD HBO HITS](https://epg.pw/stream/09c8d702d56292e83f881c1704969d0c60c6d2b59b70d03e2654bef8219fc2af.ctv) |
 | 262 | [HD]hbo signature | [HD hbo signature](https://epg.pw/stream/f444d7de38b926b04f9732ee61f2397e5aea62807d00069d4a1e33ca52458ff1.ctv) |
 | 263 | [HD]HBO SIGNATURE | [HD HBO SIGNATURE](https://epg.pw/stream/8fad06f8eb6bd3889bfb1adb9f3b97048c65e5b51f7bcfb459089f5b81899548.ctv) |
 | 264 | [HD]HBO SIGNATURE USA | [HD HBO SIGNATURE USA](https://epg.pw/stream/d237a6fb8507390c2700dc51f8e220d467ffcf6eb23acde1b5dc2236c70b96f3.ctv) |
@@ -1826,4 +1826,4 @@
 | 1820 | [HD]龙祥电影 | [HD 龙祥电影](https://epg.pw/stream/9404e32456473a20ff1d28e9060baf33bdf75462ba286cfc1895d54c7bb35c9b.ctv) |
 | 1821 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 
-Updated at **Wed Dec 20 2023 02:07:54 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Dec 20 2023 04:09:12 GMT+0000 (Coordinated Universal Time)**
