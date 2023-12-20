@@ -86,7 +86,7 @@
 | 80 | [HD]广东影视 | [HD 广东影视](https://epg.pw/stream/37555bfaaf041a1f11ac31ebb1b28ae693f5fc4299751b197a83e437833ca1ad.ctv) |
 | 81 | [HD]广东新闻 | [HD 广东新闻](https://epg.pw/stream/54eacf981d4eba031293a7c4fb1c96c29c75f44fcacf6fa9ab6d8063b1060711.ctv) |
 | 82 | [HD]广东珠江[ipv6] | [HD 广东珠江 ipv6](https://epg.pw/stream/2419c6ca4dac89689f5bab479a71bcfac926d7c7b5133c1b08c19f1a0d557828.m3u8) |
-| 83 | [BD]广东经济科教 | [BD 广东经济科教](https://epg.pw/stream/92d2fa1304545640f7fd0d67aef94454f51f05a0cb77d0825f446954857c899a.m3u8) |
+| 83 | [VGA]广东经济科教 | [VGA 广东经济科教](https://epg.pw/stream/92d2fa1304545640f7fd0d67aef94454f51f05a0cb77d0825f446954857c899a.m3u8) |
 | 84 | [HD]广东综艺 | [HD 广东综艺](https://epg.pw/stream/e8b28ec61f7a94aee321cb57b38b6ed69638f0489cb004dae3417ba2de8ef4dd.ctv) |
 | 85 | [HD]广东体育 | [HD 广东体育](https://epg.pw/stream/1f8c60e6c05b69be6816ad240d74aa967881eec688ed90972c434d2f6a79f5df.ctv) |
 | 86 | [BD]广西影视 | [BD 广西影视](https://epg.pw/stream/8cfcbd7359b48553193f700bbb8ee80def1b0e954f3f6721a1b331a38a6f9f0a.m3u8) |
@@ -188,4 +188,4 @@
 | 182 | [VGA]黑龙江新闻 | [VGA 黑龙江新闻](https://epg.pw/stream/6fe0461d8f101b8f9da77bb21785e3224610d31b800c0bd5c86f9abdd8ab380f.m3u8) |
 | 183 | [HD]点掌财经 | [HD 点掌财经](https://epg.pw/stream/96bec7b1f9d22ac90697af55775bf2328443600cdc5ac81952ca681c136f86f7.m3u8) |
 
-Updated at **Wed Dec 20 2023 14:07:16 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Dec 20 2023 15:39:00 GMT+0000 (Coordinated Universal Time)**
