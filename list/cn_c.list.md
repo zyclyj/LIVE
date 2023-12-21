@@ -70,7 +70,7 @@
 | 64 | [BD]宁夏卫视 | [BD 宁夏卫视](https://epg.pw/stream/5ba9406f5db6d6511f0b15b6fb7b728b6d82abe3a53a42ac1176ef67023d274f.m3u8) |
 | 65 | [HD]咸宁经济生活 | [HD 咸宁经济生活](https://epg.pw/stream/a54e5bea2c05e2aa3f7c76eda34ffd95cfdf2e5ff9c0aa5ac284e34d8a512ea3.m3u8) |
 | 66 | [SD]山东山东少儿 | [SD 山东山东少儿](https://epg.pw/stream/ed13a4e9ffe04579a88d7b09027e3e4e29c96a8a116fbcb81f0d618361eee304.ctv) |
-| 67 | [HD]山东教育 | [HD 山东教育](https://epg.pw/stream/5d23c2d55bf72be1537a0eafcd443bad151f40f0bd3e87c51be9fa8c13b624fb.m3u8) |
+| 67 | [SD]山东教育 | [SD 山东教育](https://epg.pw/stream/5d23c2d55bf72be1537a0eafcd443bad151f40f0bd3e87c51be9fa8c13b624fb.m3u8) |
 | 68 | [BD]山东生活 | [BD 山东生活](rtmp://livealone.iqilu.com/iqilu/shpdhjOF03kn) |
 | 69 | [BD]山东综艺 | [BD 山东综艺](rtmp://livealone.iqilu.com/iqilu/zypdhjOF03kn) |
 | 70 | [BD]山东农科 | [BD 山东农科](rtmp://livealone.iqilu.com/iqilu/nkpdhjOF03kn) |
@@ -83,7 +83,7 @@
 | 77 | [HD]平湖新闻综合 | [HD 平湖新闻综合](https://epg.pw/stream/42b48170548b6a57776c7592ecda1c9f326f0ed39dc0631337d1e8961aa97486.m3u8) |
 | 78 | [SD]康巴卫视 | [SD 康巴卫视](https://epg.pw/stream/4a7f901d517897aa0bf1ff684b61423b1e107da6ea3b0bccc233526fba9cdf99.m3u8) |
 | 79 | [HD]广东珠江[ipv6] | [HD 广东珠江 ipv6](https://epg.pw/stream/2419c6ca4dac89689f5bab479a71bcfac926d7c7b5133c1b08c19f1a0d557828.m3u8) |
-| 80 | [VGA]广东经济科教 | [VGA 广东经济科教](https://epg.pw/stream/92d2fa1304545640f7fd0d67aef94454f51f05a0cb77d0825f446954857c899a.m3u8) |
+| 80 | [BD]广东经济科教 | [BD 广东经济科教](https://epg.pw/stream/92d2fa1304545640f7fd0d67aef94454f51f05a0cb77d0825f446954857c899a.m3u8) |
 | 81 | [BD]广西影视 | [BD 广西影视](https://epg.pw/stream/8cfcbd7359b48553193f700bbb8ee80def1b0e954f3f6721a1b331a38a6f9f0a.m3u8) |
 | 82 | [BD]广西综艺 | [BD 广西综艺](https://epg.pw/stream/dd40c2123be7b124947cef55b01bde16e981e3a90d9d9ca725956786bd3b1167.m3u8) |
 | 83 | [BD]广西都市 | [BD 广西都市](https://epg.pw/stream/7ea5219e9f45945814926dfa1285a37f01c7a82bab44430d6eaa5bb4af0aac85.m3u8) |
@@ -177,4 +177,4 @@
 | 171 | [VGA]黑龙江新闻 | [VGA 黑龙江新闻](https://epg.pw/stream/6fe0461d8f101b8f9da77bb21785e3224610d31b800c0bd5c86f9abdd8ab380f.m3u8) |
 | 172 | [HD]点掌财经 | [HD 点掌财经](https://epg.pw/stream/96bec7b1f9d22ac90697af55775bf2328443600cdc5ac81952ca681c136f86f7.m3u8) |
 
-Updated at **Wed Dec 20 2023 22:08:21 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Dec 21 2023 00:40:47 GMT+0000 (Coordinated Universal Time)**
