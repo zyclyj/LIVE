@@ -1,6 +1,6 @@
 # List for **iptv.org China**
 
-> M3U: <https://m3u.ibert.me/o_cn.m3u>, TXT: <https://m3u.ibert.me/txt/o_cn.txt>
+> M3U: [o_cn.m3u](/o_cn.m3u), TXT: [o_cn.txt](/txt/o_cn.txt)
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
@@ -48,4 +48,4 @@
 | 42 | CETV1 (576p) | [CETV1 (576p)](http://183.207.248.71/gitv/live1/G_CETV-1/G_CETV-1) |
 | 43 | CETV2 (576p) | [CETV2 (576p)](http://183.207.248.71/gitv/live1/G_CETV-2/G_CETV-2) |
 
-Updated at **Thu Dec 21 2023 10:09:48 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Dec 21 2023 11:52:59 GMT+0000 (Coordinated Universal Time)**

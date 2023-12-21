@@ -1,6 +1,6 @@
 # List for **YueChan_Live IPTV**
 
-> M3U: <https://m3u.ibert.me/ycl_iptv.m3u>, TXT: <https://m3u.ibert.me/txt/ycl_iptv.txt>
+> M3U: [ycl_iptv.m3u](/ycl_iptv.m3u), TXT: [ycl_iptv.txt](/txt/ycl_iptv.txt)
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
@@ -113,4 +113,4 @@
 | 107 | 高清电影 | [高清电影](http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com) |
 | 108 | 华数超清 | [华数超清](http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3) |
 
-Updated at **Thu Dec 21 2023 10:09:48 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Dec 21 2023 11:52:59 GMT+0000 (Coordinated Universal Time)**

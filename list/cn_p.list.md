@@ -1,6 +1,6 @@
 # List for **China Province**
 
-> M3U: <https://m3u.ibert.me/cn_p.m3u>, TXT: <https://m3u.ibert.me/txt/cn_p.txt>
+> M3U: [cn_p.m3u](/cn_p.m3u), TXT: [cn_p.txt](/txt/cn_p.txt)
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
@@ -40,4 +40,4 @@
 | 34 | [SD]青海卫视[ipv6] | [SD 青海卫视 ipv6](https://epg.pw/stream/baf5e50a17f574f86c96810d5d2eebbbc3570ca5f5a35d953837040845c89726.m3u8) |
 | 35 | [BD]黑龙江卫视[ipv6] | [BD 黑龙江卫视 ipv6](https://epg.pw/stream/bba30e5caaeffff57cecd7e3145d77937bb135028de2be19ffe2f644858124ca.m3u8) |
 
-Updated at **Thu Dec 21 2023 10:09:48 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Dec 21 2023 11:52:59 GMT+0000 (Coordinated Universal Time)**

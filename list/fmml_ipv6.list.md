@@ -1,6 +1,6 @@
 # List for **fanmingming/live ipv6**
 
-> M3U: <https://m3u.ibert.me/fmml_ipv6.m3u>, TXT: <https://m3u.ibert.me/txt/fmml_ipv6.txt>
+> M3U: [fmml_ipv6.m3u](/fmml_ipv6.m3u), TXT: [fmml_ipv6.txt](/txt/fmml_ipv6.txt)
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
@@ -163,4 +163,4 @@
 | 157 | 家有购物 | [家有购物](http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001244/index.m3u8) |
 | 158 | 快乐购 | [快乐购](http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001368/index.m3u8) |
 
-Updated at **Thu Dec 21 2023 10:09:48 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Dec 21 2023 11:52:59 GMT+0000 (Coordinated Universal Time)**
