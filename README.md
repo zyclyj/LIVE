@@ -49,7 +49,7 @@ EPG Sources are from:
 | 51zmt.top cc | <https://m3u.ibert.me/epg/51zmt_cc.xml> | - |
 | 51zmt.top difang | <https://m3u.ibert.me/epg/51zmt_df.xml> | - |
 
-Updated at **Thu Dec 21 2023 00:40:50 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Dec 21 2023 00:58:24 GMT+0000 (Coordinated Universal Time)**
 
 See <https://m3u.ibert.me> to get more.
 
