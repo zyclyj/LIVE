@@ -30,7 +30,7 @@
 | 24 | [BD]上虞新闻综合 | [BD 上虞新闻综合](https://epg.pw/stream/c263e1828b4fb93d5bff50bf91136b93920a674c1bd19ccf1e4922baecfc3acc.m3u8) |
 | 25 | [BD]之江纪录 | [BD 之江纪录](https://epg.pw/stream/b54488b3d7492fc39f975f3393ec9c4d3b6055efbea9a3140631d6aebfded766.m3u8) |
 | 26 | [BD]五星体育[ipv6] | [BD 五星体育 ipv6](https://epg.pw/stream/031acdbb137226f0c022242be1f31a039d40acf487f2c4b6fa6b40d6eb55f3f4.m3u8) |
-| 27 | [SD]优漫卡通 | [SD 优漫卡通](https://epg.pw/stream/1b4155ed8113b73f664d947a024a12acce9b5d43d0911fe05bfa051640987666.m3u8) |
+| 27 | [SD]优漫卡通 | [SD 优漫卡通](https://epg.pw/stream/d3adca2858923a6de0115d8aacc3be7c541a9f4b76903eaaaeee9b74265230dd.m3u8) |
 | 28 | [BD]内蒙古文体娱乐 | [BD 内蒙古文体娱乐](https://epg.pw/stream/3e3a5613a7d58aabfefe76df40a9f69517a73afc939cb080ebcd56723a461cc0.m3u8) |
 | 29 | [BD]内蒙古新闻综合 | [BD 内蒙古新闻综合](https://epg.pw/stream/d7aa1346ac7eb6557177de5d526cbf5ca3f027ffa89d3f95472c1f6c5b8a5b2c.m3u8) |
 | 30 | [BD]内蒙古经济生活 | [BD 内蒙古经济生活](https://epg.pw/stream/15b68111ae34d993d7b93a271508a997b3410ab2a8e9b98543d831295c3e35bf.m3u8) |
@@ -45,7 +45,7 @@
 | 39 | [BD]北京科教 | [BD 北京科教](https://epg.pw/stream/d9607dea2f8e18d2582700bb5a7943c130bfc731c57ae9615971865692191e70.ctv) |
 | 40 | [BD]北京财* | [BD 北京财*](https://epg.pw/stream/79b9b9378d3493521b7e1536af07992696aeba2b686107112a2ad5aa32d2d875.ctv) |
 | 41 | [HD]南京娱乐 (720p) | [HD 南京娱乐 (720p)](https://epg.pw/stream/865a6ce4e34a3196604931f20a68039e8b218db157d4d956f4bbf9d7e777de64.m3u8) |
-| 42 | [HD]南京少儿 | [HD 南京少儿](https://epg.pw/stream/6941b9f65d43ced54574f4040a11a854c88690311795512fda6d3d9297f2a2af.m3u8) |
+| 42 | [SD]江苏南京少儿 | [SD 江苏南京少儿](https://epg.pw/stream/65fd88f21d7ca70635561d2b735caf5641049b8049178058ba435ba0b1da4754.m3u8) |
 | 43 | [BD]苏州南京影视 | [BD 苏州南京影视](https://epg.pw/stream/773779969ebf5c865e70a25fe14b254c3b9dfd50bb0d8827c20723253e61628d.m3u8) |
 | 44 | [HD]南京信息 | [HD 南京信息](https://epg.pw/stream/b973cc875b5900f81be46ea3b9196f37fb2ba57ac4068fa5b6c80fe94612f667.m3u8) |
 | 45 | [HD]南宁公共 | [HD 南宁公共](https://epg.pw/stream/b2be8aeccc71a5dc3881fb5e26df41d03a5426f58c24da03c53556cd42384650.m3u8) |
@@ -106,7 +106,7 @@
 | 100 | [SD]武汉少儿 | [SD 武汉少儿](https://epg.pw/stream/27cd1eac8d351cc84757c70d2e26ed14cb26bb6c81a7c33b569d083b99db4129.m3u8) |
 | 101 | [HD]武汉教育 | [HD 武汉教育](https://epg.pw/stream/c5bc53591db0451f2626ddff43e2de1460de1cbb8d7225d9d8c45e9660e9cb51.m3u8) |
 | 102 | [HD]武汉文体 (480p) | [HD 武汉文体 (480p)](https://epg.pw/stream/b5e5c2bf78a8bed49158096472f899ffe30bc2a0ca4ac0471778b117308ec49b.m3u8) |
-| 103 | [HD]武汉新闻综合 | [HD 武汉新闻综合](https://epg.pw/stream/277c2b350a2b37b80dd8a4b766d55c7bf7b44e2b0cdfbe38024cf5803f80ace4.m3u8) |
+| 103 | [VGA]武汉新闻综合 | [VGA 武汉新闻综合](https://epg.pw/stream/277c2b350a2b37b80dd8a4b766d55c7bf7b44e2b0cdfbe38024cf5803f80ace4.m3u8) |
 | 104 | [HD]武汉经济 (360p) | [HD 武汉经济 (360p)](https://epg.pw/stream/60692e28a9cf28d4d2bc7f266c2bca9418f30b3ffdc15f5f702871690d35acfa.m3u8) |
 | 105 | [SD]河北武汉电视剧 | [SD 河北武汉电视剧](https://epg.pw/stream/456f2251ba309946a1b4954299fa7941150642941c69ef7224f888c4803834df.m3u8) |
 | 106 | [BD]武术世界 | [BD 武术世界](https://epg.pw/stream/3b602b9a463136db096066c04bdfbac7f6bad519f824fdda60b2028c8d277950.m3u8) |
@@ -177,4 +177,4 @@
 | 171 | [VGA]黑龙江新闻 | [VGA 黑龙江新闻](https://epg.pw/stream/6fe0461d8f101b8f9da77bb21785e3224610d31b800c0bd5c86f9abdd8ab380f.m3u8) |
 | 172 | [HD]点掌财经 | [HD 点掌财经](https://epg.pw/stream/96bec7b1f9d22ac90697af55775bf2328443600cdc5ac81952ca681c136f86f7.m3u8) |
 
-Updated at **Thu Dec 21 2023 20:09:15 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Dec 21 2023 22:07:46 GMT+0000 (Coordinated Universal Time)**
