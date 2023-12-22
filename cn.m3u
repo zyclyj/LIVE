@@ -107,7 +107,7 @@ https://epg.pw/stream/1ca2457b9bd7a0905af48485803ac1357abc261d2ad96158b1970d5edd
 https://epg.pw/stream/22245524bde60cc6f805db18f5af17413485ab766670f6cf07e0b23d29358163.ctv
 #EXTINF:-1 tvg-name="全纪实 8m" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/09/large/20220509002559904362_96.jpg" group-title="纪实",[BD]全纪实 8m
 https://epg.pw/stream/f951ab49e5198e21e04d633712b6b88d15cd4cbdbfddd0c49d0f1c5ea9b69b31.ctv
-#EXTINF:-1 tvg-name="内蒙卫视" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531160914023715_85.jpg" group-title="综合",[SD]内蒙卫视
+#EXTINF:-1 tvg-name="内蒙卫视" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531160914023715_85.jpg" group-title="综合",[VGA]内蒙卫视
 https://epg.pw/stream/1b883ea5879587ad63629e92ea51aa3717f9168d9e5e84f135dfbb97f2876c47.m3u8
 #EXTINF:-1 tvg-name="刘德华" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525051544390111_69.png" group-title="电影",[BD]刘德华
 https://epg.pw/stream/8848575026ebd3c19258f79bc476986d87d68dd75fc6d2ae65eb99163ca4883d.ctv
@@ -255,8 +255,6 @@ https://epg.pw/stream/ca45d063221fb35e29d63352e2db10f8ca2ef9b3852fca0f6a2e16699d
 https://epg.pw/stream/9bd055734e63d2141014b7697d2d660a8314ede155d7623414b4d3258370bec1.m3u8
 #EXTINF:-1 tvg-name="湘潭新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152110459312_38.png" group-title="新闻",[HD]湘潭新闻综合
 https://epg.pw/stream/54e319e172192f1aae0ce0cff497b34ad109fa218a9c1c5a846630f1819940b3.m3u8
-#EXTINF:-1 tvg-name="滨海影视" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/04/04/large/20230404013959854549_21.jpeg" group-title="电影",[BD]滨海影视
-https://epg.pw/stream/07686fe556dab33bdd73b741e34c276c481627226c75fc433b9563d3ddba6280.m3u8
 #EXTINF:-1 tvg-name="漳州新闻综合 (720p) [not 24/7]" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2021/10/07/large/20211007160952022833_53.png" group-title="新闻",[HD]漳州新闻综合 (720p) [not 24/7]
 https://epg.pw/stream/2441d456f7c193e046f5e46289045c82d018dd2a0904d7aa8dc50524fab6e78b.m3u8
 #EXTINF:-1 tvg-name="熊猫频道" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2021/08/27/large/20210827034357938063_61.png" group-title="综合",[BD]熊猫频道
