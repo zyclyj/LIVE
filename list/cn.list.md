@@ -99,7 +99,7 @@
 | 93 | [BD]早期教育 | [BD 早期教育](https://epg.pw/stream/700e053a177a2edf245bc06b20b07efc7c8467d1a0d7acd6662cce25ef1fe633.ctv) |
 | 94 | [BD]晋城公共 | [BD 晋城公共](https://epg.pw/stream/b7f4f32a1638a3b6250279b309453a5076b69acd3e4a02fb4d092e291fda15d1.m3u8) |
 | 95 | [BD]东南卫视 | [BD 东南卫视](https://epg.pw/stream/93a8f67f0f3354496b9a612649d40aca459161284ffda09dd02506f115a7ce38.ctv) |
-| 96 | [HD]林正英 | [HD 林正英](https://epg.pw/stream/f47a03ed2446c13957a1b49048fe7a761f769a697c9e324a897de5d6a02792b8.ctv) |
+| 96 | [VGA]林正英 | [VGA 林正英](https://epg.pw/stream/f47a03ed2446c13957a1b49048fe7a761f769a697c9e324a897de5d6a02792b8.ctv) |
 | 97 | [SD]枣庄公共频道 | [SD 枣庄公共频道](https://epg.pw/stream/ba49d45f34e3d048196c5f4a26950f4ea2e3db34f08caced49d49efcf417d9ef.m3u8) |
 | 98 | [SD]枣庄新闻综合 | [SD 枣庄新闻综合](https://epg.pw/stream/c96d12ec316e8297973a210e94860e269e8797986e6a6223f3be444387c32341.m3u8) |
 | 99 | [BD]梨园频道[ipv6] | [BD 梨园频道 ipv6](https://epg.pw/stream/7c43577c864ee142dd48684afeab4892eee19e249d3dfbef02367133a129d32e.m3u8) |
@@ -177,4 +177,4 @@
 | 171 | [SD]黑龙江公共农业 | [SD 黑龙江公共农业](https://epg.pw/stream/d4bc9942241f1c893fad50ece90abfce425419abf78dc318325058f860b1df11.m3u8) |
 | 172 | [BD]黑龙江卫视 8m | [BD 黑龙江卫视 8m](https://epg.pw/stream/53cf5f9b0b328e1c40de1fc5d4aac8926a4772f9beeddad01f8a3350be87e5f1.ctv) |
 
-Updated at **Fri Dec 22 2023 22:08:19 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Dec 23 2023 00:39:09 GMT+0000 (Coordinated Universal Time)**
