@@ -234,7 +234,7 @@
 | 228 | [HD]FoxSports2 | [HD FoxSports2](https://epg.pw/stream/0343d4baf202f844ed1f8c65c28ccfa1d8c2646e4a37ef0b3a6f0dfc49fe94e9.ctv) |
 | 229 | [SD]fox sport 505 | [SD fox sport 505](https://epg.pw/stream/561cdaa609412e0457eecd0b80019d40c4dba700c559e62eadee2b2022d915d6.ctv) |
 | 230 | [SD]fuji tv next | [SD fuji tv next](https://epg.pw/stream/398311c3161e761c6fcdea9a00d06875e72e234f5c585cf68719d7f0a3ab83c9.m3u8) |
-| 231 | [HD]FX USA | [HD FX USA](https://epg.pw/stream/6ba383b988449d7c7112f062a3038ee379e500bbbc8f9b1d819cf4bef06a0331.ctv) |
+| 231 | [HD]FX USA | [HD FX USA](https://epg.pw/stream/eae4d83484409b2014e1c4528f1a2ee2d3e83aff63c095d05f4bb4cbbedd65e0.ctv) |
 | 232 | [HD]FXM USA | [HD FXM USA](https://epg.pw/stream/8f5fa97840e191e875aceef14fd8fc2f15684179389156c613c05906084eb1c8.ctv) |
 | 233 | [BD]FYI | [BD FYI](https://epg.pw/stream/937ba3e674a25bae49f1a6c2c75b453cb7c2890efdd22aa21e8d6830b4b61321.ctv) |
 | 234 | [BD]Fashion TV | [BD Fashion TV](https://epg.pw/stream/d288f330ad9f12347831b94f9b720699191661ae2804a1fbc4d1ba6553221f86.m3u8) |
@@ -1807,4 +1807,4 @@
 | 1801 | [HD]龙祥电影 | [HD 龙祥电影](https://epg.pw/stream/9404e32456473a20ff1d28e9060baf33bdf75462ba286cfc1895d54c7bb35c9b.ctv) |
 | 1802 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 
-Updated at **Sat Dec 23 2023 02:16:56 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Dec 23 2023 04:10:57 GMT+0000 (Coordinated Universal Time)**
