@@ -41,8 +41,8 @@
 | 35 | [HD]nfl channel | [HD nfl channel](https://epg.pw/stream/24a73a702372c944732ac9f46870481c922666d21ca9697202cac9dcecd788c7.m3u8) |
 | 36 | [BD]rt documentary | [BD rt documentary](https://epg.pw/stream/ea7a33d76c07f81ad5b6c6aceaecdb197a95b0a7c231fd7ad62ffc6238c8db95.m3u8) |
 | 37 | [SD]万州科教 | [SD 万州科教](https://epg.pw/stream/aff41d9171e19270999335d0346c0dac4a73f76a47f63489ce6e69101b59416a.m3u8) |
-| 38 | [HD]三明新闻综合 | [HD 三明新闻综合](https://epg.pw/stream/1104c91eba11b6abee2227f449923ec9fb80794fc1405221c4eab99feaf6da6d.m3u8) |
-| 39 | [SD]上海教育[ipv6] | [SD 上海教育 ipv6](https://epg.pw/stream/91dbe729813036326a6c7cd5507f2bdc96675567ce979bbc17f348adaeeacc39.m3u8) |
+| 38 | [VGA]三明新闻综合 | [VGA 三明新闻综合](https://epg.pw/stream/1104c91eba11b6abee2227f449923ec9fb80794fc1405221c4eab99feaf6da6d.m3u8) |
+| 39 | [BD]上海教育 8m | [BD 上海教育 8m](https://epg.pw/stream/4c2942fcdda269a17223ee1c3f2330e817b766b5bb78bee19b39a3d31567e68d.ctv) |
 | 40 | [BD]上海纪实人文 | [BD 上海纪实人文](https://epg.pw/stream/b6163053e950966f7d33e74245e743a51e4abbae0f3d136f0210b71ec3189fe2.ctv) |
 | 41 | [BD]上海都市 | [BD 上海都市](https://epg.pw/stream/7b05aaa7c484b4b641fcbf62f41a7c885960fbd3ffe4a0d89d3411184afdde92.ctv) |
 | 42 | [SD]丘北新闻综合 | [SD 丘北新闻综合](https://epg.pw/stream/34f594424a186a28a9521b8cb3912cdf85b93897313182a9abeaf096b23e9458.m3u8) |
@@ -176,4 +176,4 @@
 | 170 | [SD]黑龙江公共农业 | [SD 黑龙江公共农业](https://epg.pw/stream/d4bc9942241f1c893fad50ece90abfce425419abf78dc318325058f860b1df11.m3u8) |
 | 171 | [BD]黑龙江卫视 8m | [BD 黑龙江卫视 8m](https://epg.pw/stream/53cf5f9b0b328e1c40de1fc5d4aac8926a4772f9beeddad01f8a3350be87e5f1.ctv) |
 
-Updated at **Sun Dec 24 2023 18:09:58 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Dec 24 2023 20:08:47 GMT+0000 (Coordinated Universal Time)**
