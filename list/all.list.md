@@ -154,7 +154,7 @@
 | 148 | [BD]cctv5[ipv6] | [BD cctv5 ipv6](https://epg.pw/stream/7fd03354d83e374ff627c5846e60f0b8bbc68be70f73ca9ba56bd2ed9e325421.m3u8) |
 | 149 | [BD]cctv 5 | [BD cctv 5](https://epg.pw/stream/bea9cd814987adc99d80a9c5d4809e8670c99b9797c2abcacd77ab8459792df9.m3u8) |
 | 150 | [BD]cctv-5+ 体育赛事 | [BD cctv-5+ 体育赛事](https://epg.pw/stream/eb41e17246248e438598bfcec41dbb4fbd2fde87e9f658d776d8eabdea473b3f.m3u8) |
-| 151 | [SD]cctv6 | [SD cctv6](https://epg.pw/stream/7bbfe5fb8392af3f4ffdc18217c886d0937de05315ed7980dc17d9578d4411ac.m3u8) |
+| 151 | [BD]cctv6[ipv6] | [BD cctv6 ipv6](https://epg.pw/stream/17a2cd6baf28eea74e93e9c0b1cafec7c77e144ab58c001890a95b7a942db8b4.m3u8) |
 | 152 | [BD]cctv7[ipv6] | [BD cctv7 ipv6](https://epg.pw/stream/085cc8320b47039f91c89f261b3bde134c04438bf58155988cdd2120c8ae5c1c.m3u8) |
 | 153 | [BD]cctv8 | [BD cctv8](https://epg.pw/stream/9e5ef6be8ac32d23db431bdc8d9d49531b4bdf96d53db08dd102919b70f12e88.m3u8) |
 | 154 | [VGA]cctv9 | [VGA cctv9](https://epg.pw/stream/468810bb8a5aea0738c0e707e4b0ed227aeb431a11a977aa1a43fd542997f525.m3u8) |
@@ -1799,4 +1799,4 @@
 | 1793 | [BD]龙祥电影 | [BD 龙祥电影](https://epg.pw/stream/bf3731c7381a0c87f67c1528fa6754833f7192e8ad1c266d9b8611b83278044c.ctv) |
 | 1794 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 
-Updated at **Sun Dec 24 2023 16:09:58 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Dec 24 2023 18:09:58 GMT+0000 (Coordinated Universal Time)**
