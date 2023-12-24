@@ -496,4 +496,4 @@
 | 490 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 491 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
 
-Updated at **Sun Dec 24 2023 12:14:34 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Dec 24 2023 14:07:27 GMT+0000 (Coordinated Universal Time)**
