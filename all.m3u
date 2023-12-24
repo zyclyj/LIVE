@@ -1123,6 +1123,8 @@ https://epg.pw/stream/409962e3325684053ebaaf4cb7e48db3d50b72bbcf626b4c0bd02ed156
 https://epg.pw/stream/043eb8f57949f108d50194c9589a3c5be14d4bd01ca972b83e38456b890b8c4c.m3u8
 #EXTINF:-1 tvg-name="ast tv" tvg-id="8302" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175046544857_64.png" group-title="News",[HD]ast tv
 https://epg.pw/stream/50561a2552f85260933e32e04b2f50773543ce4a4b289d0674bb740438ce6908.m3u8
+#EXTINF:-1 tvg-name="astro citra hd" tvg-id="2937" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2018/11/09/20181109164950382073_32.png" group-title="Movie",[BD]astro citra hd
+https://epg.pw/stream/88eb22da1c8ae63787b4056daa2993bd7b4bf2b1426df0f1c924fe7761e1b598.ctv
 #EXTINF:-1 tvg-name="astro ria hd" tvg-id="2384" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/763d6b2daaf14a03329aa9eb47f4940f.jpg" group-title="Entertainment",[HD]astro ria hd
 https://epg.pw/stream/88a67dab0a58a98e921ba687483dc8b4639b9c1617d6791ad2f7ad888f7e41c0.ctv
 #EXTINF:-1 tvg-name="astro supersport 1 2077" tvg-id="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/20/20150220161634495598_96.jpg" group-title="Sport",[BD]astro supersport 1 2077
