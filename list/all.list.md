@@ -261,7 +261,7 @@
 | 255 | [BD]HBO HITS | [BD HBO HITS](https://epg.pw/stream/35314d48c3cf095b6c55369017a72ba99e08a7b407d6012a99cf8228fae1d839.ctv) |
 | 256 | [HD]hbo signature | [HD hbo signature](https://epg.pw/stream/f444d7de38b926b04f9732ee61f2397e5aea62807d00069d4a1e33ca52458ff1.ctv) |
 | 257 | [HD]HBO SIGNATURE | [HD HBO SIGNATURE](https://epg.pw/stream/8fad06f8eb6bd3889bfb1adb9f3b97048c65e5b51f7bcfb459089f5b81899548.ctv) |
-| 258 | [HD]HBO SIGNATURE USA | [HD HBO SIGNATURE USA](https://epg.pw/stream/d237a6fb8507390c2700dc51f8e220d467ffcf6eb23acde1b5dc2236c70b96f3.ctv) |
+| 258 | [HD]HBO SIGNATURE USA | [HD HBO SIGNATURE USA](https://epg.pw/stream/d1e3b4e5a7099e28399e346fcc3a0432bbcb74ab049aba17ca12499a068b896e.ctv) |
 | 259 | [HD]HBO WEST | [HD HBO WEST](https://epg.pw/stream/45c45ef0964e0639b75d6558037da4a7de1a02f6291ba370a31f43e93b78ab7c.ctv) |
 | 260 | [HD]hbo xtreme | [HD hbo xtreme](https://epg.pw/stream/e215c1e64765b9c7ab6997a384614cff227ca4ef72a79d0b12d2a3a28df2d740.ctv) |
 | 261 | [BD]HBOZONEUSA | [BD HBOZONEUSA](https://epg.pw/stream/0c3417d0ff5935aedce67e5b60819373bc221247ed430d1fea2bee2f3f6db713.ctv) |
@@ -843,7 +843,7 @@
 | 837 | [VGA]kbs world | [VGA kbs world](https://epg.pw/stream/e96a867a5fb7d4ed6f113d7b43479dd40c4b6319643138e2e7e689e456ece578.ctv) |
 | 838 | [VGA]ke tv | [VGA ke tv](https://epg.pw/stream/c78d8d84cde5b4d86e7ba627bfbaf36bc4c62d4bb127ceb6601499a057af3ad6.m3u8) |
 | 839 | [VGA]khánh hòa | [VGA khánh hòa](https://epg.pw/stream/58d80850e2b85acb76dbea9ced846c8e76eee945bc7f7c56a3f61ec51a9c1979.m3u8) |
-| 840 | [VGA]Kids TV | [VGA Kids TV](https://epg.pw/stream/3e60b3d2f43ff3bb18181706f738f26ac8dfab2660b4c6a54ef3d03b45cde2ec.ctv) |
+| 840 | [VGA]Kids TV | [VGA Kids TV](https://epg.pw/stream/a65f4ef0e391d152d55b67fa2135f132af9e2f83842623791e57945213c490c5.ctv) |
 | 841 | [HD]kids channel | [HD kids channel](https://epg.pw/stream/959666026361c8d33350e740c9d0e3f25f56e48d8fec134f995f1f03d21fea22.m3u8) |
 | 842 | [SD]kika | [SD kika](https://epg.pw/stream/636dc914cff4215d29fb773f92ae9b071a5875a0ffe32a9dea40888638c9d43e.m3u8) |
 | 843 | [HD]king tv | [HD king tv](https://epg.pw/stream/d36afeb612cd32405b96f12bd4da7e69416d6d8d6a31dd4f948b1a65ebdc080c.m3u8) |
@@ -1802,4 +1802,4 @@
 | 1796 | [HD]龙祥电影 | [HD 龙祥电影](https://epg.pw/stream/bf3731c7381a0c87f67c1528fa6754833f7192e8ad1c266d9b8611b83278044c.ctv) |
 | 1797 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 
-Updated at **Mon Dec 25 2023 04:11:24 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Dec 25 2023 06:12:22 GMT+0000 (Coordinated Universal Time)**
