@@ -226,7 +226,7 @@
 | 220 | [SD]FOX MOVIES | [SD FOX MOVIES](https://epg.pw/stream/aa9c9f91bcd713c215be923532a6c80fe8852a176cb3f5be8d23390aa9526cd6.ctv) |
 | 221 | [VGA]FOX NEWS | [VGA FOX NEWS](https://epg.pw/stream/432592a5029443ba8e75d27167c6bab8848bdabe656ebb2ec0634a80ce695781.ctv) |
 | 222 | [HD]fox newsnow | [HD fox newsnow](https://epg.pw/stream/516cd8fec2b2c85c5d66b50e360a503ccde03570a6701514765b03e42443d43a.m3u8) |
-| 223 | [HD]FoxSports2 | [HD FoxSports2](https://epg.pw/stream/0343d4baf202f844ed1f8c65c28ccfa1d8c2646e4a37ef0b3a6f0dfc49fe94e9.ctv) |
+| 223 | [HD]Fox Sports 2 | [HD Fox Sports 2](https://epg.pw/stream/cdea0ea543c4047e676a4d18866993520794c6b9bac28ca1f5b57d19d20d3519.ctv) |
 | 224 | [SD]fox sport 505 | [SD fox sport 505](https://epg.pw/stream/561cdaa609412e0457eecd0b80019d40c4dba700c559e62eadee2b2022d915d6.ctv) |
 | 225 | [SD]fuji tv next | [SD fuji tv next](https://epg.pw/stream/398311c3161e761c6fcdea9a00d06875e72e234f5c585cf68719d7f0a3ab83c9.m3u8) |
 | 226 | [HD]FX USA | [HD FX USA](https://epg.pw/stream/f46c5296c8fa5aea6e2add0633e67f66c597079353c20e82389a91b6bdeaa2c4.ctv) |
@@ -382,7 +382,7 @@
 | 376 | [BD]ip noticias (1080p) | [BD ip noticias (1080p)](https://epg.pw/stream/67946fc50564147f6e8d7975491f5f4f8f85337223ffae3afec0860fea9b2d82.m3u8) |
 | 377 | [BD]SKY CINEMA SCI-FI | [BD SKY CINEMA SCI-FI](https://epg.pw/stream/de0f1d576a1a409e7b0027c9dbe8b85e07ec25efb3833ee6bea68b32f71d799f.ctv) |
 | 378 | [HD]SKY CINEMA SELECT HD | [HD SKY CINEMA SELECT HD](https://epg.pw/stream/23e0059dbbe858d8528bd1d95f5e970d9589dbd2d24c3d9313ce27978fcd675f.ctv) |
-| 379 | [BD]SKY CINEMA THRILLER | [BD SKY CINEMA THRILLER](https://epg.pw/stream/7b4d6f7f395fc8efb199fc60d5c3666687a54a451bd3d6b01e9d55d668aaf82a.ctv) |
+| 379 | [BD]SKY CINEMA THRILLER | [BD SKY CINEMA THRILLER](https://epg.pw/stream/e750ff9047482440d541a20221359c69992a2c60d0fd5932ba7bd2f61480172f.ctv) |
 | 380 | [SD]SKYCRIME | [SD SKYCRIME](https://epg.pw/stream/8d3fc97346bdf1028d90b023e3a26ab6543bb222e04cf416391eaf8ed4c38ac8.ctv) |
 | 381 | [HD]ช่อง sky sports arena | [HD ช่อง sky sports arena](https://epg.pw/stream/62d26606d9eabe527ec18ab2b2187b2eae939d7797495d54de5928e2ad9237c9.m3u8) |
 | 382 | [HD]ช่อง sky sports football | [HD ช่อง sky sports football](https://epg.pw/stream/7b5aa5336d372a0f13ea96e900d63d682dc8be30a43034ab6893daae65926e63.m3u8) |
@@ -457,7 +457,7 @@
 | 451 | [VGA]tvb 经典台 | [VGA tvb 经典台](https://epg.pw/stream/08cb3108d4bae67612d04882d054f148984af77e8b6758dae080cf6903abe231.ctv) |
 | 452 | [SD]tvb翡翠台 | [SD tvb翡翠台](https://epg.pw/stream/b1bedc34e0cd84c712106b10fa7bd2055a46898678c37e35aebe43290c2c8a1f.m3u8) |
 | 453 | [HD]tv max | [HD tv max](https://epg.pw/stream/65b185687defc41c286e353b6f8f2425e9d599909083ba8c841bc574802503cd.m3u8) |
-| 454 | [HD]TVN | [HD TVN](https://epg.pw/stream/8d663e82e40edb31e2fdeccc82e74e56389238a29215cbbd6fb328cecad411b3.ctv) |
+| 454 | [HD]TVN | [HD TVN](https://epg.pw/stream/448c76a69dda393f3d20528357dbe245ed4eae94b9d5c11fd80d7541b9597e88.ctv) |
 | 455 | [VGA]TVRI | [VGA TVRI](https://epg.pw/stream/100c159cdce2269da0f3212727d45dba378c14f176078da5498cd6f3a42641fc.ctv) |
 | 456 | [HD]tvt | [HD tvt](https://epg.pw/stream/c781f6562d4119f833cc3e04bc89c10c6bcbb6ae0d6089d00aa2ba1c268902d4.m3u8) |
 | 457 | [HD]tagesschau 24 (720p) | [HD tagesschau 24 (720p)](https://epg.pw/stream/1f3a5715dba1a825e40eb742423c1e120959f44ca1c84d62c9e8ffaae83887d8.m3u8) |
@@ -1798,4 +1798,4 @@
 | 1792 | [BD]龙祥电影 | [BD 龙祥电影](https://epg.pw/stream/bf3731c7381a0c87f67c1528fa6754833f7192e8ad1c266d9b8611b83278044c.ctv) |
 | 1793 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 
-Updated at **Mon Dec 25 2023 14:08:08 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Dec 25 2023 15:06:24 GMT+0000 (Coordinated Universal Time)**
