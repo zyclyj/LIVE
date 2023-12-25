@@ -84,8 +84,8 @@
 | 78 | [BD]安徽卫视 8m | [BD 安徽卫视 8m](https://epg.pw/stream/f6b1dcb74cfda40bc84467d836f82596de9d58c96875cd23d0134bb00e9dd190.ctv) |
 | 79 | [BD]安徽导视 | [BD 安徽导视](https://epg.pw/stream/a7246583550aa4f39c3c5c71f7aaee412061387be1b7e5b57ad7c11513507106.m3u8) |
 | 80 | [SD]宁夏卫视 | [SD 宁夏卫视](https://epg.pw/stream/25836b8e9d3ebc71188267308c1d9723866f2eeea5a549dbe695904fac5afabb.m3u8) |
-| 81 | [SD]山东山东新闻 | [SD 山东山东新闻](https://epg.pw/stream/df596aabef19d13e9bbd460f86089bc10de5facf7620b644d048039aa5897b4a.ctv) |
-| 82 | [BD]山东文旅 | [BD 山东文旅](rtmp://livealone.iqilu.com/iqilu/yspdhjOF03kn) |
+| 81 | [BD]山东山东文旅 | [BD 山东山东文旅](https://epg.pw/stream/7041017ae660257cd43378e5b3a05a57080228b6780e5fe39a3ebc23d5e8372f.ctv) |
+| 82 | [SD]山东山东新闻 | [SD 山东山东新闻](https://epg.pw/stream/df596aabef19d13e9bbd460f86089bc10de5facf7620b644d048039aa5897b4a.ctv) |
 | 83 | [SD]山东少儿 | [SD 山东少儿](rtmp://livealone.iqilu.com/iqilu/sepdhjOF03kn) |
 | 84 | [SD]山东新闻 | [SD 山东新闻](rtmp://livealone.iqilu.com/iqilu/ggpdhjOF03kn) |
 | 85 | [BD]山东卫视 | [BD 山东卫视](https://epg.pw/stream/6e0b6e5fe80e21289c27ceeafced6800e23f6c48ade127aa20eb2712aebd2b2a.m3u8) |
@@ -187,4 +187,4 @@
 | 181 | [SD]黑龙江公共农业 | [SD 黑龙江公共农业](https://epg.pw/stream/d4bc9942241f1c893fad50ece90abfce425419abf78dc318325058f860b1df11.m3u8) |
 | 182 | [BD]黑龙江卫视 8m | [BD 黑龙江卫视 8m](https://epg.pw/stream/53cf5f9b0b328e1c40de1fc5d4aac8926a4772f9beeddad01f8a3350be87e5f1.ctv) |
 
-Updated at **Mon Dec 25 2023 18:10:37 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Dec 25 2023 20:09:13 GMT+0000 (Coordinated Universal Time)**
