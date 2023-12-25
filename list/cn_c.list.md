@@ -27,7 +27,7 @@
 | 21 | [BD]上虞新闻综合 | [BD 上虞新闻综合](https://epg.pw/stream/c263e1828b4fb93d5bff50bf91136b93920a674c1bd19ccf1e4922baecfc3acc.m3u8) |
 | 22 | [BD]之江纪录 | [BD 之江纪录](https://epg.pw/stream/b54488b3d7492fc39f975f3393ec9c4d3b6055efbea9a3140631d6aebfded766.m3u8) |
 | 23 | [BD]五星体育 | [BD 五星体育](https://epg.pw/stream/245d1072476eeab5f81d1de6ad86becda334c7305fcc8ecd462b3a05cca4e7a3.ctv) |
-| 24 | [VGA]优漫卡通 | [VGA 优漫卡通](https://epg.pw/stream/5aa56206f1fe7cc4d9507d553c47e53ea9c0ef79c6b52d3f3e1baa01ecfcaf63.m3u8) |
+| 24 | [SD]优漫卡通 | [SD 优漫卡通](https://epg.pw/stream/5aa56206f1fe7cc4d9507d553c47e53ea9c0ef79c6b52d3f3e1baa01ecfcaf63.m3u8) |
 | 25 | [BD]内蒙古文体娱乐 | [BD 内蒙古文体娱乐](https://epg.pw/stream/3e3a5613a7d58aabfefe76df40a9f69517a73afc939cb080ebcd56723a461cc0.m3u8) |
 | 26 | [BD]内蒙古新闻综合 | [BD 内蒙古新闻综合](https://epg.pw/stream/d7aa1346ac7eb6557177de5d526cbf5ca3f027ffa89d3f95472c1f6c5b8a5b2c.m3u8) |
 | 27 | [BD]内蒙古经济生活 | [BD 内蒙古经济生活](https://epg.pw/stream/15b68111ae34d993d7b93a271508a997b3410ab2a8e9b98543d831295c3e35bf.m3u8) |
@@ -110,37 +110,37 @@
 | 104 | [BD]江苏苏州生活资讯 | [BD 江苏苏州生活资讯](https://epg.pw/stream/f61596dba298ca8cc1b9665b1edfa379fdc606d7888659eb99d8708ae5c6c4cd.m3u8) |
 | 105 | [BD]江苏苏州社会经济 | [BD 江苏苏州社会经济](https://epg.pw/stream/336fe52e74ffdf65a1ed0f7daf0b475d1c4473e869a961a774183450c92bc830.m3u8) |
 | 106 | [BD]浙江公共新闻 | [BD 浙江公共新闻](https://epg.pw/stream/52e6b218b89c4eb770a708a7ad50bce31279aa79c1d0f6bed318afb57ae35287.m3u8) |
-| 107 | [VGA]河北定州新闻综合 | [VGA 河北定州新闻综合](https://epg.pw/stream/a985f298d93a885a569667c3cb2705078817755844668850422a6e58356ca134.m3u8) |
-| 108 | [SD]河北影视 | [SD 河北影视](https://epg.pw/stream/f927788e08949e5333ad97affc4fb4b9649bef97948e0794f1ec0936054bd8c3.m3u8) |
-| 109 | [SD]河北影视剧 | [SD 河北影视剧](https://epg.pw/stream/c052b9f414bbbf9c00616f9184da6d11fa730d903171e2ae8d1ef1b80538f600.m3u8) |
-| 110 | [SD]河北农民 | [SD 河北农民](https://epg.pw/stream/77d583a3ce92e660a3aae8d721e57456356ecb45396a4f4c979738dc2832bfd1.m3u8) |
-| 111 | [SD]浙江平湖新闻综合 | [SD 浙江平湖新闻综合](https://epg.pw/stream/2196c2cf1a0af5224542f776d0bce880acf323b215d4a8687b8f70bf80fed369.m3u8) |
-| 112 | [SD]浙江绍兴公共 | [SD 浙江绍兴公共](https://epg.pw/stream/0ec806bda9af17c82743c04f02f3f4ec7794cccd32cdc63b6633ddfbc20bdc44.m3u8) |
-| 113 | [VGA]浙江国际 | [VGA 浙江国际](https://epg.pw/stream/04afc9896e7a998580946385cde5e3471e33ca8279421d6fa517be9407ba68f3.m3u8) |
-| 114 | [BD]浙江少儿 | [BD 浙江少儿](https://epg.pw/stream/61763493836696939da31f5856221e08038a6e814dc1fe983cd0d335b284104e.m3u8) |
-| 115 | [BD]浙江浙江少儿频道 | [BD 浙江浙江少儿频道](https://epg.pw/stream/bc1c32ff353c94740f7ca47605bde2f3ff6706e024f7f7e44437a67059bcb8df.m3u8) |
-| 116 | [HD]浙江浙江影视娱乐 | [HD 浙江浙江影视娱乐](https://epg.pw/stream/c56d214dd765534bee28587dcdacefb397c879f2b814e23d1926783b8b468615.m3u8) |
-| 117 | [BD]浙江民生休闲 (1080p) [not 24/7] | [BD 浙江民生休闲 (1080p)  not 24/7](https://epg.pw/stream/c081c981111b3af3c5b821d32807e4d07b54d995424c324016dc2a5f7ac38c5f.m3u8) |
-| 118 | [BD]浙江经济生活 | [BD 浙江经济生活](https://epg.pw/stream/bc105f5a0c848626eb450390782008c7bd2c747648866a58b0890509f226617c.m3u8) |
-| 119 | [VGA]浙江钱江都市 | [VGA 浙江钱江都市](https://epg.pw/stream/8dfc93422367fbe0d8a30441e897549a237b809941914df59410211fac61a565.m3u8) |
-| 120 | [BD]海宁生活服务 | [BD 海宁生活服务](https://epg.pw/stream/7db3c65c69de1f42f26b4d7b64529f5dd6d2d47476e8d5f13515c320b1efd51a.m3u8) |
-| 121 | [BD]炫动卡通 8m | [BD 炫动卡通 8m](https://epg.pw/stream/a771fd8402e21f6c4b65cac32976a437327ffc0e6e250daf16c38d79edac231d.ctv) |
-| 122 | [VGA]吉林新闻综合 | [VGA 吉林新闻综合](https://epg.pw/stream/04ac8c4edbe52123a87086c280432bedc30a94e45ba312eca7fc80f16bfee3c7.m3u8) |
-| 123 | [BD]环球旅游 | [BD 环球旅游](https://epg.pw/stream/c223eea374483c34a409beb76864cdbf86eac90f6179fab37e9465eece19707b.ctv) |
-| 124 | [SD]生活时尚[ipv6] | [SD 生活时尚 ipv6](https://epg.pw/stream/d0e44ac4ea2898bcd9be4964c7520636550908b01f426af96651793eee468ffc.m3u8) |
-| 125 | [BD]浙江留学世界 | [BD 浙江留学世界](https://epg.pw/stream/bd6db949261e14e071f23289aef81f3133e3d100fed952d1ac49a9b20ba9b270.m3u8) |
-| 126 | [BD]石家庄娱乐 | [BD 石家庄娱乐](https://epg.pw/stream/4c86087cb1626c031ddc9c33a0a944e63e22e4ed9958b44c4e4ef220f4914523.m3u8) |
-| 127 | [BD]石家庄生活 | [BD 石家庄生活](https://epg.pw/stream/cffc2aeb9da2add783bece701928bba09e0aa6afa064920d83b61d00fe965843.m3u8) |
-| 128 | [BD]石家庄都市 | [BD 石家庄都市](https://epg.pw/stream/05aa42fbc9d722e77cf7250a2f50f9ec5e485e92fef15182116acfeb636af4f1.m3u8) |
-| 129 | [SD]福建漳浦综合 | [SD 福建漳浦综合](https://epg.pw/stream/56eb02707eb276bcf6a207859256e48ffb2e9e03fab764bcce746f4bf6b5a8bb.m3u8) |
-| 130 | [BD]福建福州少儿 | [BD 福建福州少儿](https://epg.pw/stream/84912503b4af5aa9f3f6b547a7aa14c09d663388153fa9e96a4eb77f889a193c.m3u8) |
-| 131 | [BD]福建福州新闻 | [BD 福建福州新闻](https://epg.pw/stream/883dc9046ef860d402f67f3a897969d725700d25b8595635377877a9dbc86dab.m3u8) |
-| 132 | [SD]第一财经 | [SD 第一财经](https://epg.pw/stream/884fb7ff702d8fcb2b7defa817b2755bd1f9f6fd25e45428764cfceea6e2a2ea.m3u8) |
-| 133 | [SD]绍兴新闻综合 | [SD 绍兴新闻综合](https://epg.pw/stream/0c479cc20f3eb20b09af243763f3f347b95748ccf86126cf662483e9a75c2e3c.m3u8) |
-| 134 | [VGA]自贡综合 | [VGA 自贡综合](https://epg.pw/stream/19e8bff2178c99aacf62481ac205d6a00c442a9eaf07238a7c6e96d4beaa5da0.ctv) |
-| 135 | [HD]荆州垄上 | [HD 荆州垄上](https://epg.pw/stream/ab5c99157f0463b4c85918e5fd61351bff472cf44b24df1343550714da2911d1.m3u8) |
-| 136 | [HD]荆州新闻 | [HD 荆州新闻](https://epg.pw/stream/643cd4ee368696910cbe4c30a3612b9cb68cd08feca6a70e434cf2b8ca21789e.m3u8) |
-| 137 | [HD]蓬安新闻综合 | [HD 蓬安新闻综合](https://epg.pw/stream/8c5ee0bba6ced1dbcc2a892b8fe4aaaa2a0dcf75e0d618cb21a0944508a5692d.m3u8) |
+| 107 | [SD]河北影视 | [SD 河北影视](https://epg.pw/stream/f927788e08949e5333ad97affc4fb4b9649bef97948e0794f1ec0936054bd8c3.m3u8) |
+| 108 | [SD]河北影视剧 | [SD 河北影视剧](https://epg.pw/stream/c052b9f414bbbf9c00616f9184da6d11fa730d903171e2ae8d1ef1b80538f600.m3u8) |
+| 109 | [SD]河北农民 | [SD 河北农民](https://epg.pw/stream/77d583a3ce92e660a3aae8d721e57456356ecb45396a4f4c979738dc2832bfd1.m3u8) |
+| 110 | [SD]浙江平湖新闻综合 | [SD 浙江平湖新闻综合](https://epg.pw/stream/2196c2cf1a0af5224542f776d0bce880acf323b215d4a8687b8f70bf80fed369.m3u8) |
+| 111 | [SD]浙江绍兴公共 | [SD 浙江绍兴公共](https://epg.pw/stream/0ec806bda9af17c82743c04f02f3f4ec7794cccd32cdc63b6633ddfbc20bdc44.m3u8) |
+| 112 | [VGA]浙江国际 | [VGA 浙江国际](https://epg.pw/stream/04afc9896e7a998580946385cde5e3471e33ca8279421d6fa517be9407ba68f3.m3u8) |
+| 113 | [BD]浙江少儿 | [BD 浙江少儿](https://epg.pw/stream/61763493836696939da31f5856221e08038a6e814dc1fe983cd0d335b284104e.m3u8) |
+| 114 | [BD]浙江浙江少儿频道 | [BD 浙江浙江少儿频道](https://epg.pw/stream/bc1c32ff353c94740f7ca47605bde2f3ff6706e024f7f7e44437a67059bcb8df.m3u8) |
+| 115 | [HD]浙江浙江影视娱乐 | [HD 浙江浙江影视娱乐](https://epg.pw/stream/c56d214dd765534bee28587dcdacefb397c879f2b814e23d1926783b8b468615.m3u8) |
+| 116 | [BD]浙江民生休闲 (1080p) [not 24/7] | [BD 浙江民生休闲 (1080p)  not 24/7](https://epg.pw/stream/c081c981111b3af3c5b821d32807e4d07b54d995424c324016dc2a5f7ac38c5f.m3u8) |
+| 117 | [BD]浙江经济生活 | [BD 浙江经济生活](https://epg.pw/stream/bc105f5a0c848626eb450390782008c7bd2c747648866a58b0890509f226617c.m3u8) |
+| 118 | [VGA]浙江钱江都市 | [VGA 浙江钱江都市](https://epg.pw/stream/8dfc93422367fbe0d8a30441e897549a237b809941914df59410211fac61a565.m3u8) |
+| 119 | [BD]海宁生活服务 | [BD 海宁生活服务](https://epg.pw/stream/7db3c65c69de1f42f26b4d7b64529f5dd6d2d47476e8d5f13515c320b1efd51a.m3u8) |
+| 120 | [BD]炫动卡通 8m | [BD 炫动卡通 8m](https://epg.pw/stream/a771fd8402e21f6c4b65cac32976a437327ffc0e6e250daf16c38d79edac231d.ctv) |
+| 121 | [VGA]吉林新闻综合 | [VGA 吉林新闻综合](https://epg.pw/stream/04ac8c4edbe52123a87086c280432bedc30a94e45ba312eca7fc80f16bfee3c7.m3u8) |
+| 122 | [BD]环球旅游 | [BD 环球旅游](https://epg.pw/stream/c223eea374483c34a409beb76864cdbf86eac90f6179fab37e9465eece19707b.ctv) |
+| 123 | [SD]生活时尚[ipv6] | [SD 生活时尚 ipv6](https://epg.pw/stream/d0e44ac4ea2898bcd9be4964c7520636550908b01f426af96651793eee468ffc.m3u8) |
+| 124 | [BD]浙江留学世界 | [BD 浙江留学世界](https://epg.pw/stream/bd6db949261e14e071f23289aef81f3133e3d100fed952d1ac49a9b20ba9b270.m3u8) |
+| 125 | [BD]石家庄娱乐 | [BD 石家庄娱乐](https://epg.pw/stream/4c86087cb1626c031ddc9c33a0a944e63e22e4ed9958b44c4e4ef220f4914523.m3u8) |
+| 126 | [BD]石家庄生活 | [BD 石家庄生活](https://epg.pw/stream/cffc2aeb9da2add783bece701928bba09e0aa6afa064920d83b61d00fe965843.m3u8) |
+| 127 | [BD]石家庄都市 | [BD 石家庄都市](https://epg.pw/stream/05aa42fbc9d722e77cf7250a2f50f9ec5e485e92fef15182116acfeb636af4f1.m3u8) |
+| 128 | [SD]福建漳浦综合 | [SD 福建漳浦综合](https://epg.pw/stream/56eb02707eb276bcf6a207859256e48ffb2e9e03fab764bcce746f4bf6b5a8bb.m3u8) |
+| 129 | [BD]福建福州少儿 | [BD 福建福州少儿](https://epg.pw/stream/84912503b4af5aa9f3f6b547a7aa14c09d663388153fa9e96a4eb77f889a193c.m3u8) |
+| 130 | [BD]福建福州新闻 | [BD 福建福州新闻](https://epg.pw/stream/883dc9046ef860d402f67f3a897969d725700d25b8595635377877a9dbc86dab.m3u8) |
+| 131 | [SD]第一财经 | [SD 第一财经](https://epg.pw/stream/884fb7ff702d8fcb2b7defa817b2755bd1f9f6fd25e45428764cfceea6e2a2ea.m3u8) |
+| 132 | [SD]绍兴新闻综合 | [SD 绍兴新闻综合](https://epg.pw/stream/0c479cc20f3eb20b09af243763f3f347b95748ccf86126cf662483e9a75c2e3c.m3u8) |
+| 133 | [VGA]自贡综合 | [VGA 自贡综合](https://epg.pw/stream/19e8bff2178c99aacf62481ac205d6a00c442a9eaf07238a7c6e96d4beaa5da0.ctv) |
+| 134 | [HD]荆州垄上 | [HD 荆州垄上](https://epg.pw/stream/ab5c99157f0463b4c85918e5fd61351bff472cf44b24df1343550714da2911d1.m3u8) |
+| 135 | [HD]荆州新闻 | [HD 荆州新闻](https://epg.pw/stream/643cd4ee368696910cbe4c30a3612b9cb68cd08feca6a70e434cf2b8ca21789e.m3u8) |
+| 136 | [HD]蓬安新闻综合 | [HD 蓬安新闻综合](https://epg.pw/stream/8c5ee0bba6ced1dbcc2a892b8fe4aaaa2a0dcf75e0d618cb21a0944508a5692d.m3u8) |
+| 137 | [BD]藤州新闻综合 | [BD 藤州新闻综合](rtmp://alivealone.litenews.cn/285/202304_1651887528174882816) |
 | 138 | [VGA]安徽六安新闻综合 | [VGA 安徽六安新闻综合](https://epg.pw/stream/d83c1bb801d30add76788ded84c711ad11e4f94b9a520f14638ef80301c2f384.m3u8) |
 | 139 | [BD]西宁新闻综合 | [BD 西宁新闻综合](https://epg.pw/stream/f9570cb26b1c4c241147bad9dadcadb2a888f24fea2e3de58b43dd4ff20faa74.m3u8) |
 | 140 | [BD]西宁生活服务 | [BD 西宁生活服务](https://epg.pw/stream/5c7b52287d30bffb55e79759cd3747452ff330381b7de0821457320adbd3013c.m3u8) |
@@ -164,4 +164,4 @@
 | 158 | [VGA]黑龙江新闻 | [VGA 黑龙江新闻](https://epg.pw/stream/6fe0461d8f101b8f9da77bb21785e3224610d31b800c0bd5c86f9abdd8ab380f.m3u8) |
 | 159 | [HD]点掌财经 | [HD 点掌财经](https://epg.pw/stream/96bec7b1f9d22ac90697af55775bf2328443600cdc5ac81952ca681c136f86f7.m3u8) |
 
-Updated at **Sun Dec 24 2023 22:07:58 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Dec 25 2023 00:41:43 GMT+0000 (Coordinated Universal Time)**
