@@ -1804,4 +1804,4 @@
 | 1798 | [BD]龙祥电影 | [BD 龙祥电影](https://epg.pw/stream/bf3731c7381a0c87f67c1528fa6754833f7192e8ad1c266d9b8611b83278044c.ctv) |
 | 1799 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 
-Updated at **Mon Dec 25 2023 00:41:43 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Dec 25 2023 02:22:20 GMT+0000 (Coordinated Universal Time)**
