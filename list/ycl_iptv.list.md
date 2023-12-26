@@ -121,4 +121,4 @@
 | 115 | 高清电影 | [高清电影](http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com) |
 | 116 | 华数超清 | [华数超清](http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3) |
 
-Updated at **Tue Dec 26 2023 20:09:22 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Dec 26 2023 22:08:05 GMT+0000 (Coordinated Universal Time)**
