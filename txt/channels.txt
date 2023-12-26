@@ -9923,6 +9923,7 @@ CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/
 CNN新闻,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8
 FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+Newsmax,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 NHK世界,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 RT新闻,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 RT纪录,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
@@ -9958,10 +9959,17 @@ CGTN纪录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/0000000100000006000000000
 青海卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001450/index.m3u8
 新疆卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw993550557_162751766/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8?icpid=3&RTS=1668604377&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 云南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001223/index.m3u8
-中国教育,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001020/index.m3u8?
-职教频道,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3u8
+北京新闻,http://iptv.8t.cx:8180/udp/239.3.1.159:8000
+北京财经,http://iptv.8t.cx:8180/udp/239.3.1.116:8000
+北京生活,http://iptv.8t.cx:8180/udp/239.3.1.117:8000
+北京文艺,http://iptv.8t.cx:8180/udp/239.3.1.242:8000
+北京影视,http://iptv.8t.cx:8180/udp/239.3.1.158:8000
+北京国际,http://iptv.8t.cx:8180/udp/239.3.1.235:8000
+体育休闲,http://iptv.8t.cx:8180/udp/239.3.1.243:8000
 纪实科教,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 卡酷少儿,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001245/index.m3u8
+中国教育,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001020/index.m3u8?
+职教频道,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3u8
 纪实人文,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001019/index.m3u8
 东方影视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8
 五星体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
