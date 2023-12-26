@@ -704,7 +704,7 @@
 | 698 | [BD]dmax | [BD dmax](https://epg.pw/stream/264f00a67333df0b74ba4a395dbda0e00bfac383b47b2d8794e5d6c26d08dc13.m3u8) |
 | 699 | [HD]documentary+ | [HD documentary+](https://epg.pw/stream/fe79c5f6c8ebf1b4e728df6efaf2f89e2fc6dd71fa868354e4c163de7e396583.m3u8) |
 | 700 | [HD]dora tv | [HD dora tv](https://epg.pw/stream/fd0298618cb78d68df621e2f5645615f18c75901a62980c8a87b87977116e7ea.m3u8) |
-| 701 | [HD]dorcel xxx tv | [HD dorcel xxx tv](https://epg.pw/stream/700b83b3d74b278c15f0d3989743277a30318af4ad00e3f549751e4eacc7d576.m3u8) |
+| 701 | [HD]dorcel tv hd | [HD dorcel tv hd](https://epg.pw/stream/6cb808fa5ad3611b27129dfeb631034afb1355f6a2fe72cddaff36c42076918a.m3u8) |
 | 702 | [SD]dstv | [SD dstv](https://epg.pw/stream/12a60d9fbcc6aeef196de4648dfa9c413edff44bc17264d5efeb79499307645c.m3u8) |
 | 703 | [BD]dtx | [BD dtx](https://epg.pw/stream/fc4bd15359055b795e4518a02186f01fb45df76b61ff294003952ac33d3dd958.m3u8) |
 | 704 | [HD]dua channel hadi tv | [HD dua channel hadi tv](https://epg.pw/stream/eb470833054ba14329b11694107a7bb5b5d42a7a4c6385a6f9830a34e897dbc5.m3u8) |
@@ -1822,4 +1822,4 @@
 | 1816 | [HD]龙华洋片 | [HD 龙华洋片](https://epg.pw/stream/4ac2f4bc4f4018d48b0294276c674a203e117dec77869ae93ea37ad299b41325.m3u8) |
 | 1817 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 
-Updated at **Tue Dec 26 2023 00:39:50 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Dec 26 2023 02:19:07 GMT+0000 (Coordinated Universal Time)**
