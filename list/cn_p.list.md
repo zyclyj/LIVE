@@ -15,29 +15,29 @@
 | 9 | [SD]厦门卫视 | [SD 厦门卫视](https://epg.pw/stream/323e6ce17313134e899100bd11b4029fdc609e7539e22465f60470841b30fae0.ctv) |
 | 10 | [BD]广东卫视 | [BD 广东卫视](https://epg.pw/stream/79202aa439fc4fb94a8304f8608737f7cff1626f2b42aa6d5552ecfc2bcacbaf.m3u8) |
 | 11 | [BD]广西卫视 | [BD 广西卫视](https://epg.pw/stream/3899ee96bfc51a8e53baa9d48c86b9b9a52907112fffcb33e94df2c05cc02d3c.m3u8) |
-| 12 | [VGA]新疆卫视 | [VGA 新疆卫视](https://epg.pw/stream/369d82e2913254f5a712ca6bcb0931176462d5a46be06f9771cdcf93f7f35cdb.m3u8) |
+| 12 | [SD]新疆卫视 | [SD 新疆卫视](https://epg.pw/stream/369d82e2913254f5a712ca6bcb0931176462d5a46be06f9771cdcf93f7f35cdb.m3u8) |
 | 13 | [BD]旅游卫视[ipv6] | [BD 旅游卫视 ipv6](https://epg.pw/stream/0a7895ab7d245925f9fe1bdcb3714e269b6ce032323f8acc84b36071893c0d78.m3u8) |
 | 14 | [BD]东南卫视[ipv6] | [BD 东南卫视 ipv6](https://epg.pw/stream/d3a633f9603e282ecb78c53b3220a5cc6d4ae302a789711407a0794bc0c79c00.m3u8) |
 | 15 | [BD]东方卫视[ipv6] | [BD 东方卫视 ipv6](https://epg.pw/stream/96fb4677915219a69c151563855a231f0b7d6e7392e403e66e40af920843cb68.m3u8) |
 | 16 | [BD]江苏卫视[ipv6] | [BD 江苏卫视 ipv6](https://epg.pw/stream/e61d0b2ff70a89a4a13d126f4fa6bba8faaaf145a78470643dad104f2b23c889.m3u8) |
 | 17 | [BD]江西卫视 | [BD 江西卫视](https://epg.pw/stream/712a9501771f77767d38d69d884e87056ee0cb44e57bb3f4e75f50d3d0ab05fb.m3u8) |
 | 18 | [BD]河北卫视[ipv6] | [BD 河北卫视 ipv6](https://epg.pw/stream/3d72ae947c8d574411b9d26bc49ef1b6e8c2c5bf3a55c97df0b37f0af5080a99.m3u8) |
-| 19 | [VGA]河南卫视 | [VGA 河南卫视](https://epg.pw/stream/0b83429accbb5e7cabfb97b00c8748a5606237decccf6e738e3da423ff20fc4c.m3u8) |
+| 19 | [SD]河南卫视 | [SD 河南卫视](https://epg.pw/stream/0b83429accbb5e7cabfb97b00c8748a5606237decccf6e738e3da423ff20fc4c.m3u8) |
 | 20 | [BD]浙江6套 (1080p) [not 24/7] | [BD 浙江6套 (1080p)  not 24/7](https://epg.pw/stream/de4faca820b070b86e43c7dd783f307d6bb1ecb818b48a4e4f28971d5c599b48.m3u8) |
 | 21 | [BD]浙江卫视[ipv6] | [BD 浙江卫视 ipv6](https://epg.pw/stream/52e4843605cfcef08b1f545c6196ae40253869e76a0f398e617fe35a0b8e9576.m3u8) |
 | 22 | [BD]海南卫视[ipv6] | [BD 海南卫视 ipv6](https://epg.pw/stream/55e62d831217f1412d58379dd9b23176a814d8d68d681e96be98fdd0d13e8949.m3u8) |
 | 23 | [BD]深圳卫视 | [BD 深圳卫视](https://epg.pw/stream/d379428ff38217ba5212dcd1949647ac1e4382f306b14a380bf60b7b056b4a2b.ctv) |
-| 24 | [VGA]湖北卫视 | [VGA 湖北卫视](https://epg.pw/stream/95a48ba741cb55df727c504cdfd501c65310a9ad60fdcdbb36ad8277d5790f27.m3u8) |
+| 24 | [SD]湖北卫视 | [SD 湖北卫视](https://epg.pw/stream/95a48ba741cb55df727c504cdfd501c65310a9ad60fdcdbb36ad8277d5790f27.m3u8) |
 | 25 | [BD]湖南卫视 | [BD 湖南卫视](https://epg.pw/stream/35f58b83aa3042ef296e79ec8594efae9f0358269693dc7d6259e4da9c576639.ctv) |
 | 26 | [HD]烟台新闻综合 | [HD 烟台新闻综合](https://epg.pw/stream/4fbcd538c44b23d63f3c88bba1e939cee177a31f2e33c6501753192885716b62.m3u8) |
 | 27 | [SD]甘肃卫视 | [SD 甘肃卫视](https://epg.pw/stream/17a47f78e88982a78b06a0f0402a97568f3fb4ef1bac9fa36a1fa82ada29639e.m3u8) |
 | 28 | [SD]西藏卫视 | [SD 西藏卫视](https://epg.pw/stream/cfce8c7266926f66e4c9f1e47e1838772aba6fe9fc594f2b19456351b1f91126.m3u8) |
 | 29 | [BD]贵州卫视[ipv6] | [BD 贵州卫视 ipv6](https://epg.pw/stream/cc54b485fc3912265c9dbb24fe2b6d1ba2b65412d0ff45b904bc4d53ea02bf67.m3u8) |
-| 30 | [SD]辽宁卫视 | [SD 辽宁卫视](https://epg.pw/stream/4fa75925fb00aa051c6819346628eb0cd8bafd14f8231c9166b8a5209111db07.m3u8) |
+| 30 | [VGA]辽宁卫视 | [VGA 辽宁卫视](https://epg.pw/stream/4fa75925fb00aa051c6819346628eb0cd8bafd14f8231c9166b8a5209111db07.m3u8) |
 | 31 | [BD]重庆卫视 | [BD 重庆卫视](https://epg.pw/stream/ab652effca726310b82c8a321edfa861029f896ef612cbed788dd4c907c075aa.m3u8) |
 | 32 | [SD]陕西卫视 | [SD 陕西卫视](https://epg.pw/stream/eb1d7157459fe4c37bbfad23252b85ab628f4e3d14d81aea7b4a014d2658ae41.m3u8) |
 | 33 | [BD]云南卫视[ipv6] | [BD 云南卫视 ipv6](https://epg.pw/stream/368e59cc43274d4c5380dfd940d1f40ee03a4b9cb5b1648b01c42b47f2516d8b.m3u8) |
 | 34 | [SD]青海卫视 | [SD 青海卫视](https://epg.pw/stream/baf5e50a17f574f86c96810d5d2eebbbc3570ca5f5a35d953837040845c89726.m3u8) |
 | 35 | [BD]黑龙江卫视[ipv6] | [BD 黑龙江卫视 ipv6](https://epg.pw/stream/bba30e5caaeffff57cecd7e3145d77937bb135028de2be19ffe2f644858124ca.m3u8) |
 
-Updated at **Wed Dec 27 2023 10:09:42 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Dec 27 2023 12:15:16 GMT+0000 (Coordinated Universal Time)**
