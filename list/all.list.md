@@ -1801,4 +1801,4 @@
 | 1795 | [HD]龙华戏剧 | [HD 龙华戏剧](https://epg.pw/stream/78528078955ce71bc31c6ea13cb093aa3c75c7b715612e1e745af3a7f2c56d8c.m3u8) |
 | 1796 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 
-Updated at **Wed Dec 27 2023 14:08:22 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Dec 27 2023 14:39:50 GMT+0000 (Coordinated Universal Time)**
