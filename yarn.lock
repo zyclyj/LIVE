@@ -170,10 +170,12 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@rollup/wasm-node@^4.9.1", rollup@^4.0.2, "rollup@npm:@rollup/wasm-node":
-  version "4.9.1"
-  resolved "https://registry.npmmirror.com/@rollup/wasm-node/-/wasm-node-4.9.1.tgz#11144d4df1a077a652c6f9723587e8479845d8ab"
-  integrity sha512-awrdTJgcUC0IA5X7Zi2HJlCcdhxaSDZHaBhoNuKt+TgDPdLatbw8GKKcLpqKVEAIOwfajNCQP+taQ/EgM+090A==
+"@rollup/wasm-node@^4.10.0":
+  version "4.10.0"
+  resolved "https://registry.yarnpkg.com/@rollup/wasm-node/-/wasm-node-4.10.0.tgz#dc3957eab92fc98347c80b029348111d4b6855bd"
+  integrity sha512-wH/ih4T/iP2PUyTrkyioZqDoFY/gmu63LPLTOM5Q21gSB/D3Ejw3UBpUOMLt86fIbN3mV+wL45MyA71XAj1ytg==
+  dependencies:
+    "@types/estree" "1.0.5"
   optionalDependencies:
     fsevents "~2.3.2"
 
@@ -213,6 +215,11 @@
     "@types/express" "*"
     "@types/keygrip" "*"
     "@types/node" "*"
+
+"@types/estree@1.0.5":
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/@types/estree/-/estree-1.0.5.tgz#a6ce3e556e00fd9895dd872dd172ad0d4bd687f4"
+  integrity sha512-/kYRxGDLWzHOB7q+wtSUQlFrtcdUccpfy+X+9iMBpHK8QLLhx2wIPYuS5DYtR9Wa/YlZAbIovy7qVdB1Aq6Lyw==
 
 "@types/express-serve-static-core@^4.17.33":
   version "4.17.41"
@@ -1133,6 +1140,13 @@ reusify@^1.0.4:
   version "1.0.4"
   resolved "https://registry.npmmirror.com/reusify/-/reusify-1.0.4.tgz#90da382b1e126efc02146e90845a88db12925d76"
   integrity sha512-U9nH88a3fc/ekCF1l0/UP1IosiuIjyTh7hBvXVMHYgVcfGvt897Xguj2UOLDeI5BG2m7/uwyaLVT6fbtCwTyzw==
+
+rollup@^4.0.2, "rollup@npm:@rollup/wasm-node":
+  version "4.9.1"
+  resolved "https://registry.npmmirror.com/@rollup/wasm-node/-/wasm-node-4.9.1.tgz#11144d4df1a077a652c6f9723587e8479845d8ab"
+  integrity sha512-awrdTJgcUC0IA5X7Zi2HJlCcdhxaSDZHaBhoNuKt+TgDPdLatbw8GKKcLpqKVEAIOwfajNCQP+taQ/EgM+090A==
+  optionalDependencies:
+    fsevents "~2.3.2"
 
 run-parallel@^1.1.9:
   version "1.2.0"
