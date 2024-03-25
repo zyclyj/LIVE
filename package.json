@@ -25,7 +25,7 @@
     "@types/node": "^20.10.5",
     "@types/opencc-js": "^1.0.3",
     "tsup": "^8.0.1",
-    "typescript": "^5.3.3"
+    "typescript": "^5.4.3"
   },
   "dependencies": {
     "koa": "^2.14.2",
